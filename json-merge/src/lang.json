@@ -1,0 +1,113 @@
+{
+  "zh": {
+    "mostSupport": "最多支持片段数：",
+    "clickMeAdd": "点击上传或拖动文件到该位置",
+    "parseError": "文件解析失败",
+    "yamlParseError": "YAML 解析失败",
+    "jsonoParseError": "JSON 解析失败",
+    "copy": "复制",
+    "copySuccess": "复制成功",
+    "add": "添加"
+  },
+  "en": {
+    "mostSupport": "The maximum number of fragments supported: ",
+    "clickMeAdd": "Click me or drag yaml file to me",
+    "parseError": "File Parse Error",
+    "yamlParseError": "YAML Parse Error",
+    "jsonoParseError": "JSON Parse Error",
+    "copy": "Copy",
+    "copySuccess": "Copy Success",
+    "add": "Add"
+  },
+  "de": {
+    "mostSupport": "Die meisten Fragmente:",
+    "clickMeAdd": "Klicken Sie hier",
+    "parseError": "Die Dateianalyse ist fehlgeschlagen",
+    "yamlParseError": "YAML-Dateianalyse ist fehlgeschlagen",
+    "jsonoParseError": "JSON-Dateianalyse ist fehlgeschlagen",
+    "copy": "Kopieren",
+    "copySuccess": "Kopieren erfolgreich",
+    "add": "Hinzufügen"
+  },
+  "es": {
+    "mostSupport": "La mayor parte del número de fragmentos:",
+    "clickMeAdd": "Haga clic para cargar o arrastre el archivo a la ubicación",
+    "parseError": "El análisis de archivos falló",
+    "yamlParseError": "El análisis de archivos YAML falló",
+    "jsonoParseError": "El análisis de archivos JSON falló",
+    "copy": "Copiar",
+    "copySuccess": "Copiar éxito",
+    "add": "Añadir"
+  },
+  "fr": {
+    "mostSupport": "La plupart du nombre de fragments:",
+    "clickMeAdd": "Cliquez pour télécharger ou faire glisser le fichier vers l'emplacement",
+    "parseError": "L'analyse des fichiers a échoué",
+    "yamlParseError": "L'analyse des fichiers YAML a échoué",
+    "jsonoParseError": "L'analyse des fichiers JSON a échoué",
+    "copy": "Copier",
+    "copySuccess": "Copier succès",
+    "add": "Ajouter"
+  },
+  "it": {
+    "mostSupport": "La maggior parte del numero di frammenti:",
+    "clickMeAdd": "Fare clic per caricare o trascinare il file nella posizione",
+    "parseError": "Analisi del file non riuscita",
+    "yamlParseError": "Analisi del file YAML non riuscita",
+    "jsonoParseError": "Analisi del file JSON non riuscita",
+    "copy": "Copia",
+    "copySuccess": "Copia riuscita",
+    "add": "Aggiungi"
+  },
+  "ja": {
+    "mostSupport": "フラグメントの数のほとんど：",
+    "clickMeAdd": "クリックして、ファイルを場所にアップロードまたはドラッグします",
+    "parseError": "ファイル分析に失敗しました",
+    "yamlParseError": "YAML ファイル分析に失敗しました",
+    "jsonoParseError": "JSON ファイル分析に失敗しました",
+    "copy": "コピー",
+    "copySuccess": "コピー成功",
+    "add": "追加"
+  },
+  "ko": {
+    "mostSupport": "대부분의 조각 수 :",
+    "clickMeAdd": "위치로 파일을 업로드하거나 드래그하려면 클릭하십시오",
+    "parseError": "파일 분석이 실패했습니다",
+    "yamlParseError": "YAML 파일 분석이 실패했습니다",
+    "jsonoParseError": "JSON 파일 분석이 실패했습니다",
+    "copy": "복사",
+    "copySuccess": "복사 성공",
+    "add": "추가"
+  },
+  "pt": {
+    "mostSupport": "A maior parte do número de fragmentos:",
+    "clickMeAdd": "Clique para fazer upload ou arrastar o arquivo para o local",
+    "parseError": "A análise de arquivo falhou",
+    "yamlParseError": "A análise de arquivo YAML falhou",
+    "jsonoParseError": "A análise de arquivo JSON falhou",
+    "copy": "Copiar",
+    "copySuccess": "Copiar sucesso",
+    "add": "Adicionar"
+  },
+  "ru": {
+    "mostSupport": "Большинство количества фрагментов:",
+    "clickMeAdd": "Нажмите, чтобы загрузить или перетащить файл в местоположение",
+    "parseError": "Анализ файлов не удался",
+    "yamlParseError": "Анализ файлов YAML не удался",
+    "jsonoParseError": "Анализ файлов JSON не удался",
+    "copy": "Копировать",
+    "copySuccess": "Копирование успешно",
+    "add": "Добавить"
+  },
+  "zh-tw": {
+    "mostSupport": "最多支持片段數：",
+    "clickMeAdd": "點擊上傳或拖動文件到該位置",
+    "parseError": "文件解析失敗",
+    "yamlParseError": "YAML 解析失敗",
+    "jsonoParseError": "JSON 解析失敗",
+    "copy": "複製",
+    "copySuccess": "複製成功",
+    "add": "添加",
+    "copyError": "複製失敗"
+  }
+}

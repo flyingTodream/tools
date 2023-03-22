@@ -1,0 +1,123 @@
+{
+  "zh": {
+    "validInputError": "请输入有效的 IP 地址",
+    "result": {
+      "city": "城市",
+      "country": "国家/地区",
+      "longitudeAndLatitude": "经纬度",
+      "timeZone": "时区",
+      "callingCode": "国际电话区号"
+    },
+    "query": "查询"
+  },
+  "en": {
+    "validInputError": "Please enter a valid  IP address",
+    "result": {
+      "city": "City",
+      "country": "Country/Region",
+      "longitudeAndLatitude": "Longitude and latitude",
+      "timeZone": "Time zone",
+      "callingCode": "Calling code"
+    },
+    "query": "Query"
+  },
+  "de": {
+    "validInputError": "Bitte geben Sie die gültige IP -Adresse ein",
+    "result": {
+      "city": "Stadt",
+      "country": "Land / Region",
+      "longitudeAndLatitude": "Länge und Länge",
+      "timeZone": "Zeitzone",
+      "callingCode": "Internationaler Telefonbereich"
+    },
+    "query": "Anfragen"
+  },
+  "es": {
+    "validInputError": "Ingrese la dirección IP válida",
+    "result": {
+      "city": "Ciudad",
+      "country": "país / región",
+      "longitudeAndLatitude": "Longitud y longitud",
+      "timeZone": "Zona horaria",
+      "callingCode": "Área telefónica internacional"
+    },
+    "query": "Preguntar"
+  },
+  "fr": {
+    "validInputError": "Veuillez saisir l'adresse IP valide",
+    "result": {
+      "city": "Ville",
+      "country": "pays / région",
+      "longitudeAndLatitude": "Longitude et longitude",
+      "timeZone": "Fuseau horaire",
+      "callingCode": "Zone téléphonique internationale"
+    },
+    "query": "Renseigner"
+  },
+  "it": {
+    "validInputError": "Immettere l'indirizzo IP valido",
+    "result": {
+      "city": "Città",
+      "country": "paese / regione",
+      "longitudeAndLatitude": "Longitudine e longitudine",
+      "timeZone": "Fuso orario",
+      "callingCode": "Area telefonica internazionale"
+    },
+    "query": "Chiedere informazioni"
+  },
+  "ja": {
+    "validInputError": "有効なIPアドレスを入力してください",
+    "result": {
+      "city": "街",
+      "country": "国 /地域",
+      "longitudeAndLatitude": "経度と経度",
+      "timeZone": "タイムゾーン",
+      "callingCode": "国際電話エリア"
+    },
+    "query": "お問い合わせください"
+  },
+  "ko": {
+    "validInputError": "유효한 IP 주소를 입력하십시오",
+    "result": {
+      "city": "도시",
+      "country": "국가 / 지역",
+      "longitudeAndLatitude": "경도와 경도",
+      "timeZone": "시간대",
+      "callingCode": "국제 전화 지역"
+    },
+    "query": "문의"
+  },
+  "pt": {
+    "validInputError": "Por favor, insira o endereço IP válido",
+    "result": {
+      "city": "Cidade",
+      "country": "país / região",
+      "longitudeAndLatitude": "Longitude e longitude",
+      "timeZone": "Fuso horário",
+      "callingCode": "Área telefônica internacional"
+    },
+    "query": "Investigar"
+  },
+  "ru": {
+    "validInputError": "Пожалуйста, введите действительный IP -адрес",
+    "result": {
+      "city": "Город",
+      "country": "Страна / регион",
+      "longitudeAndLatitude": "Долгота и долгота",
+      "timeZone": "Часовой пояс",
+      "callingCode": "Международная телефонная зона"
+    },
+    "query": "Запросить"
+  },
+  "zh-tw": {
+    "validInputError": "請輸入有效的 IP 地址",
+    "result": {
+      "city": "城市",
+      "country": "國家/地區",
+      "longitudeAndLatitude": "經緯度",
+      "timeZone": "時區",
+      "callingCode": "國際電話區號"
+    },
+    "query": "查詢"
+  }
+}

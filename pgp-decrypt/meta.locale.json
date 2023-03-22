@@ -1,0 +1,89 @@
+{
+  "zh": {
+    "$name": "PGP 解密",
+    "$description": "PGP 解密文本",
+    "$keywords": [
+      "解密"
+    ]
+  },
+  "en": {
+    "$name": "PGP Decryption",
+    "$description": "PGP Decrypt text contents",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "decrypt",
+      "decryption"
+    ]
+  },
+  "de": {
+    "$name": "PGP -Entschlüsselung",
+    "$description": "PGP Entschlüsselungstext",
+    "$keywords": [
+      "Entschlüsseln"
+    ]
+  },
+  "es": {
+    "$name": "Descifrado de PGP",
+    "$description": "Texto de descifrado de PGP",
+    "$keywords": [
+      "Descifrar"
+    ]
+  },
+  "fr": {
+    "$name": "Décryptage PGP",
+    "$description": "Texte de décryptage PGP",
+    "$keywords": [
+      "Décrypter"
+    ]
+  },
+  "it": {
+    "$name": "Decrittazione PGP",
+    "$description": "Testo di decrittazione PGP",
+    "$keywords": [
+      "Decritto"
+    ]
+  },
+  "ja": {
+    "$name": "PGP復号化",
+    "$description": "PGP復号化テキスト",
+    "$keywords": [
+      "復号化"
+    ]
+  },
+  "ko": {
+    "$name": "PGP 암호 해독",
+    "$description": "PGP 암호 해독 텍스트",
+    "$keywords": [
+      "해독"
+    ]
+  },
+  "pt": {
+    "$name": "Decripção do PGP",
+    "$description": "Texto de descriptografia do PGP",
+    "$keywords": [
+      "Descriptografar"
+    ]
+  },
+  "ru": {
+    "$name": "Decryption PGP",
+    "$description": "PGP Decryption Text",
+    "$keywords": [
+      "Дешифровать"
+    ]
+  },
+  "zh-tw": {
+    "$name": "PGP 解密",
+    "$description": "PGP 解密文本",
+    "$keywords": [
+      "解密"
+    ]
+  },
+  "zh-cn": {
+    "$name": "PGP 解密",
+    "$description": "PGP 解密文本",
+    "$keywords": [
+      "解密"
+    ]
+  }
+}

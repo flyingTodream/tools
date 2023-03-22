@@ -1,0 +1,98 @@
+{
+  "zh": {
+    "$name": "图片大小调整",
+    "$description": "调整图片的大小",
+    "$keywords": [
+      "图片",
+      "调整"
+    ]
+  },
+  "en": {
+    "$name": "Image Resizer",
+    "$description": "resize image",
+    "$keywords": [
+      "image",
+      "resize"
+    ]
+  },
+  "de": {
+    "$name": "Bildgröße Einstellung",
+    "$description": "Passen Sie das Bild an",
+    "$keywords": [
+      "Bild",
+      "Einstellung"
+    ]
+  },
+  "es": {
+    "$name": "Ajuste del tamaño de la imagen",
+    "$description": "Ajuste la imagen",
+    "$keywords": [
+      "imagen",
+      "Ajustamiento"
+    ]
+  },
+  "fr": {
+    "$name": "Réglage de la taille de l'image",
+    "$description": "Ajuster l'image",
+    "$keywords": [
+      "image",
+      "Ajustement"
+    ]
+  },
+  "it": {
+    "$name": "Regolazione delle dimensioni dell'immagine",
+    "$description": "Regola l'immagine",
+    "$keywords": [
+      "immagine",
+      "Regolazione"
+    ]
+  },
+  "ja": {
+    "$name": "画像サイズの調整",
+    "$description": "写真を調整します",
+    "$keywords": [
+      "写真",
+      "調整"
+    ]
+  },
+  "ko": {
+    "$name": "사진 크기 조정",
+    "$description": "그림을 조정하십시오",
+    "$keywords": [
+      "그림",
+      "조정"
+    ]
+  },
+  "pt": {
+    "$name": "Ajuste do tamanho da imagem",
+    "$description": "Ajuste a imagem",
+    "$keywords": [
+      "foto",
+      "Ajustamento"
+    ]
+  },
+  "ru": {
+    "$name": "Регулировка размера изображения",
+    "$description": "Отрегулируйте изображение",
+    "$keywords": [
+      "картина",
+      "Корректирование"
+    ]
+  },
+  "zh-tw": {
+    "$name": "圖片大小調整",
+    "$description": "調整圖片的大小",
+    "$keywords": [
+      "圖片",
+      "調整"
+    ]
+  },
+  "zh-cn": {
+    "$name": "图片大小调整",
+    "$description": "调整图片的大小",
+    "$keywords": [
+      "图片",
+      "调整"
+    ]
+  }
+}

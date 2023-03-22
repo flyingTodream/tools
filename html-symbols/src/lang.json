@@ -1,0 +1,35 @@
+{
+  "zh": {
+    "searchPlaceholder": "请输入要查找的内容"
+  },
+  "en": {
+    "searchPlaceholder": "Please enter what you want to search"
+  },
+  "de": {
+    "searchPlaceholder": "Bitte geben Sie den Inhalt ein, den Sie finden möchten"
+  },
+  "es": {
+    "searchPlaceholder": "Ingrese el contenido que desea encontrar"
+  },
+  "fr": {
+    "searchPlaceholder": "Veuillez saisir le contenu que vous souhaitez trouver"
+  },
+  "it": {
+    "searchPlaceholder": "Inserisci il contenuto che desideri trovare"
+  },
+  "ja": {
+    "searchPlaceholder": "見つけたいコンテンツを入力してください"
+  },
+  "ko": {
+    "searchPlaceholder": "찾을 콘텐츠를 입력하십시오"
+  },
+  "pt": {
+    "searchPlaceholder": "Por favor, insira o conteúdo que deseja encontrar"
+  },
+  "ru": {
+    "searchPlaceholder": "Пожалуйста, введите контент, который вы хотите найти"
+  },
+  "zh-tw": {
+    "searchPlaceholder": "請輸入要查找的內容"
+  }
+}

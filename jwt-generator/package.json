@@ -1,0 +1,42 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish"
+  },
+  "he3": {
+    "name": "JWT Generator",
+    "id": "jwt-generator",
+    "icon": "plus-circle-outlined",
+    "version": "0.0.1",
+    "description": "生成一个 JWT 密钥",
+    "isPublic": true,
+    "category": [
+      "programming"
+    ],
+    "keywords": [
+      "generate",
+      "generator",
+      "jwt",
+      "json",
+      "hs256",
+      "hs384",
+      "hs512",
+      "web",
+      "token",
+      "javascript"
+    ],
+    "repository": "https://github.com/he3-app/tools.git"
+  },
+  "dependencies": {
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

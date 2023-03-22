@@ -1,0 +1,98 @@
+{
+  "zh": {
+    "$name": "SM2加密",
+    "$description": "SM2加密",
+    "$keywords": [
+      "加密",
+      "国密"
+    ]
+  },
+  "en": {
+    "$name": "SM2 Encryption",
+    "$description": "SM2 Encryption",
+    "$keywords": [
+      "sm2",
+      "encryption"
+    ]
+  },
+  "de": {
+    "$name": "SM2 -Verschlüsselung",
+    "$description": "SM2 -Verschlüsselung",
+    "$keywords": [
+      "Verschlüsselung",
+      "Zustandsgeheimnis"
+    ]
+  },
+  "es": {
+    "$name": "Cifrado SM2",
+    "$description": "Cifrado SM2",
+    "$keywords": [
+      "encriptación",
+      "Secreto estatal"
+    ]
+  },
+  "fr": {
+    "$name": "Cryptage SM2",
+    "$description": "Cryptage SM2",
+    "$keywords": [
+      "chiffrement",
+      "Secret de l'État"
+    ]
+  },
+  "it": {
+    "$name": "Crittografia SM2",
+    "$description": "Crittografia SM2",
+    "$keywords": [
+      "crittografia",
+      "Segreto di stato"
+    ]
+  },
+  "ja": {
+    "$name": "SM2暗号化",
+    "$description": "SM2暗号化",
+    "$keywords": [
+      "暗号化",
+      "州の秘密"
+    ]
+  },
+  "ko": {
+    "$name": "SM2 암호화",
+    "$description": "SM2 암호화",
+    "$keywords": [
+      "암호화",
+      "국가 비밀"
+    ]
+  },
+  "pt": {
+    "$name": "Criptografia SM2",
+    "$description": "Criptografia SM2",
+    "$keywords": [
+      "criptografia",
+      "Segredo do estado"
+    ]
+  },
+  "ru": {
+    "$name": "SM2 шифрование",
+    "$description": "SM2 шифрование",
+    "$keywords": [
+      "шифрование",
+      "Государственный секрет"
+    ]
+  },
+  "zh-tw": {
+    "$name": "SM2加密",
+    "$description": "SM2加密",
+    "$keywords": [
+      "加密",
+      "國密"
+    ]
+  },
+  "zh-cn": {
+    "$name": "SM2加密",
+    "$description": "SM2加密",
+    "$keywords": [
+      "加密",
+      "国密"
+    ]
+  }
+}

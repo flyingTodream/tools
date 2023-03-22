@@ -1,0 +1,98 @@
+{
+  "zh": {
+    "$name": "SM4解密",
+    "$description": "SM4解密",
+    "$keywords": [
+      "解密",
+      "国密"
+    ]
+  },
+  "en": {
+    "$name": "SM4 Decryption",
+    "$description": "SM4 Decryption",
+    "$keywords": [
+      "sm4",
+      "decryption"
+    ]
+  },
+  "de": {
+    "$name": "SM4 Entschlüsselung",
+    "$description": "SM4 Entschlüsselung",
+    "$keywords": [
+      "Entschlüsseln",
+      "Zustandsgeheimnis"
+    ]
+  },
+  "es": {
+    "$name": "Descifrado SM4",
+    "$description": "Descifrado SM4",
+    "$keywords": [
+      "Descifrar",
+      "Secreto estatal"
+    ]
+  },
+  "fr": {
+    "$name": "Décryptage SM4",
+    "$description": "Décryptage SM4",
+    "$keywords": [
+      "Décrypter",
+      "Secret de l'État"
+    ]
+  },
+  "it": {
+    "$name": "Decrittazione SM4",
+    "$description": "Decrittazione SM4",
+    "$keywords": [
+      "Decritto",
+      "Segreto di stato"
+    ]
+  },
+  "ja": {
+    "$name": "SM4復号化",
+    "$description": "SM4復号化",
+    "$keywords": [
+      "復号化",
+      "州の秘密"
+    ]
+  },
+  "ko": {
+    "$name": "SM4 암호 해독",
+    "$description": "SM4 암호 해독",
+    "$keywords": [
+      "해독",
+      "국가 비밀"
+    ]
+  },
+  "pt": {
+    "$name": "SM4 Decripção",
+    "$description": "SM4 Decripção",
+    "$keywords": [
+      "Descriptografar",
+      "Segredo do estado"
+    ]
+  },
+  "ru": {
+    "$name": "SM4 Decryption",
+    "$description": "SM4 Decryption",
+    "$keywords": [
+      "Дешифровать",
+      "Государственный секрет"
+    ]
+  },
+  "zh-tw": {
+    "$name": "SM4解密",
+    "$description": "SM4解密",
+    "$keywords": [
+      "解密",
+      "國密"
+    ]
+  },
+  "zh-cn": {
+    "$name": "SM4解密",
+    "$description": "SM4解密",
+    "$keywords": [
+      "解密",
+      "国密"
+    ]
+  }
+}

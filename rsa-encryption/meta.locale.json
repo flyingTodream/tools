@@ -1,0 +1,100 @@
+{
+  "zh": {
+    "$name": "RSA 加密",
+    "$description": "RSA 加密",
+    "$keywords": [
+      "加密",
+      "非对称"
+    ]
+  },
+  "en": {
+    "$name": "RSA encryption",
+    "$description": "RSA encryption",
+    "$keywords": [
+      "RSA",
+      "encryption",
+      "encrypt",
+      "asymmetric"
+    ]
+  },
+  "de": {
+    "$name": "RSA -Verschlüsselung",
+    "$description": "RSA -Verschlüsselung",
+    "$keywords": [
+      "Verschlüsselung",
+      "asymmetrisch"
+    ]
+  },
+  "es": {
+    "$name": "Cifrado RSA",
+    "$description": "Cifrado RSA",
+    "$keywords": [
+      "encriptación",
+      "asimétrico"
+    ]
+  },
+  "fr": {
+    "$name": "Cryptage RSA",
+    "$description": "Cryptage RSA",
+    "$keywords": [
+      "chiffrement",
+      "asymétrique"
+    ]
+  },
+  "it": {
+    "$name": "Crittografia RSA",
+    "$description": "Crittografia RSA",
+    "$keywords": [
+      "crittografia",
+      "asimmetrico"
+    ]
+  },
+  "ja": {
+    "$name": "RSA暗号化",
+    "$description": "RSA暗号化",
+    "$keywords": [
+      "暗号化",
+      "非対称"
+    ]
+  },
+  "ko": {
+    "$name": "RSA 암호화",
+    "$description": "RSA 암호화",
+    "$keywords": [
+      "암호화",
+      "비대칭"
+    ]
+  },
+  "pt": {
+    "$name": "RSA Criptografia",
+    "$description": "RSA Criptografia",
+    "$keywords": [
+      "criptografia",
+      "assimétrico"
+    ]
+  },
+  "ru": {
+    "$name": "RSA шифрование",
+    "$description": "RSA шифрование",
+    "$keywords": [
+      "шифрование",
+      "асимметричный"
+    ]
+  },
+  "zh-tw": {
+    "$name": "RSA 加密",
+    "$description": "RSA 加密",
+    "$keywords": [
+      "加密",
+      "非對稱"
+    ]
+  },
+  "zh-cn": {
+    "$name": "RSA 加密",
+    "$description": "RSA 加密",
+    "$keywords": [
+      "加密",
+      "非对称"
+    ]
+  }
+}

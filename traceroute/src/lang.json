@@ -1,0 +1,57 @@
+{
+  "zh": {
+    "validInputError": "请输入有效的域名或 IP 地址",
+    "linuxWarningMessage": "这个工具目前不支持 Linux 系统",
+    "query": "查询"
+  },
+  "en": {
+    "validInputError": "Please enter a valid domain or IP address",
+    "linuxWarningMessage": "This extension does not currently support Linux",
+    "query": "Query"
+  },
+  "de": {
+    "validInputError": "Bitte geben Sie den gültigen Domänennamen oder die IP -Adresse ein",
+    "linuxWarningMessage": "Dieses Tool unterstützt das Linux -System nicht",
+    "query": "Anfragen"
+  },
+  "es": {
+    "validInputError": "Ingrese el nombre de dominio válido o la dirección IP",
+    "linuxWarningMessage": "Esta herramienta no admite el sistema Linux",
+    "query": "Preguntar"
+  },
+  "fr": {
+    "validInputError": "Veuillez saisir le nom de domaine valide ou l'adresse IP",
+    "linuxWarningMessage": "Cet outil ne prend pas en charge le système Linux",
+    "query": "Renseigner"
+  },
+  "it": {
+    "validInputError": "Immettere il nome di dominio valido o l'indirizzo IP",
+    "linuxWarningMessage": "Questo strumento non supporta il sistema Linux",
+    "query": "Chiedere informazioni"
+  },
+  "ja": {
+    "validInputError": "有効なドメイン名またはIPアドレスを入力してください",
+    "linuxWarningMessage": "このツールはLinuxシステムをサポートしていません",
+    "query": "お問い合わせください"
+  },
+  "ko": {
+    "validInputError": "유효한 도메인 이름 또는 IP 주소를 입력하십시오",
+    "linuxWarningMessage": "이 도구는 Linux 시스템을 지원하지 않습니다",
+    "query": "문의"
+  },
+  "pt": {
+    "validInputError": "Por favor, insira o nome de domínio válido ou o endereço IP",
+    "linuxWarningMessage": "Esta ferramenta não suporta o sistema Linux",
+    "query": "Investigar"
+  },
+  "ru": {
+    "validInputError": "Пожалуйста, введите действительное доменное имя или IP -адрес",
+    "linuxWarningMessage": "Этот инструмент не поддерживает систему Linux",
+    "query": "Запросить"
+  },
+  "zh-tw": {
+    "validInputError": "請輸入有效的域名或 IP 地址",
+    "linuxWarningMessage": "這個工具目前不支持 Linux 系統",
+    "query": "查詢"
+  }
+}

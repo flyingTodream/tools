@@ -1,0 +1,108 @@
+{
+  "zh": {
+    "$name": "DES 解密",
+    "$description": "DES 解密",
+    "$keywords": [
+      "解密",
+      "对称"
+    ]
+  },
+  "en": {
+    "$name": "DES Decryption",
+    "$description": "DES Decryption",
+    "$keywords": [
+      "des",
+      "decryption",
+      "decrypt",
+      "symmetric",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923"
+    ]
+  },
+  "de": {
+    "$name": "Des entschlüsselt",
+    "$description": "Des entschlüsselt",
+    "$keywords": [
+      "Entschlüsseln",
+      "Symmetrie"
+    ]
+  },
+  "es": {
+    "$name": "DES Decryción",
+    "$description": "DES Decryción",
+    "$keywords": [
+      "Descifrar",
+      "simetría"
+    ]
+  },
+  "fr": {
+    "$name": "Décryptage des",
+    "$description": "Décryptage des",
+    "$keywords": [
+      "Décrypter",
+      "symétrie"
+    ]
+  },
+  "it": {
+    "$name": "Des Decryption",
+    "$description": "Des Decryption",
+    "$keywords": [
+      "Decritto",
+      "simmetria"
+    ]
+  },
+  "ja": {
+    "$name": "des Decryption",
+    "$description": "des Decryption",
+    "$keywords": [
+      "復号化",
+      "対称"
+    ]
+  },
+  "ko": {
+    "$name": "des 암호 해독",
+    "$description": "des 암호 해독",
+    "$keywords": [
+      "해독",
+      "대칭"
+    ]
+  },
+  "pt": {
+    "$name": "DES DECRIPTION",
+    "$description": "DES DECRIPTION",
+    "$keywords": [
+      "Descriptografar",
+      "simetria"
+    ]
+  },
+  "ru": {
+    "$name": "DES Decryption",
+    "$description": "DES Decryption",
+    "$keywords": [
+      "Дешифровать",
+      "симметрия"
+    ]
+  },
+  "zh-tw": {
+    "$name": "DES 解密",
+    "$description": "DES 解密",
+    "$keywords": [
+      "解密",
+      "對稱"
+    ]
+  },
+  "zh-cn": {
+    "$name": "DES 解密",
+    "$description": "DES 解密",
+    "$keywords": [
+      "解密",
+      "对称"
+    ]
+  }
+}

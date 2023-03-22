@@ -1,0 +1,112 @@
+{
+    "zh": {
+        "$name": "代码格式美化",
+        "$description": "将代码格式美化为可读性更好的格式",
+        "$keywords": [
+            "代码",
+            "格式化",
+            "美化"
+        ]
+    },
+    "en": {
+        "$name": "Code Formatter",
+        "$description": "Format code into a more readable and pretty format",
+        "$keywords": [
+            "code",
+            "format",
+            "formatter",
+            "prettify",
+            "pretty"
+        ]
+    },
+    "de": {
+        "$name": "Verschönerung des Codeformates",
+        "$description": "Verschönern das Codeformat in ein besseres Format für die Lesbarkeit",
+        "$keywords": [
+            "Code",
+            "Format",
+            "verschönern"
+        ]
+    },
+    "es": {
+        "$name": "Embellecimiento del formato de código",
+        "$description": "Embellecer el formato de código en un mejor formato para la legibilidad",
+        "$keywords": [
+            "Código",
+            "formato",
+            "embellecer"
+        ]
+    },
+    "fr": {
+        "$name": "Embellissement du format de code",
+        "$description": "Embellir le format de code en un meilleur format de lisibilité",
+        "$keywords": [
+            "Code",
+            "format",
+            "embellir"
+        ]
+    },
+    "it": {
+        "$name": "Abbellimento del formato di codice",
+        "$description": "Abbellire il formato del codice in un formato migliore per la leggibilità",
+        "$keywords": [
+            "Codice",
+            "formato",
+            "abbellire"
+        ]
+    },
+    "ja": {
+        "$name": "コード形式の美化",
+        "$description": "読みやすさのためにコード形式をより良い形式に美化する",
+        "$keywords": [
+            "コード",
+            "フォーマット",
+            "美化します"
+        ]
+    },
+    "ko": {
+        "$name": "코드 형식 미화",
+        "$description": "가독성을 위해 더 나은 형식으로 코드 형식을 아름답게합니다.",
+        "$keywords": [
+            "암호",
+            "체재",
+            "멋있게 하다"
+        ]
+    },
+    "pt": {
+        "$name": "Formato de código embelezamento",
+        "$description": "Embeleza o formato do código em um formato melhor para a legibilidade",
+        "$keywords": [
+            "Código",
+            "formatar",
+            "embelezar"
+        ]
+    },
+    "ru": {
+        "$name": "Украшение формата кода",
+        "$description": "Украсить формат кода в лучший формат для читаемости",
+        "$keywords": [
+            "Код",
+            "формат",
+            "украсить"
+        ]
+    },
+    "zh-tw": {
+        "$name": "代碼格式美化",
+        "$description": "將代碼格式美化為可讀性更好的格式",
+        "$keywords": [
+            "代碼",
+            "格式化",
+            "美化"
+        ]
+    },
+    "zh-cn": {
+        "$name": "代码格式美化",
+        "$description": "将代码格式美化为可读性更好的格式",
+        "$keywords": [
+            "代码",
+            "格式化",
+            "美化"
+        ]
+    }
+}

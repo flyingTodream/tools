@@ -1,0 +1,107 @@
+{
+  "en": {
+    "$name": "IDN Encode",
+    "$description": "IDN Encode",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "encode",
+      "domain"
+    ]
+  },
+  "ru": {
+    "$name": "IDN-код",
+    "$description": "IDN-код",
+    "$keywords": [
+      "идн",
+      "пуникод",
+      "кодировать",
+      "домен"
+    ]
+  },
+  "ko": {
+    "$name": "IDN 인코딩",
+    "$description": "IDN 인코딩",
+    "$keywords": [
+      "신분증",
+      "퓨니 코드",
+      "인코딩",
+      "도메인"
+    ]
+  },
+  "ja": {
+    "$name": "IDN エンコード",
+    "$description": "IDN エンコード",
+    "$keywords": [
+      "idn",
+      "ピュニコード",
+      "エンコード",
+      "ドメイン"
+    ]
+  },
+  "es": {
+    "$name": "Codificación de IDN",
+    "$description": "Codificación de IDN",
+    "$keywords": [
+      "identificación",
+      "punycode",
+      "codificar",
+      "dominio"
+    ]
+  },
+  "fr": {
+    "$name": "Encodage IDN",
+    "$description": "Encodage IDN",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "encoder",
+      "domaine"
+    ]
+  },
+  "de": {
+    "$name": "IDN-Codierung",
+    "$description": "IDN-Codierung",
+    "$keywords": [
+      "idn",
+      "Punycode",
+      "kodieren",
+      "Domain"
+    ]
+  },
+  "pt": {
+    "$name": "Código IDN",
+    "$description": "Código IDN",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "codificar",
+      "domínio"
+    ]
+  },
+  "zh-cn": {
+    "$name": "IDN 编码",
+    "$description": "IDN 编码",
+    "$keywords": [
+      "编码",
+      "域名"
+    ]
+  },
+  "zh-tw": {
+    "$name": "IDN 編碼",
+    "$description": "IDN 編碼",
+    "$keywords": [
+      "編碼",
+      "域名"
+    ]
+  },
+  "it": {
+    "$name": "Codifica IDN",
+    "$description": "Codifica IDN",
+    "$keywords": [
+      "punycode",
+      "codificare",
+      "dominio"
+    ]
+  }
+}

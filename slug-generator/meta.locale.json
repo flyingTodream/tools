@@ -1,0 +1,87 @@
+{
+  "zh": {
+    "$name": "Slug 生成器",
+    "$description": "Slug 生成器",
+    "$keywords": [
+      "生成器"
+    ]
+  },
+  "en": {
+    "$name": "Slug Generator",
+    "$description": "Slug Generator",
+    "$keywords": [
+      "slug",
+      "generator"
+    ]
+  },
+  "de": {
+    "$name": "Sluggenerator",
+    "$description": "Sluggenerator",
+    "$keywords": [
+      "Erbauer"
+    ]
+  },
+  "es": {
+    "$name": "Generador de babosas",
+    "$description": "Generador de babosas",
+    "$keywords": [
+      "Constructor"
+    ]
+  },
+  "fr": {
+    "$name": "Générateur de limaces",
+    "$description": "Générateur de limaces",
+    "$keywords": [
+      "Constructeur"
+    ]
+  },
+  "it": {
+    "$name": "Generatore di lumache",
+    "$description": "Generatore di lumache",
+    "$keywords": [
+      "Costruttore"
+    ]
+  },
+  "ja": {
+    "$name": "slug ジェネレーター",
+    "$description": "slugジェネレーター",
+    "$keywords": [
+      "ビルダー"
+    ]
+  },
+  "ko": {
+    "$name": "슬러그 생성기",
+    "$description": "슬러그 생성기",
+    "$keywords": [
+      "빌더"
+    ]
+  },
+  "pt": {
+    "$name": "Gerador de lesma",
+    "$description": "Gerador de lesma",
+    "$keywords": [
+      "Construtor"
+    ]
+  },
+  "ru": {
+    "$name": "Слизняк генератор",
+    "$description": "Слизняк генератор",
+    "$keywords": [
+      "Строитель"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Slug 生成器",
+    "$description": "Slug 生成器",
+    "$keywords": [
+      "生成器"
+    ]
+  },
+  "zh-cn": {
+    "$name": "Slug 生成器",
+    "$description": "Slug 生成器",
+    "$keywords": [
+      "生成器"
+    ]
+  }
+}

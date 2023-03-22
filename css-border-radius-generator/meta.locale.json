@@ -1,0 +1,112 @@
+{
+  "en": {
+    "$name": "CSS Border Radius Generator",
+    "$description": "CSS Border Radius Generator",
+    "$keywords": [
+      "Border",
+      "Radius",
+      "css",
+      "Generator"
+    ]
+  },
+  "de": {
+    "$name": "CSS Border Radius Generator",
+    "$description": "CSS Border Radius Generator",
+    "$keywords": [
+      "Grenze",
+      "Radius",
+      "css",
+      "Generator"
+    ]
+  },
+  "pt": {
+    "$name": "Gerador de raio de borda CSS",
+    "$description": "Gerador de raio de borda CSS",
+    "$keywords": [
+      "Fronteira",
+      "Raio",
+      "CSS",
+      "Gerador"
+    ]
+  },
+  "fr": {
+    "$name": "Générateur de rayon de bordure CSS",
+    "$description": "Générateur de rayon de bordure CSS",
+    "$keywords": [
+      "Frontière",
+      "Rayon",
+      "CSS",
+      "Générateur"
+    ]
+  },
+  "es": {
+    "$name": "Generador de radio de borde CSS",
+    "$description": "Generador de radio de borde CSS",
+    "$keywords": [
+      "Borde",
+      "Radio",
+      "CSS",
+      "Generador"
+    ]
+  },
+  "ru": {
+    "$name": "Генератор радиуса границы CSS",
+    "$description": "Генератор радиуса границы CSS",
+    "$keywords": [
+      "Граница",
+      "Радиус",
+      "css",
+      "Генератор"
+    ]
+  },
+  "it": {
+    "$name": "Generatore di raggio del bordo CSS",
+    "$description": "Generatore di raggio del bordo CSS",
+    "$keywords": [
+      "Confine",
+      "Raggio",
+      "css",
+      "Generatore"
+    ]
+  },
+  "ja": {
+    "$name": "CSS ボーダー半径ジェネレーター",
+    "$description": "CSS ボーダー半径ジェネレーター",
+    "$keywords": [
+      "国境",
+      "半径",
+      "CSS",
+      "発生器"
+    ]
+  },
+  "zh-cn": {
+    "$name": "CSS 边框半径生成器",
+    "$description": "CSS 边框半径生成器",
+    "$keywords": [
+      "边界",
+      "半径",
+      "CSS",
+      "发电机"
+    ]
+  },
+  "zh-tw": {
+    "$name": "CSS 邊框半徑生成器",
+    "$description": "CSS 邊框半徑生成器",
+    "$keywords": [
+      "邊界",
+      "半徑",
+      "CSS",
+      "發電機"
+    ]
+  },
+  "ko": {
+    "$name": "CSS 테두리 반경 생성기",
+    "$description": "CSS 테두리 반경 생성기",
+    "$keywords": [
+      "국경",
+      "반지름",
+      "CSS",
+      "발전기"
+    ]
+  }
+}

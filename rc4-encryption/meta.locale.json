@@ -1,0 +1,100 @@
+{
+  "zh": {
+    "$name": "RC4 加密",
+    "$description": "RC4 加密",
+    "$keywords": [
+      "加密",
+      "对称"
+    ]
+  },
+  "en": {
+    "$name": "RC4 Encryption",
+    "$description": "RC4 Encryption",
+    "$keywords": [
+      "rc4",
+      "encryption",
+      "encrypt",
+      "symmetric"
+    ]
+  },
+  "de": {
+    "$name": "RC4 -Verschlüsselung",
+    "$description": "RC4 -Verschlüsselung",
+    "$keywords": [
+      "Verschlüsselung",
+      "Symmetrie"
+    ]
+  },
+  "es": {
+    "$name": "Cifrado RC4",
+    "$description": "Cifrado RC4",
+    "$keywords": [
+      "encriptación",
+      "simetría"
+    ]
+  },
+  "fr": {
+    "$name": "Cryptage RC4",
+    "$description": "Cryptage RC4",
+    "$keywords": [
+      "chiffrement",
+      "symétrie"
+    ]
+  },
+  "it": {
+    "$name": "Crittografia RC4",
+    "$description": "Crittografia RC4",
+    "$keywords": [
+      "crittografia",
+      "simmetria"
+    ]
+  },
+  "ja": {
+    "$name": "RC4暗号化",
+    "$description": "RC4暗号化",
+    "$keywords": [
+      "暗号化",
+      "対称"
+    ]
+  },
+  "ko": {
+    "$name": "RC4 암호화",
+    "$description": "RC4 암호화",
+    "$keywords": [
+      "암호화",
+      "대칭"
+    ]
+  },
+  "pt": {
+    "$name": "Criptografia RC4",
+    "$description": "Criptografia RC4",
+    "$keywords": [
+      "criptografia",
+      "simetria"
+    ]
+  },
+  "ru": {
+    "$name": "RC4 шифрование",
+    "$description": "RC4 шифрование",
+    "$keywords": [
+      "шифрование",
+      "симметрия"
+    ]
+  },
+  "zh-tw": {
+    "$name": "RC4 加密",
+    "$description": "RC4 加密",
+    "$keywords": [
+      "加密",
+      "對稱"
+    ]
+  },
+  "zh-cn": {
+    "$name": "RC4 加密",
+    "$description": "RC4 加密",
+    "$keywords": [
+      "加密",
+      "对称"
+    ]
+  }
+}

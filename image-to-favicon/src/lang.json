@@ -1,0 +1,79 @@
+{
+  "zh": {
+    "transformICO": "转换为 ICO 文件",
+    "transformICNS": "转换为 ICNS 文件",
+    "square": "正方形",
+    "circle": "圆形",
+    "fillet": "圆角矩形"
+  },
+  "en": {
+    "transformICO": "transform to ICO",
+    "transformICNS": "transform to ICNS",
+    "square": "square",
+    "circle": "circle",
+    "fillet": "fillet"
+  },
+  "de": {
+    "transformICO": "Konvertiert in die ICO -Datei konvertiert",
+    "transformICNS": "Konvertiert in die ICNS -Datei konvertiert",
+    "square": "Quadrat",
+    "circle": "Kreisförmig",
+    "fillet": "Rechteck mit abgerundeten Ecken"
+  },
+  "es": {
+    "transformICO": "Convertido en archivo ICO",
+    "transformICNS": "Convertido en archivo ICNS",
+    "square": "cuadrado",
+    "circle": "Circular",
+    "fillet": "Rectángulo redondeado"
+  },
+  "fr": {
+    "transformICO": "Converti en fichier ICO",
+    "transformICNS": "Converti en fichier ICNS",
+    "square": "carré",
+    "circle": "Circulaire",
+    "fillet": "Rectangle arrondi"
+  },
+  "it": {
+    "transformICO": "Convertito in file ICO",
+    "transformICNS": "Convertito in file ICNS",
+    "square": "piazza",
+    "circle": "Circolare",
+    "fillet": "Rettangolo arrotondato"
+  },
+  "ja": {
+    "transformICO": "ICOファイルに変換されました",
+    "transformICNS": "ICNSファイルに変換されました",
+    "square": "四角",
+    "circle": "円形",
+    "fillet": "丸い長方形"
+  },
+  "ko": {
+    "transformICO": "ICO 파일로 변환되었습니다",
+    "transformICNS": "ICNS 파일로 변환되었습니다",
+    "square": "정사각형",
+    "circle": "회보",
+    "fillet": "둥근 사각형"
+  },
+  "pt": {
+    "transformICO": "Convertido em arquivo ico",
+    "transformICNS": "Convertido em arquivo ICNS",
+    "square": "quadrado",
+    "circle": "Circular",
+    "fillet": "Retângulo arredondado"
+  },
+  "ru": {
+    "transformICO": "Преобразован в файл ICO",
+    "transformICNS": "Преобразован в файл ICNS",
+    "square": "квадрат",
+    "circle": "Циркуляр",
+    "fillet": "Прямоугольник с закругленными углами"
+  },
+  "zh-tw": {
+    "transformICO": "轉換為 ICO 文件",
+    "transformICNS": "轉換為 ICNS 文件",
+    "square": "正方形",
+    "circle": "圓形",
+    "fillet": "圓角矩形"
+  }
+}

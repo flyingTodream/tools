@@ -1,0 +1,111 @@
+{
+  "zh": {
+    "$name": "AES 解密",
+    "$description": "AES 解密",
+    "$keywords": [
+      "解密",
+      "对称"
+    ]
+  },
+  "en": {
+    "$name": "AES Decryption",
+    "$description": "AES Decryption",
+    "$keywords": [
+      "aes",
+      "decryption",
+      "decrypt",
+      "symmetric",
+      "256",
+      "192",
+      "128",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923"
+    ]
+  },
+  "de": {
+    "$name": "AES Entschlüsselung",
+    "$description": "AES Entschlüsselung",
+    "$keywords": [
+      "Entschlüsseln",
+      "Symmetrie"
+    ]
+  },
+  "es": {
+    "$name": "Descifrado de AES",
+    "$description": "Descifrado de AES",
+    "$keywords": [
+      "Descifrar",
+      "simetría"
+    ]
+  },
+  "fr": {
+    "$name": "Décription AES",
+    "$description": "Décription AES",
+    "$keywords": [
+      "Décrypter",
+      "symétrie"
+    ]
+  },
+  "it": {
+    "$name": "Decrittazione AES",
+    "$description": "Decrittazione AES",
+    "$keywords": [
+      "Decritto",
+      "simmetria"
+    ]
+  },
+  "ja": {
+    "$name": "AES復号化",
+    "$description": "AES復号化",
+    "$keywords": [
+      "復号化",
+      "対称"
+    ]
+  },
+  "ko": {
+    "$name": "AES 암호 해독",
+    "$description": "AES 암호 해독",
+    "$keywords": [
+      "해독",
+      "대칭"
+    ]
+  },
+  "pt": {
+    "$name": "Aes descriptografia",
+    "$description": "Aes descriptografia",
+    "$keywords": [
+      "Descriptografar",
+      "simetria"
+    ]
+  },
+  "ru": {
+    "$name": "DES Decryption",
+    "$description": "DES Decryption",
+    "$keywords": [
+      "Дешифровать",
+      "симметрия"
+    ]
+  },
+  "zh-tw": {
+    "$name": "AES 解密",
+    "$description": "AES 解密",
+    "$keywords": [
+      "解密",
+      "對稱"
+    ]
+  },
+  "zh-cn": {
+    "$name": "AES 解密",
+    "$description": "AES 解密",
+    "$keywords": [
+      "解密",
+      "对称"
+    ]
+  }
+}

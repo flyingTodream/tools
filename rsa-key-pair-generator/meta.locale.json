@@ -1,0 +1,139 @@
+{
+  "zh": {
+    "$name": "RSA 密钥对生成器",
+    "$description": "生成 RSA 密钥对",
+    "$keywords": [
+      "rsa",
+      "ssh",
+      "密钥",
+      "密钥对",
+      "生成器"
+    ]
+  },
+  "en": {
+    "$name": "RSA Key Pair Generator",
+    "$description": "Generate RSA Key Pairs",
+    "$keywords": [
+      "rsa",
+      "ssh",
+      "key",
+      "pair",
+      "generator",
+      "openssh",
+      "putty",
+      "1024",
+      "2048",
+      "4096"
+    ]
+  },
+  "de": {
+    "$name": "RSA -Schlüsselpaargenerator",
+    "$description": "Generieren Sie das RSA -Schlüsselpaar",
+    "$keywords": [
+      "RSA",
+      "Ssh",
+      "Taste",
+      "Schlüsselpaar",
+      "Erbauer"
+    ]
+  },
+  "es": {
+    "$name": "Generador de pares de claves RSA",
+    "$description": "Generar un par de claves RSA",
+    "$keywords": [
+      "RSA",
+      "Ssh",
+      "Llave",
+      "Par de claves",
+      "Constructor"
+    ]
+  },
+  "fr": {
+    "$name": "Générateur de paires de clés RSA",
+    "$description": "Générer une paire de clés RSA",
+    "$keywords": [
+      "RSA",
+      "Ssh",
+      "Clé",
+      "Paire de clés",
+      "Constructeur"
+    ]
+  },
+  "it": {
+    "$name": "Generatore di coppie di chiavi RSA",
+    "$description": "Genera la coppia di chiavi RSA",
+    "$keywords": [
+      "RSA",
+      "Ssh",
+      "Chiave",
+      "Coppia di chiavi",
+      "Costruttore"
+    ]
+  },
+  "ja": {
+    "$name": "RSAキーペアジェネレーター",
+    "$description": "RSAキーペアを生成します",
+    "$keywords": [
+      "RSA",
+      "SSH",
+      "鍵",
+      "キーペア",
+      "ビルダー"
+    ]
+  },
+  "ko": {
+    "$name": "RSA 키 쌍 생성기",
+    "$description": "RSA 키 쌍을 생성하십시오",
+    "$keywords": [
+      "RSA",
+      "SSH",
+      "열쇠",
+      "키 쌍",
+      "빌더"
+    ]
+  },
+  "pt": {
+    "$name": "Gerador de pares de chave rsa",
+    "$description": "Gerar par de chaves RSA",
+    "$keywords": [
+      "RSA",
+      "Ssh",
+      "Chave",
+      "Par de chaves",
+      "Construtor"
+    ]
+  },
+  "ru": {
+    "$name": "RSA Geal Pair Generator",
+    "$description": "Генерировать пару клавиш RSA",
+    "$keywords": [
+      "RSA",
+      "SSH",
+      "Ключ",
+      "Ключевая пара",
+      "Строитель"
+    ]
+  },
+  "zh-tw": {
+    "$name": "RSA 密鑰對生成器",
+    "$description": "生成 RSA 密鑰對",
+    "$keywords": [
+      "rsa",
+      "ssh",
+      "密鑰",
+      "密鑰對",
+      "生成器"
+    ]
+  },
+  "zh-cn": {
+    "$name": "RSA 密钥对生成器",
+    "$description": "生成 RSA 密钥对",
+    "$keywords": [
+      "rsa",
+      "ssh",
+      "密钥",
+      "密钥对",
+      "生成器"
+    ]
+  }
+}

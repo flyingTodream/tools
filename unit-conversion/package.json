@@ -1,0 +1,35 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish"
+  },
+  "he3": {
+    "name": "Unit Conversion",
+    "id": "unit-conversion",
+    "icon": "plus-circle-outlined",
+    "version": "0.0.1",
+    "description": "Conversion Unit",
+    "isPublic": true,
+    "category": [
+      "programming"
+    ],
+    "keywords": [
+      "unit",
+      "conversion"
+    ]
+  },
+  "dependencies": {
+    "bignumber.js": "^9.1.1",
+    "convert-units": "^2.3.4",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

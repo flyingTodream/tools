@@ -1,0 +1,68 @@
+{
+  "zh": {
+    "add": "新增div",
+    "delete": "删除div",
+    "deleteAll": "删除全部div",
+    "getCodeHere": "这里查看代码"
+  },
+  "en": {
+    "add": "Add div",
+    "delete": "Remove div",
+    "deleteAll": "Remove all div",
+    "getCodeHere": "Get code here"
+  },
+  "de": {
+    "add": "Neue Div",
+    "delete": "Div löschen",
+    "deleteAll": "Alle Divs löschen",
+    "getCodeHere": "Überprüfen Sie den Code hier"
+  },
+  "es": {
+    "add": "Nuevo Div",
+    "delete": "Eliminar div",
+    "deleteAll": "Eliminar todo Div",
+    "getCodeHere": "Revise el código aquí"
+  },
+  "fr": {
+    "add": "Nouveau div",
+    "delete": "Supprimer div",
+    "deleteAll": "Supprimer tous les div",
+    "getCodeHere": "Vérifiez le code ici"
+  },
+  "it": {
+    "add": "Nuovo div",
+    "delete": "Elimina Div",
+    "deleteAll": "Elimina tutto div",
+    "getCodeHere": "Controlla il codice qui"
+  },
+  "ja": {
+    "add": "New Div",
+    "delete": "Divを削除します",
+    "deleteAll": "すべてのdivを削除します",
+    "getCodeHere": "ここでコードを確認してください",
+  },
+  "ko": {
+    "add": "새로운 div",
+    "delete": "div 삭제",
+    "deleteAll": "모든 div 삭제",
+    "getCodeHere": "여기에서 코드를 확인하십시오",
+  },
+  "pt": {
+    "add": "Novo div",
+    "delete": "Excluir div",
+    "deleteAll": "Exclua todos os div",
+    "getCodeHere": "Verifique o código aqui"
+  },
+  "ru": {
+    "add": "Новый див",
+    "delete": "Удалить Div",
+    "deleteAll": "Удалить все div",
+    "getCodeHere": "Проверьте код здесь",
+  },
+  "zh-tw": {
+    "add": "新增div",
+    "delete": "刪除div",
+    "deleteAll": "刪除全部div",
+    "getCodeHere": "這裡查看代碼"
+  }
+}

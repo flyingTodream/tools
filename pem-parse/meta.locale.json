@@ -1,0 +1,112 @@
+{
+  "en": {
+    "$name": "pem-parse",
+    "$description": "Parse PEM",
+    "$keywords": [
+      "PEM",
+      "cert",
+      "parse",
+      "inspect"
+    ]
+  },
+  "ja": {
+    "$name": "ペムパース",
+    "$description": "PEM を解析する",
+    "$keywords": [
+      "PEM",
+      "証明書",
+      "解析する",
+      "検査する"
+    ]
+  },
+  "ko": {
+    "$name": "펨 파스",
+    "$description": "PEM 구문 분석",
+    "$keywords": [
+      "PEM",
+      "인증서",
+      "구문 분석",
+      "검사하다"
+    ]
+  },
+  "pt": {
+    "$name": "pem-parse",
+    "$description": "Analisar PEM",
+    "$keywords": [
+      "PEM",
+      "certificado",
+      "analisar",
+      "inspecionar"
+    ]
+  },
+  "zh-tw": {
+    "$name": "pem 解析",
+    "$description": "解析PEM",
+    "$keywords": [
+      "質子交換膜",
+      "證書",
+      "解析",
+      "檢查"
+    ]
+  },
+  "zh-cn": {
+    "$name": "PEM 解析器",
+    "$description": "解析 PEM",
+    "$keywords": [
+      "PEM",
+      "证书",
+      "解析",
+      "检查"
+    ]
+  },
+  "ru": {
+    "$name": "pem-parse",
+    "$description": "Разобрать PEM",
+    "$keywords": [
+      "ПОМ",
+      "сертификат",
+      "разобрать",
+      "осмотреть"
+    ]
+  },
+  "es": {
+    "$name": "pem-analizar",
+    "$description": "Analizar PEM",
+    "$keywords": [
+      "PEM",
+      "certificado",
+      "analizar gramaticalmente",
+      "inspeccionar"
+    ]
+  },
+  "de": {
+    "$name": "pem-parse",
+    "$description": "Analysieren Sie PEM",
+    "$keywords": [
+      "PEM",
+      "zert",
+      "parsen",
+      "prüfen"
+    ]
+  },
+  "it": {
+    "$name": "pem-analizzare",
+    "$description": "Analizza PEM",
+    "$keywords": [
+      "PEM",
+      "certificato",
+      "analizzare",
+      "ispezionare"
+    ]
+  },
+  "fr": {
+    "$name": "analyse pem",
+    "$description": "Analyser PEM",
+    "$keywords": [
+      "MPE",
+      "certificat",
+      "analyser",
+      "inspecter"
+    ]
+  }
+}

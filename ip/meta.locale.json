@@ -1,0 +1,101 @@
+{
+    "zh": {
+      "$name": "我的 IP 信息",
+      "$description": "获取你的 IP 地址",
+      "$keywords": [
+        "网络信息",
+        "网络"
+      ]
+    },
+    "en": {
+      "$name": "IP Address",
+      "$description": "Get your IP address",
+      "$keywords": [
+        "ip",
+        "local",
+        "public",
+        "ipv4",
+        "ipv6"
+      ]
+    },
+    "de": {
+      "$name": "Meine IP -Informationen",
+      "$description": "Holen Sie sich Ihre IP -Adresse",
+      "$keywords": [
+        "Internetinformationen",
+        "Netzwerk"
+      ]
+    },
+    "es": {
+      "$name": "Mi información de IP",
+      "$description": "Obtenga su dirección IP",
+      "$keywords": [
+        "Información de Internet",
+        "red"
+      ]
+    },
+    "fr": {
+      "$name": "Mes informations IP",
+      "$description": "Obtenez votre adresse IP",
+      "$keywords": [
+        "Information sur Internet",
+        "réseau"
+      ]
+    },
+    "it": {
+      "$name": "Le mie informazioni IP",
+      "$description": "Ottieni il tuo indirizzo IP",
+      "$keywords": [
+        "Informazioni su Internet",
+        "rete"
+      ]
+    },
+    "ja": {
+      "$name": "私のIP情報",
+      "$description": "IPアドレスを取得します",
+      "$keywords": [
+        "インターネット情報",
+        "通信網"
+      ]
+    },
+    "ko": {
+      "$name": "내 IP 정보",
+      "$description": "IP 주소를 얻으십시오",
+      "$keywords": [
+        "인터넷 정보",
+        "회로망"
+      ]
+    },
+    "pt": {
+      "$name": "Minhas informações de IP",
+      "$description": "Obtenha seu endereço IP",
+      "$keywords": [
+        "Informações da Internet",
+        "rede"
+      ]
+    },
+    "ru": {
+      "$name": "Моя информация о IP",
+      "$description": "Получите свой IP -адрес",
+      "$keywords": [
+        "Интернет -информация",
+        "сеть"
+      ]
+    },
+    "zh-tw": {
+      "$name": "我的 IP 信息",
+      "$description": "獲取你的 IP 地址",
+      "$keywords": [
+        "網絡信息",
+        "網絡"
+      ]
+    },
+    "zh-cn": {
+      "$name": "我的 IP 信息",
+      "$description": "获取你的 IP 地址",
+      "$keywords": [
+        "网络信息",
+        "网络"
+      ]
+    }
+  }

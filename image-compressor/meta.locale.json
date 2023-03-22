@@ -1,0 +1,138 @@
+{
+  "zh": {
+    "$name": "图片压缩器",
+    "$description": "对图片进行压缩",
+    "$keywords": [
+      "压缩",
+      "图片",
+      "图像",
+      "照片",
+      "图"
+    ]
+  },
+  "en": {
+    "$name": "Image Compressor",
+    "$description": "Image compression",
+    "$keywords": [
+      "compress",
+      "image",
+      "pic",
+      "picture",
+      "photo",
+      "png",
+      "jpg",
+      "jpeg",
+      "webp"
+    ]
+  },
+  "de": {
+    "$name": "Bildkompression",
+    "$description": "Das Bild komprimieren",
+    "$keywords": [
+      "Kompression",
+      "Bild",
+      "Bild",
+      "Foto",
+      "Bild"
+    ]
+  },
+  "es": {
+    "$name": "Compresión de imagen",
+    "$description": "Comprimir la imagen",
+    "$keywords": [
+      "compresión",
+      "imagen",
+      "imagen",
+      "foto",
+      "imagen"
+    ]
+  },
+  "fr": {
+    "$name": "Compression d'image",
+    "$description": "Comprimer l'image",
+    "$keywords": [
+      "compression",
+      "image",
+      "image",
+      "photo",
+      "image"
+    ]
+  },
+  "it": {
+    "$name": "Compressione dell'immagine",
+    "$description": "Comprimere l'immagine",
+    "$keywords": [
+      "compressione",
+      "immagine",
+      "Immagine",
+      "foto",
+      "immagine"
+    ]
+  },
+  "ja": {
+    "$name": "画像圧縮",
+    "$description": "写真を圧縮します",
+    "$keywords": [
+      "圧縮",
+      "写真",
+      "画像",
+      "写真",
+      "写真"
+    ]
+  },
+  "ko": {
+    "$name": "이미지 압축",
+    "$description": "그림을 압축하십시오",
+    "$keywords": [
+      "압축",
+      "그림",
+      "영상",
+      "사진",
+      "그림"
+    ]
+  },
+  "pt": {
+    "$name": "Compressão da imagem",
+    "$description": "Compressa a imagem",
+    "$keywords": [
+      "compressão",
+      "foto",
+      "imagem",
+      "foto",
+      "foto"
+    ]
+  },
+  "ru": {
+    "$name": "Сжатие изображения",
+    "$description": "Сжатие изображения",
+    "$keywords": [
+      "сжатие",
+      "картина",
+      "изображение",
+      "Фото",
+      "картина"
+    ]
+  },
+  "zh-tw": {
+    "$name": "圖片壓縮器",
+    "$description": "對圖片進行壓縮",
+    "$keywords": [
+      "壓縮",
+      "圖片",
+      "圖像",
+      "照片",
+      "圖"
+    ]
+  },
+  "zh-cn": {
+    "$name": "图片压缩器",
+    "$description": "对图片进行压缩",
+    "$keywords": [
+      "压缩",
+      "图片",
+      "图像",
+      "照片",
+      "图"
+    ]
+  }
+}

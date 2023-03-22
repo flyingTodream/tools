@@ -1,0 +1,40 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish"
+  },
+  "he3": {
+    "name": "YAML 查看",
+    "id": "yaml-viewer",
+    "icon": "file-outlined",
+    "version": "0.0.1",
+    "description": "View YAML in a more structured way",
+    "isPublic": true,
+    "category": [
+      "yaml"
+    ],
+    "keywords": [
+      "yaml",
+      "yml",
+      "check",
+      "properties",
+      "view"
+    ],
+    "repository": "https://github.com/he3-app/tools.git"
+  },
+  "dependencies": {
+    "jsoneditor": "^9.10.0",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2",
+    "vue-json-viewer": "^3.0.4",
+    "yaml": "^2.2.1"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

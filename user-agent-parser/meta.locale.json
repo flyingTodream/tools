@@ -1,0 +1,90 @@
+{
+    "zh": {
+      "$name": "User Agent 解析器",
+      "$description": "解析 User Agent",
+      "$keywords": [
+        "解析"
+      ]
+    },
+    "en": {
+      "$name": "User Agent Parser",
+      "$description": "Parse User Agent",
+      "$keywords": [
+        "UA",
+        "User",
+        "Agent",
+        "parse",
+        "inspect"
+      ]
+    },
+    "de": {
+      "$name": "User Agent Parser",
+      "$description": "Parse user-agent",
+      "$keywords": [
+        "Analysieren"
+      ]
+    },
+    "es": {
+      "$name": "User Agent Parser",
+      "$description": "Parse user-agent",
+      "$keywords": [
+        "Analizar"
+      ]
+    },
+    "fr": {
+      "$name": "User Agent Parser",
+      "$description": "Parse user-agent",
+      "$keywords": [
+        "Analyser"
+      ]
+    },
+    "it": {
+      "$name": "User Agent Parser",
+      "$description": "Parse user-agent",
+      "$keywords": [
+        "Analizzare"
+      ]
+    },
+    "ja": {
+      "$name": "User Agent Parser",
+      "$description": "Parse user-agent",
+      "$keywords": [
+        "分析します"
+      ]
+    },
+    "ko": {
+      "$name": "User Agent Parser",
+      "$description": "Parse user-agent",
+      "$keywords": [
+        "분석"
+      ]
+    },
+    "pt": {
+      "$name": "User Agent Parser",
+      "$description": "Parse user-agent",
+      "$keywords": [
+        "Analisar"
+      ]
+    },
+    "ru": {
+      "$name": "User Agent Parser",
+      "$description": "Parse user-agent",
+      "$keywords": [
+        "Анализировать"
+      ]
+    },
+    "zh-tw": {
+      "$name": "User Agent 解析器",
+      "$description": "解析 User Agent",
+      "$keywords": [
+        "解析"
+      ]
+    },
+    "zh-cn": {
+      "$name": "User Agent 解析器",
+      "$description": "解析 User Agent",
+      "$keywords": [
+        "解析"
+      ]
+    }
+  }

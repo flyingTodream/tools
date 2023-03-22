@@ -1,0 +1,110 @@
+{
+  "zh": {
+    "$name": "TripleDES 解密",
+    "$description": "TripleDES 解密",
+    "$keywords": [
+      "解密",
+      "对称"
+    ]
+  },
+  "en": {
+    "$name": "TripleDES Decryption",
+    "$description": "TripleDES Decryption",
+    "$keywords": [
+      "TripleDES",
+      "3des",
+      "des3",
+      "decryption",
+      "decrypt",
+      "symmetric",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923"
+    ]
+  },
+  "de": {
+    "$name": "TripleDES Decryption",
+    "$description": "TripleDES decryption",
+    "$keywords": [
+      "Entschlüsseln",
+      "Symmetrie"
+    ]
+  },
+  "es": {
+    "$name": "TripleDES Decryption",
+    "$description": "TripleDES decryption",
+    "$keywords": [
+      "Descifrar",
+      "simetría"
+    ]
+  },
+  "fr": {
+    "$name": "TripleDES Decryption",
+    "$description": "TripleDES decryption",
+    "$keywords": [
+      "Décrypter",
+      "symétrie"
+    ]
+  },
+  "it": {
+    "$name": "TripleDES Decryption",
+    "$description": "TripleDES decryption",
+    "$keywords": [
+      "Decritto",
+      "simmetria"
+    ]
+  },
+  "ja": {
+    "$name": "TripleDES Decryption",
+    "$description": "TripleDES decryption",
+    "$keywords": [
+      "復号化",
+      "対称"
+    ]
+  },
+  "ko": {
+    "$name": "TripleDES Decryption",
+    "$description": "TripleDES decryption",
+    "$keywords": [
+      "해독",
+      "대칭"
+    ]
+  },
+  "pt": {
+    "$name": "TripleDES Decryption",
+    "$description": "TripleDES decryption",
+    "$keywords": [
+      "Descriptografar",
+      "simetria"
+    ]
+  },
+  "ru": {
+    "$name": "TripleDES Decryption",
+    "$description": "TripleDES decryption",
+    "$keywords": [
+      "Дешифровать",
+      "симметрия"
+    ]
+  },
+  "zh-tw": {
+    "$name": "TripleDES 解密",
+    "$description": "TripleDES 解密",
+    "$keywords": [
+      "解密",
+      "對稱"
+    ]
+  },
+  "zh-cn": {
+    "$name": "TripleDES 解密",
+    "$description": "TripleDES 解密",
+    "$keywords": [
+      "解密",
+      "对称"
+    ]
+  }
+}

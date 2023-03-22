@@ -1,0 +1,113 @@
+{
+    "zh": {
+      "$name": "CSS 文本阴影生成器",
+      "$description": "预览和生成 CSS 文本阴影",
+      "$keywords": [
+        "样式",
+        "预览",
+        "生成"
+      ]
+    },
+    "en": {
+      "$name": "CSS Text Shadow Generator",
+      "$description": "Preview and generate CSS text shadow",
+      "$keywords": [
+        "shadow",
+        "text",
+        "css",
+        "css3",
+        "generate",
+        "preview"
+      ]
+    },
+    "de": {
+      "$name": "CSS -Textschattengenerator",
+      "$description": "Vorschau und Generierung von CSS -Textschatten",
+      "$keywords": [
+        "Stil",
+        "Vorschau",
+        "generieren"
+      ]
+    },
+    "es": {
+      "$name": "Generador de sombras de texto CSS",
+      "$description": "Vista previa y generar la sombra de texto CSS",
+      "$keywords": [
+        "estilo",
+        "Avance",
+        "generar"
+      ]
+    },
+    "fr": {
+      "$name": "Générateur d'ombres de texte CSS",
+      "$description": "Aperçu et générer l'ombre de texte CSS",
+      "$keywords": [
+        "style",
+        "Aperçu",
+        "générer"
+      ]
+    },
+    "it": {
+      "$name": "CSS Testo Generatore ombra",
+      "$description": "Anteprima e generare ombre di testo CSS",
+      "$keywords": [
+        "stile",
+        "Anteprima",
+        "creare"
+      ]
+    },
+    "ja": {
+      "$name": "CSSテキストシャドウジェネレーター",
+      "$description": "CSSテキストシャドウをプレビューして生成します",
+      "$keywords": [
+        "スタイル",
+        "プレビュー",
+        "生成"
+      ]
+    },
+    "ko": {
+      "$name": "CSS 텍스트 그림자 생성기",
+      "$description": "CSS 텍스트 섀도우를 미리보고 생성합니다",
+      "$keywords": [
+        "스타일",
+        "시사",
+        "생성하다"
+      ]
+    },
+    "pt": {
+      "$name": "CSS Text Shadow Generator",
+      "$description": "Visualizar e gerar sombra de texto CSS",
+      "$keywords": [
+        "estilo",
+        "Visualização",
+        "gerar"
+      ]
+    },
+    "ru": {
+      "$name": "CSS Текст генератор тени",
+      "$description": "Предварительный просмотр и генерируйте тень текста CSS",
+      "$keywords": [
+        "стиль",
+        "Предварительный просмотр",
+        "генерировать"
+      ]
+    },
+    "zh-tw": {
+      "$name": "CSS 文本陰影生成器",
+      "$description": "預覽和生成 CSS 文本陰影",
+      "$keywords": [
+        "樣式",
+        "預覽",
+        "生成"
+      ]
+    },
+    "zh-cn": {
+      "$name": "CSS 文本阴影生成器",
+      "$description": "预览和生成 CSS 文本阴影",
+      "$keywords": [
+        "样式",
+        "预览",
+        "生成"
+      ]
+    }
+  }

@@ -1,0 +1,101 @@
+{
+    "zh": {
+      "$name": "Base64 编码文件",
+      "$description": "Base64 编码文件",
+      "$keywords": [
+        "编码",
+        "文件"
+      ]
+    },
+    "en": {
+      "$name": "Encode File to Base64",
+      "$description": "Encode File to Base64",
+      "$keywords": [
+        "base64",
+        "encode",
+        "file",
+        "base",
+        "64"
+      ]
+    },
+    "de": {
+      "$name": "Base64 Codierungsdatei",
+      "$description": "Base64 Codierungsdatei",
+      "$keywords": [
+        "Codierung",
+        "dokumentieren"
+      ]
+    },
+    "es": {
+      "$name": "Archivo de codificación base64",
+      "$description": "Archivo de codificación base64",
+      "$keywords": [
+        "codificación",
+        "documento"
+      ]
+    },
+    "fr": {
+      "$name": "Fichier d'encodage de base64",
+      "$description": "Fichier d'encodage de base64",
+      "$keywords": [
+        "codage",
+        "document"
+      ]
+    },
+    "it": {
+      "$name": "File di codifica Base64",
+      "$description": "File di codifica Base64",
+      "$keywords": [
+        "Coding",
+        "documento"
+      ]
+    },
+    "ja": {
+      "$name": "base64エンコードファイル",
+      "$description": "base64エンコードファイル",
+      "$keywords": [
+        "コーディング",
+        "書類"
+      ]
+    },
+    "ko": {
+      "$name": "Base64 인코딩 파일",
+      "$description": "Base64 인코딩 파일",
+      "$keywords": [
+        "코딩",
+        "문서"
+      ]
+    },
+    "pt": {
+      "$name": "Base64 Arquivo de codificação",
+      "$description": "Base64 Arquivo de codificação",
+      "$keywords": [
+        "codificação",
+        "documento"
+      ]
+    },
+    "ru": {
+      "$name": "BASE64 Файл кодирования",
+      "$description": "BASE64 Файл кодирования",
+      "$keywords": [
+        "кодирование",
+        "документ"
+      ]
+    },
+    "zh-tw": {
+      "$name": "Base64 編碼文件",
+      "$description": "Base64 編碼文件",
+      "$keywords": [
+        "編碼",
+        "文件"
+      ]
+    },
+    "zh-cn": {
+      "$name": "Base64 编码文件",
+      "$description": "Base64 编码文件",
+      "$keywords": [
+        "编码",
+        "文件"
+      ]
+    }
+  }

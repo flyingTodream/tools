@@ -1,0 +1,98 @@
+{
+  "zh": {
+    "$name": " SM4加密",
+    "$description": "SM4加密",
+    "$keywords": [
+      "加密",
+      "国密"
+    ]
+  },
+  "en": {
+    "$name": "SM4 Encryption",
+    "$description": "SM4 Encryption",
+    "$keywords": [
+      "sm4",
+      "encryption"
+    ]
+  },
+  "de": {
+    "$name": "SM4 -Verschlüsselung",
+    "$description": "SM4 -Verschlüsselung",
+    "$keywords": [
+      "Verschlüsselung",
+      "Zustandsgeheimnis"
+    ]
+  },
+  "es": {
+    "$name": "Cifrado SM4",
+    "$description": "Cifrado SM4",
+    "$keywords": [
+      "encriptación",
+      "Secreto estatal"
+    ]
+  },
+  "fr": {
+    "$name": "Cryptage SM4",
+    "$description": "Cryptage SM4",
+    "$keywords": [
+      "chiffrement",
+      "Secret de l'État"
+    ]
+  },
+  "it": {
+    "$name": "Crittografia SM4",
+    "$description": "Crittografia SM4",
+    "$keywords": [
+      "crittografia",
+      "Segreto di stato"
+    ]
+  },
+  "ja": {
+    "$name": "SM4暗号化",
+    "$description": "SM4暗号化",
+    "$keywords": [
+      "暗号化",
+      "州の秘密"
+    ]
+  },
+  "ko": {
+    "$name": "SM4 암호화",
+    "$description": "SM4 암호화",
+    "$keywords": [
+      "암호화",
+      "국가 비밀"
+    ]
+  },
+  "pt": {
+    "$name": "Criptografia SM4",
+    "$description": "Criptografia SM4",
+    "$keywords": [
+      "criptografia",
+      "Segredo do estado"
+    ]
+  },
+  "ru": {
+    "$name": "SM4 шифрование",
+    "$description": "SM4 шифрование",
+    "$keywords": [
+      "шифрование",
+      "Государственный секрет"
+    ]
+  },
+  "zh-tw": {
+    "$name": "SM4加密",
+    "$description": "SM4加密",
+    "$keywords": [
+      "加密",
+      "國密"
+    ]
+  },
+  "zh-cn": {
+    "$name": " SM4加密",
+    "$description": "SM4加密",
+    "$keywords": [
+      "加密",
+      "国密"
+    ]
+  }
+}

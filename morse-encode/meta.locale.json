@@ -1,0 +1,97 @@
+{
+    "zh": {
+      "$name": "摩斯密码编码",
+      "$description": "摩斯密码编码",
+      "$keywords": [
+        "morse",
+        "encode"
+      ]
+    },
+    "en": {
+      "$name": "morse-encode",
+      "$description": "morse-encode",
+      "$keywords": [
+        "morse-encode"
+      ]
+    },
+    "de": {
+      "$name": "Mosic -Code -Codierung",
+      "$description": "Mosic -Code -Codierung",
+      "$keywords": [
+        "Morse",
+        "Kodieren"
+      ]
+    },
+    "es": {
+      "$name": "Codificación de código MOSIC",
+      "$description": "Codificación de código MOSIC",
+      "$keywords": [
+        "morse",
+        "Codificar"
+      ]
+    },
+    "fr": {
+      "$name": "Codage du code mosic",
+      "$description": "Codage du code mosic",
+      "$keywords": [
+        "Masse",
+        "Encoder"
+      ]
+    },
+    "it": {
+      "$name": "Codifica del codice MOSIC",
+      "$description": "Codifica del codice MOSIC",
+      "$keywords": [
+        "Morse",
+        "Codificare"
+      ]
+    },
+    "ja": {
+      "$name": "MOSICコードエンコーディング",
+      "$description": "MOSICコードエンコーディング",
+      "$keywords": [
+        "モールス",
+        "エンコード"
+      ]
+    },
+    "ko": {
+      "$name": "MOSIC 코드 인코딩",
+      "$description": "MOSIC 코드 인코딩",
+      "$keywords": [
+        "모스",
+        "인코딩"
+      ]
+    },
+    "pt": {
+      "$name": "Codificação de código mosic",
+      "$description": "Codificação de código mosic",
+      "$keywords": [
+        "Morse",
+        "Codificar"
+      ]
+    },
+    "ru": {
+      "$name": "Кодирование мосического кода",
+      "$description": "Кодирование мосического кода",
+      "$keywords": [
+        "Морс",
+        "Кодировать"
+      ]
+    },
+    "zh-tw": {
+      "$name": "摩斯密碼編碼",
+      "$description": "摩斯密碼編碼",
+      "$keywords": [
+        "morse",
+        "encode"
+      ]
+    },
+    "zh-cn": {
+      "$name": "摩斯密码编码",
+      "$description": "摩斯密码编码",
+      "$keywords": [
+        "morse",
+        "encode"
+      ]
+    }
+  }

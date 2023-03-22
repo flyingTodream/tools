@@ -1,0 +1,88 @@
+{
+    "zh": {
+      "$name": "IP 格式化",
+      "$description": "IP 格式化",
+      "$keywords": [
+        "格式化"
+      ]
+    },
+    "en": {
+      "$name": "IP Formatter",
+      "$description": "IP Formatter",
+      "$keywords": [
+        "ip",
+        "formatter",
+        "fmt"
+      ]
+    },
+    "de": {
+      "$name": "IP -Formatisierung",
+      "$description": "IP -Formatisierung",
+      "$keywords": [
+        "Format"
+      ]
+    },
+    "es": {
+      "$name": "Formatización de IP",
+      "$description": "Formatización de IP",
+      "$keywords": [
+        "formato"
+      ]
+    },
+    "fr": {
+      "$name": "Formatisation IP",
+      "$description": "Formatisation IP",
+      "$keywords": [
+        "format"
+      ]
+    },
+    "it": {
+      "$name": "Formatizzazione IP",
+      "$description": "Formatizzazione IP",
+      "$keywords": [
+        "formato"
+      ]
+    },
+    "ja": {
+      "$name": "IP形式",
+      "$description": "IP形式",
+      "$keywords": [
+        "フォーマット"
+      ]
+    },
+    "ko": {
+      "$name": "IP 형식화",
+      "$description": "IP 형식화",
+      "$keywords": [
+        "체재"
+      ]
+    },
+    "pt": {
+      "$name": "Formatização IP",
+      "$description": "Formatização IP",
+      "$keywords": [
+        "formatar"
+      ]
+    },
+    "ru": {
+      "$name": "IP -форматизация",
+      "$description": "IP -форматизация",
+      "$keywords": [
+        "формат"
+      ]
+    },
+    "zh-tw": {
+      "$name": "IP 格式化",
+      "$description": "IP 格式化",
+      "$keywords": [
+        "格式化"
+      ]
+    },
+    "zh-cn": {
+      "$name": "IP 格式化",
+      "$description": "IP 格式化",
+      "$keywords": [
+        "格式化"
+      ]
+    }
+  }

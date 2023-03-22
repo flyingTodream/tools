@@ -1,0 +1,35 @@
+{
+  "zh": {
+    "send": "发送"
+  },
+  "en": {
+    "send": "Send"
+  },
+  "de": {
+    "send": "schicken"
+  },
+  "es": {
+    "send": "enviar"
+  },
+  "fr": {
+    "send": "envoyer"
+  },
+  "it": {
+    "send": "Inviare"
+  },
+  "ja": {
+    "send": "送信"
+  },
+  "ko": {
+    "send": "보내다"
+  },
+  "pt": {
+    "send": "enviar"
+  },
+  "ru": {
+    "send": "отправлять"
+  },
+  "zh-tw": {
+    "send": "發送"
+  }
+}

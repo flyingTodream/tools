@@ -1,0 +1,101 @@
+{
+  "zh": {
+    "clear": "清空",
+    "compressLevel": "请选择压缩等级",
+    "original": "原始总大小",
+    "compressed": "压缩后总大小",
+    "exportImage": "导出",
+    "imageChoose": "请选择一张图片",
+    "imageError": "图片处理异常"
+  },
+  "en": {
+    "clear": "Clear",
+    "compressLevel": "Please Choose Compress Level",
+    "original": "Total Original",
+    "compressed": "Total Compressed",
+    "exportImage": "export",
+    "imageChoose": "Please choose an image",
+    "imageError": "Image processing exception"
+  },
+  "de": {
+    "clear": "Leer",
+    "compressLevel": "Bitte wählen Sie die Komprimierungsstufe aus",
+    "original": "Jungfrau Größe",
+    "compressed": "Gesamtgröße nach Komprimierung",
+    "exportImage": "Export",
+    "imageChoose": "Bitte wählen Sie ein Bild aus",
+    "imageError": "Bildverarbeitung abnormal"
+  },
+  "es": {
+    "clear": "Vacío",
+    "compressLevel": "Seleccione el nivel de compresión",
+    "original": "Tamaño virgen",
+    "compressed": "Tamaño total después de la compresión",
+    "exportImage": "Exportar",
+    "imageChoose": "Seleccione una imagen",
+    "imageError": "Procesamiento de imágenes anormal"
+  },
+  "fr": {
+    "clear": "Vide",
+    "compressLevel": "Veuillez sélectionner le niveau de compression",
+    "original": "Vierge",
+    "compressed": "Taille totale après compression",
+    "exportImage": "Exporter",
+    "imageChoose": "Veuillez sélectionner une image",
+    "imageError": "Traitement d'images anormal"
+  },
+  "it": {
+    "clear": "Vuoto",
+    "compressLevel": "Seleziona il livello di compressione",
+    "original": "Dimensione vergine",
+    "compressed": "Dimensione totale dopo la compressione",
+    "exportImage": "Esportare",
+    "imageChoose": "Seleziona un'immagine",
+    "imageError": "Elaborazione dell'immagine anormale"
+  },
+  "ja": {
+    "clear": "空",
+    "compressLevel": "圧縮レベルを選択してください",
+    "original": "バージンサイズ",
+    "compressed": "圧縮後の合計サイズ",
+    "exportImage": "輸出",
+    "imageChoose": "写真を選択してください",
+    "imageError": "画像処理異常"
+  },
+  "ko": {
+    "clear": "비어 있는",
+    "compressLevel": "압축 수준을 선택하십시오",
+    "original": "처녀 크기",
+    "compressed": "압축 후 총 크기",
+    "exportImage": "내보내다",
+    "imageChoose": "사진을 선택하십시오",
+    "imageError": "그림 처리 비정상"
+  },
+  "pt": {
+    "clear": "Vazio",
+    "compressLevel": "Selecione o nível de compressão",
+    "original": "Tamanho da Virgem",
+    "compressed": "Tamanho total após a compressão",
+    "exportImage": "Exportar",
+    "imageChoose": "Selecione uma foto",
+    "imageError": "Processamento de imagem anormal"
+  },
+  "ru": {
+    "clear": "Пустой",
+    "compressLevel": "Пожалуйста, выберите уровень сжатия",
+    "original": "Девственная размер",
+    "compressed": "Общий размер после сжатия",
+    "exportImage": "Экспорт",
+    "imageChoose": "Пожалуйста, выберите изображение",
+    "imageError": "Обработка изображения ненормальная"
+  },
+  "zh-tw": {
+    "clear": "清空",
+    "compressLevel": "請選擇壓縮等級",
+    "original": "原始總大小",
+    "compressed": "壓縮後總大小",
+    "exportImage": "導出",
+    "imageChoose": "請選擇一張圖片",
+    "imageError": "圖片處理異常"
+  }
+}

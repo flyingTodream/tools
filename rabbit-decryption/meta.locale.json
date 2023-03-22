@@ -1,0 +1,100 @@
+{
+  "zh": {
+    "$name": "Rabbit 解密",
+    "$description": "Rabbit 解密",
+    "$keywords": [
+      "解密",
+      "对称"
+    ]
+  },
+  "en": {
+    "$name": "Rabbit Decryption",
+    "$description": "Rabbit Decryption",
+    "$keywords": [
+      "rabbit",
+      "decryption",
+      "decrypt",
+      "symmetric"
+    ]
+  },
+  "de": {
+    "$name": "Kaninchenentschlüsselung",
+    "$description": "Kaninchenentschlüsselung",
+    "$keywords": [
+      "Entschlüsseln",
+      "Symmetrie"
+    ]
+  },
+  "es": {
+    "$name": "Descifrado de conejo",
+    "$description": "Descifrado de conejo",
+    "$keywords": [
+      "Descifrar",
+      "simetría"
+    ]
+  },
+  "fr": {
+    "$name": "Décryptage de lapin",
+    "$description": "Décryptage de lapin",
+    "$keywords": [
+      "Décrypter",
+      "symétrie"
+    ]
+  },
+  "it": {
+    "$name": "Decrittazione del coniglio",
+    "$description": "Decrittazione del coniglio",
+    "$keywords": [
+      "Decritto",
+      "simmetria"
+    ]
+  },
+  "ja": {
+    "$name": "Rabbitの復号化",
+    "$description": "Rabbitの復号化",
+    "$keywords": [
+      "復号化",
+      "対称"
+    ]
+  },
+  "ko": {
+    "$name": "토끼 암호 해독",
+    "$description": "토끼 암호 해독",
+    "$keywords": [
+      "해독",
+      "대칭"
+    ]
+  },
+  "pt": {
+    "$name": "Decripção de coelho",
+    "$description": "Decripção de coelho",
+    "$keywords": [
+      "Descriptografar",
+      "simetria"
+    ]
+  },
+  "ru": {
+    "$name": "Дешифрование кролика",
+    "$description": "Дешифрование кролика",
+    "$keywords": [
+      "Дешифровать",
+      "симметрия"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Rabbit 解密",
+    "$description": "Rabbit 解密",
+    "$keywords": [
+      "解密",
+      "對稱"
+    ]
+  },
+  "zh-cn": {
+    "$name": "Rabbit 解密",
+    "$description": "Rabbit 解密",
+    "$keywords": [
+      "解密",
+      "对称"
+    ]
+  }
+}

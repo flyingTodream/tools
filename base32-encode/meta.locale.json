@@ -1,0 +1,91 @@
+{
+  "zh": {
+    "$name": "Base32 编码",
+    "$description": "Base32 编码",
+    "$keywords": [
+      "编码"
+    ]
+  },
+  "en": {
+    "$name": "Base32 Encode",
+    "$description": "Base32 Encode",
+    "$keywords": [
+      "encode",
+      "base32",
+      "RFC3548",
+      "RFC4648",
+      "RFC4648-HEX",
+      "Crockford"
+    ]
+  },
+  "de": {
+    "$name": "Base32 Codierung",
+    "$description": "Base32 Codierung",
+    "$keywords": [
+      "Codierung"
+    ]
+  },
+  "es": {
+    "$name": "Base32 codificación",
+    "$description": "Base32 codificación",
+    "$keywords": [
+      "codificación"
+    ]
+  },
+  "fr": {
+    "$name": "Base32 Encodage",
+    "$description": "Base32 Encodage",
+    "$keywords": [
+      "codage"
+    ]
+  },
+  "it": {
+    "$name": "Codifica base32",
+    "$description": "Codifica base32",
+    "$keywords": [
+      "Coding"
+    ]
+  },
+  "ja": {
+    "$name": "base32エンコーディング",
+    "$description": "base32エンコーディング",
+    "$keywords": [
+      "コーディング"
+    ]
+  },
+  "ko": {
+    "$name": "Base32 인코딩",
+    "$description": "Base32 인코딩",
+    "$keywords": [
+      "코딩"
+    ]
+  },
+  "pt": {
+    "$name": "Base32 codificação",
+    "$description": "Base32 codificação",
+    "$keywords": [
+      "codificação"
+    ]
+  },
+  "ru": {
+    "$name": "BASE32 Кодирование",
+    "$description": "BASE32 Кодирование",
+    "$keywords": [
+      "кодирование"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Base32 編碼",
+    "$description": "Base32 編碼",
+    "$keywords": [
+      "編碼"
+    ]
+  },
+  "zh-cn": {
+    "$name": "Base32 编码",
+    "$description": "Base32 编码",
+    "$keywords": [
+      "编码"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "en": {
+    "placeholder": "test1"
+  },
+  "zh": {
+    "placeholder": "测试1"
+  },
+  "zh-tw": {
+    "placeholder": "測試1"
+  },
+  "es": {
+    "placeholder": "prueba1"
+  },
+  "ja": {
+    "placeholder": "テスト1"
+  },
+  "ko": {
+    "placeholder": "테스트1"
+  },
+  "ru": {
+    "placeholder": "тест1"
+  },
+  "de": {
+    "placeholder": "Test1"
+  },
+  "fr": {
+    "placeholder": "test1"
+  },
+  "it": {
+    "placeholder": "test1"
+  },
+  "pt": {
+    "placeholder": "teste1"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "zh": {
+    "$name": "PGP 加密",
+    "$description": "PGP 加密文本",
+    "$keywords": [
+      "加密"
+    ]
+  },
+  "en": {
+    "$name": "PGP Encryption",
+    "$description": "PGP Encrypt text contents",
+    "$keywords": [
+      "GPG",
+      "PGP",
+      "encrypt",
+      "encryption"
+    ]
+  },
+  "de": {
+    "$name": "PGP -Verschlüsselung",
+    "$description": "PGP -Verschlüsselungstext",
+    "$keywords": [
+      "Verschlüsselung"
+    ]
+  },
+  "es": {
+    "$name": "Cifrado PGP",
+    "$description": "Texto de cifrado PGP",
+    "$keywords": [
+      "encriptación"
+    ]
+  },
+  "fr": {
+    "$name": "Cryptage PGP",
+    "$description": "Texte de cryptage PGP",
+    "$keywords": [
+      "chiffrement"
+    ]
+  },
+  "it": {
+    "$name": "Crittografia PGP",
+    "$description": "Testo di crittografia PGP",
+    "$keywords": [
+      "crittografia"
+    ]
+  },
+  "ja": {
+    "$name": "PGP暗号化",
+    "$description": "PGP暗号化テキスト",
+    "$keywords": [
+      "暗号化"
+    ]
+  },
+  "ko": {
+    "$name": "PGP 암호화",
+    "$description": "PGP 암호화 텍스트",
+    "$keywords": [
+      "암호화"
+    ]
+  },
+  "pt": {
+    "$name": "Criptografia PGP",
+    "$description": "Texto de criptografia PGP",
+    "$keywords": [
+      "criptografia"
+    ]
+  },
+  "ru": {
+    "$name": "Шифрование PGP",
+    "$description": "Текст шифрования PGP",
+    "$keywords": [
+      "шифрование"
+    ]
+  },
+  "zh-tw": {
+    "$name": "PGP 加密",
+    "$description": "PGP 加密文本",
+    "$keywords": [
+      "加密"
+    ]
+  },
+  "zh-cn": {
+    "$name": "PGP 加密",
+    "$description": "PGP 加密文本",
+    "$keywords": [
+      "加密"
+    ]
+  }
+}

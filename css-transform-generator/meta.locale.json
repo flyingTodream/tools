@@ -1,0 +1,123 @@
+{
+  "zh-cn": {
+    "$name": "CSS Transform 生成器",
+    "$description": "预览和生成 CSS Transform",
+    "$keywords": [
+      "转换",
+      "CSS",
+      "CSS3",
+      "生成",
+      "预览"
+    ]
+  },
+  "en": {
+    "$name": "CSS Transform Generator",
+    "$description": "Preview and generate CSS transform",
+    "$keywords": [
+      "transform",
+      "css",
+      "css3",
+      "generate",
+      "preview"
+    ]
+  },
+  "zh-tw": {
+    "$name": "CSS Transform 生成器",
+    "$description": "預覽並生成 CSS Transform",
+    "$keywords": [
+      "轉換",
+      "CSS",
+      "CSS3",
+      "生成",
+      "預覽"
+    ]
+  },
+  "fr": {
+    "$name": "Générateur de transformation CSS",
+    "$description": "Prévisualiser et générer une transformation CSS",
+    "$keywords": [
+      "transformer",
+      "CSS",
+      "css3",
+      "générer",
+      "Aperçu"
+    ]
+  },
+  "ko": {
+    "$name": "CSS 변환 생성기",
+    "$description": "CSS 변환 미리보기 및 생성",
+    "$keywords": [
+      "변환",
+      "CSS",
+      "CSS3",
+      "생성하다",
+      "시사"
+    ]
+  },
+  "pt": {
+    "$name": "Gerador de transformação CSS",
+    "$description": "Visualizar e gerar transformação CSS",
+    "$keywords": [
+      "transformar",
+      "CSS",
+      "css3",
+      "gerar",
+      "visualizar"
+    ]
+  },
+  "ru": {
+    "$name": "Генератор CSS-преобразований",
+    "$description": "Предварительный просмотр и создание преобразования CSS",
+    "$keywords": [
+      "трансформировать",
+      "css",
+      "css3",
+      "генерировать",
+      "предварительный просмотр"
+    ]
+  },
+  "ja": {
+    "$name": "CSS 変換ジェネレーター",
+    "$description": "CSS 変換のプレビューと生成",
+    "$keywords": [
+      "変身",
+      "CSS",
+      "css3",
+      "生成",
+      "プレビュー"
+    ]
+  },
+  "es": {
+    "$name": "Generador de transformación CSS",
+    "$description": "Vista previa y generación de transformación CSS",
+    "$keywords": [
+      "transformar",
+      "CSS",
+      "css3",
+      "generar",
+      "avance"
+    ]
+  },
+  "it": {
+    "$name": "Generatore di trasformazioni CSS",
+    "$description": "Visualizza l'anteprima e genera la trasformazione CSS",
+    "$keywords": [
+      "trasformare",
+      "css",
+      "css3",
+      "creare",
+      "anteprima"
+    ]
+  },
+  "de": {
+    "$name": "CSS-Transformationsgenerator",
+    "$description": "Vorschau und CSS-Transformation generieren",
+    "$keywords": [
+      "verwandeln",
+      "css",
+      "css3",
+      "generieren",
+      "Vorschau"
+    ]
+  }
+}

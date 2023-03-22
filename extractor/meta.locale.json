@@ -1,0 +1,98 @@
+{
+    "zh": {
+      "$name": "文本提取器",
+      "$description": "文本提取",
+      "$keywords": [
+        "文本",
+        "提取"
+      ]
+    },
+    "en": {
+      "$name": "Extract text",
+      "$description": "Extract text",
+      "$keywords": [
+        "text",
+        "extract"
+      ]
+    },
+    "de": {
+      "$name": "Textauszug",
+      "$description": "Textextraktion",
+      "$keywords": [
+        "Text",
+        "Extrakt"
+      ]
+    },
+    "es": {
+      "$name": "Extractor de texto",
+      "$description": "Extracción de texto",
+      "$keywords": [
+        "texto",
+        "extracto"
+      ]
+    },
+    "fr": {
+      "$name": "Extracteur de texte",
+      "$description": "Extraction de texte",
+      "$keywords": [
+        "texte",
+        "extrait"
+      ]
+    },
+    "it": {
+      "$name": "Estrattore di testo",
+      "$description": "Estrazione di testo",
+      "$keywords": [
+        "testo",
+        "estratto"
+      ]
+    },
+    "ja": {
+      "$name": "テキスト抽出器",
+      "$description": "テキスト抽出",
+      "$keywords": [
+        "文章",
+        "エキス"
+      ]
+    },
+    "ko": {
+      "$name": "텍스트 추출기",
+      "$description": "텍스트 추출",
+      "$keywords": [
+        "텍스트",
+        "발췌"
+      ]
+    },
+    "pt": {
+      "$name": "Extrator de texto",
+      "$description": "Extração de texto",
+      "$keywords": [
+        "texto",
+        "extrair"
+      ]
+    },
+    "ru": {
+      "$name": "Текстовый экстрактор",
+      "$description": "Текстовое извлечение",
+      "$keywords": [
+        "текст",
+        "извлекать"
+      ]
+    },
+    "zh-tw": {
+      "$name": "文本提取器",
+      "$description": "文本提取",
+      "$keywords": [
+        "文本",
+        "提取"
+      ]
+    },
+    "zh-cn": {
+      "$name": "文本提取器",
+      "$description": "文本提取",
+      "$keywords": [
+        "文本",
+        "提取"
+      ]
+    }
+  }

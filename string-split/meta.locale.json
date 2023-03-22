@@ -1,0 +1,122 @@
+{
+    "zh": {
+      "$name": "文本分隔",
+      "$description": "根据指定符号，实现文本分隔",
+      "$keywords": [
+        "文本",
+        "分隔",
+        "字符串",
+        "数组"
+      ]
+    },
+    "en": {
+      "$name": "String Split",
+      "$description": "Realize text segmentation according to specified symbols",
+      "$keywords": [
+        "string",
+        "split",
+        "text",
+        "array"
+      ]
+    },
+    "de": {
+      "$name": "Texttrennung",
+      "$description": "Gemäß dem angegebenen Symbol ist der Text getrennt",
+      "$keywords": [
+        "Text",
+        "Getrennt",
+        "Saite",
+        "Array"
+      ]
+    },
+    "es": {
+      "$name": "Separación de texto",
+      "$description": "Según el símbolo especificado, el texto está separado",
+      "$keywords": [
+        "texto",
+        "Separado",
+        "Cadena",
+        "Formación"
+      ]
+    },
+    "fr": {
+      "$name": "Séparation de texte",
+      "$description": "Selon le symbole spécifié, le texte est séparé",
+      "$keywords": [
+        "texte",
+        "Séparé",
+        "Chaîne",
+        "Déployer"
+      ]
+    },
+    "it": {
+      "$name": "Separazione del testo",
+      "$description": "Secondo il simbolo specificato, il testo è separato",
+      "$keywords": [
+        "testo",
+        "Separato",
+        "Corda",
+        "Vettore"
+      ]
+    },
+    "ja": {
+      "$name": "テキスト分離",
+      "$description": "指定されたシンボルによると、テキストは分離されています",
+      "$keywords": [
+        "文章",
+        "別",
+        "弦",
+        "配列"
+      ]
+    },
+    "ko": {
+      "$name": "텍스트 분리",
+      "$description": "지정된 기호에 따라 텍스트가 분리됩니다.",
+      "$keywords": [
+        "텍스트",
+        "분리된",
+        "끈",
+        "정렬"
+      ]
+    },
+    "pt": {
+      "$name": "Separação de texto",
+      "$description": "De acordo com o símbolo especificado, o texto é separado",
+      "$keywords": [
+        "texto",
+        "Separado",
+        "Corda",
+        "Variedade"
+      ]
+    },
+    "ru": {
+      "$name": "Текстовое разделение",
+      "$description": "Согласно указанному символу, текст отделен",
+      "$keywords": [
+        "текст",
+        "Отдельный",
+        "Нить",
+        "Множество"
+      ]
+    },
+    "zh-tw": {
+      "$name": "文本分隔",
+      "$description": "根據指定符號，實現文本分隔",
+      "$keywords": [
+        "文本",
+        "分隔",
+        "字符串",
+        "數組"
+      ]
+    },
+    "zh-cn": {
+      "$name": "文本分隔",
+      "$description": "根据指定符号，实现文本分隔",
+      "$keywords": [
+        "文本",
+        "分隔",
+        "字符串",
+        "数组"
+      ]
+    }
+  }

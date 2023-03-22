@@ -1,0 +1,101 @@
+{
+  "zh": {
+    "domain": "域名",
+    "dnsServer": "DNS 服务器",
+    "customDNSServer": "自定义 DNS 服务器",
+    "recordType": "记录类型",
+    "validDomainInputError": "请输入有效的域名",
+    "validDNSServerInputError": "请输入有效的 DNS 服务器",
+    "query": "查询"
+  },
+  "en": {
+    "domain": "Domain",
+    "dnsServer": "DNS Server",
+    "customDNSServer": "Custom DNS Server",
+    "recordType": "Record Type",
+    "validDomainInputError": "Please enter a valid domain name",
+    "validDNSServerInputError": "Please enter a valid DNS server",
+    "query": "Query"
+  },
+  "de": {
+    "domain": "Domain -Name",
+    "dnsServer": "DNS Server",
+    "customDNSServer": "Benutzerdefinierte DNS -Server",
+    "recordType": "Aufnahmetyp",
+    "validDomainInputError": "Bitte geben Sie den gültigen Domänennamen ein",
+    "validDNSServerInputError": "Bitte geben Sie den gültigen DNS -Server ein",
+    "query": "Anfragen"
+  },
+  "es": {
+    "domain": "nombre de dominio",
+    "dnsServer": "servidor DNS",
+    "customDNSServer": "Servidor DNS personalizado",
+    "recordType": "Tipo de registro",
+    "validDomainInputError": "Ingrese el nombre de dominio válido",
+    "validDNSServerInputError": "Ingrese el servidor DNS válido",
+    "query": "Preguntar"
+  },
+  "fr": {
+    "domain": "nom de domaine",
+    "dnsServer": "Serveur dns",
+    "customDNSServer": "Serveur DNS personnalisé",
+    "recordType": "Type d'enregistrement",
+    "validDomainInputError": "Veuillez saisir le nom de domaine valide",
+    "validDNSServerInputError": "Veuillez saisir le serveur DNS valide",
+    "query": "Renseigner"
+  },
+  "it": {
+    "domain": "nome del dominio",
+    "dnsServer": "Server DNS",
+    "customDNSServer": "Server DNS personalizzato",
+    "recordType": "Tipo di registrazione",
+    "validDomainInputError": "Immettere il nome di dominio valido",
+    "validDNSServerInputError": "Immettere il server DNS valido",
+    "query": "Chiedere informazioni"
+  },
+  "ja": {
+    "domain": "ドメイン名",
+    "dnsServer": "DNSサーバー",
+    "customDNSServer": "カスタムDNSサーバー",
+    "recordType": "レコードタイプ",
+    "validDomainInputError": "有効なドメイン名を入力してください",
+    "validDNSServerInputError": "有効なDNSサーバーを入力してください",
+    "query": "お問い合わせください"
+  },
+  "ko": {
+    "domain": "도메인 이름",
+    "dnsServer": "DNS 서버",
+    "customDNSServer": "사용자 정의 DNS 서버",
+    "recordType": "레코드 유형",
+    "validDomainInputError": "유효한 도메인 이름을 입력하십시오",
+    "validDNSServerInputError": "유효한 DNS 서버를 입력하십시오",
+    "query": "문의"
+  },
+  "pt": {
+    "domain": "nome do domínio",
+    "dnsServer": "Servidor dns",
+    "customDNSServer": "Servidor DNS personalizado",
+    "recordType": "Tipo de registro",
+    "validDomainInputError": "Por favor, insira o nome de domínio válido",
+    "validDNSServerInputError": "Digite o servidor DNS válido",
+    "query": "Investigar"
+  },
+  "ru": {
+    "domain": "доменное имя",
+    "dnsServer": "DNS -сервер",
+    "customDNSServer": "Пользовательский DNS -сервер",
+    "recordType": "Тип записи",
+    "validDomainInputError": "Пожалуйста, введите действительное доменное имя",
+    "validDNSServerInputError": "Пожалуйста, введите действительный DNS -сервер",
+    "query": "Запросить"
+  },
+  "zh-tw": {
+    "domain": "域名",
+    "dnsServer": "DNS 服務器",
+    "customDNSServer": "自定義 DNS 服務器",
+    "recordType": "記錄類型",
+    "validDomainInputError": "請輸入有效的域名",
+    "validDNSServerInputError": "請輸入有效的 DNS 服務器",
+    "query": "查詢"
+  }
+}

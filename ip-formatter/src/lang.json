@@ -1,0 +1,112 @@
+{
+  "zh": {
+    "example": "示例",
+    "inputErrorIpAddressMsg": "请输入一个有效的 IP 地址",
+    "standerIpAddress": "标准 IP 地址",
+    "decimalFormat": "十进制格式",
+    "binaryFormat": "二进制格式",
+    "hexadecimalFormat": "十六进制格式",
+    "octalFormat": "八进制格式",
+    "format": "格式化"
+  },
+  "en": {
+    "example": "Example",
+    "inputErrorIpAddressMsg": "Please input a valid IP address",
+    "standerIpAddress": "Standard IP Address",
+    "decimalFormat": "Decimal Format",
+    "binaryFormat": "Binary Format",
+    "hexadecimalFormat": "Hexadecimal Format",
+    "octalFormat": "Octal Format",
+    "format": "Format"
+  },
+  "de": {
+    "example": "Vorbildliches Beispiel",
+    "inputErrorIpAddressMsg": "Bitte geben Sie eine effektive IP -Adresse ein",
+    "standerIpAddress": "Standard -IP -Adresse",
+    "decimalFormat": "Dezimalformat",
+    "binaryFormat": "Sekundärformat",
+    "hexadecimalFormat": "Sechzehn Eintragsformat",
+    "octalFormat": "Achteckiges Format",
+    "format": "Format"
+  },
+  "es": {
+    "example": "Ejemplo ejemplar",
+    "inputErrorIpAddressMsg": "Ingrese una dirección IP efectiva",
+    "standerIpAddress": "Dirección IP estándar",
+    "decimalFormat": "Formato decimal",
+    "binaryFormat": "Formato secundario",
+    "hexadecimalFormat": "Dieciséis formatos de entrada",
+    "octalFormat": "Formato octogonal",
+    "format": "formato"
+  },
+  "fr": {
+    "example": "Exemple exemplaire",
+    "inputErrorIpAddressMsg": "Veuillez saisir une adresse IP efficace",
+    "standerIpAddress": "Adresse IP standard",
+    "decimalFormat": "Format décimal",
+    "binaryFormat": "Format secondaire",
+    "hexadecimalFormat": "Format d'entrée seize",
+    "octalFormat": "Format octogonal",
+    "format": "format"
+  },
+  "it": {
+    "example": "Esempio esemplare",
+    "inputErrorIpAddressMsg": "Immettere un indirizzo IP efficace",
+    "standerIpAddress": "Indirizzo IP standard",
+    "decimalFormat": "Formato decimale",
+    "binaryFormat": "Formato secondario",
+    "hexadecimalFormat": "Sedici formato di iscrizione",
+    "octalFormat": "Formato ottagonale",
+    "format": "formato"
+  },
+  "ja": {
+    "example": "模範的な例",
+    "inputErrorIpAddressMsg": "効果的なIPアドレスを入力してください",
+    "standerIpAddress": "標準のIPアドレス",
+    "decimalFormat": "小数形式",
+    "binaryFormat": "二次形式",
+    "hexadecimalFormat": "16のエントリ形式",
+    "octalFormat": "八角形式",
+    "format": "フォーマット"
+  },
+  "ko": {
+    "example": "모범적 인 예",
+    "inputErrorIpAddressMsg": "효과적인 IP 주소를 입력하십시오",
+    "standerIpAddress": "표준 IP 주소",
+    "decimalFormat": "소수점 형식",
+    "binaryFormat": "보조 형식",
+    "hexadecimalFormat": "16 개의 입력 형식",
+    "octalFormat": "팔각형 형식",
+    "format": "체재"
+  },
+  "pt": {
+    "example": "Exemplo exemplar",
+    "inputErrorIpAddressMsg": "Por favor, insira um endereço IP eficaz",
+    "standerIpAddress": "Endereço IP padrão",
+    "decimalFormat": "Formato decimal",
+    "binaryFormat": "Formato secundário",
+    "hexadecimalFormat": "Dezesseis formatos de entrada",
+    "octalFormat": "Formato octogonal",
+    "format": "formatar"
+  },
+  "ru": {
+    "example": "Примерный пример",
+    "inputErrorIpAddressMsg": "Пожалуйста, введите эффективный IP -адрес",
+    "standerIpAddress": "Стандартный IP -адрес",
+    "decimalFormat": "Десятичный формат",
+    "binaryFormat": "Вторичный формат",
+    "hexadecimalFormat": "Шестнадцать формат входа",
+    "octalFormat": "Восьмиугольный формат",
+    "format": "формат"
+  },
+  "zh-tw": {
+    "example": "示例",
+    "inputErrorIpAddressMsg": "請輸入一個有效的 IP 地址",
+    "standerIpAddress": "標準 IP 地址",
+    "decimalFormat": "十進制格式",
+    "binaryFormat": "二進制格式",
+    "hexadecimalFormat": "十六進制格式",
+    "octalFormat": "八進制格式",
+    "format": "格式化"
+  }
+}

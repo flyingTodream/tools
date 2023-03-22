@@ -1,0 +1,48 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish"
+  },
+  "he3": {
+    "name": "Case Converter",
+    "id": "case-converter",
+    "icon": "field-string-outlined",
+    "version": "0.0.2",
+    "description": "Convert text to: camelCase, PascalCase, snake_case, UPPERCASE, lowercase, kebab-case, dot.case, path/case, text case, Sentence case, Header Case",
+    "isPublic": true,
+    "category": [
+      "text"
+    ],
+    "keywords": [
+      "Upper",
+      "Lower",
+      "camelCase",
+      "PascalCase",
+      "snake_case",
+      "UPPERCASE",
+      "lowercase",
+      "kebab-case",
+      "dot.case",
+      "path/case",
+      "text case",
+      "Sentence case",
+      "Header Case"
+    ],
+    "repository": "https://github.com/he3-app/tools.git"
+  },
+  "dependencies": {
+    "@types/splitpanes": "^2.2.1",
+    "js-convert-case": "^4.2.0",
+    "splitpanes": "^3.1.5",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

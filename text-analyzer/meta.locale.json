@@ -1,0 +1,135 @@
+{
+  "zh": {
+    "$name": "文本分析",
+    "$description": "分析文本内容",
+    "$keywords": [
+      "分析",
+      "统计",
+      "词频",
+      "密度",
+      "文本"
+    ]
+  },
+  "en": {
+    "$name": "Text Analyzer",
+    "$description": "Analyze text content",
+    "$keywords": [
+      "analyze",
+      "statistic",
+      "inspection",
+      "word count",
+      "density",
+      "text"
+    ]
+  },
+  "de": {
+    "$name": "Textanalyse",
+    "$description": "Analyse Textinhalt",
+    "$keywords": [
+      "analysieren",
+      "Statistiken",
+      "Häufige Wörter",
+      "Dichte",
+      "Text"
+    ]
+  },
+  "es": {
+    "$name": "Análisis de texto",
+    "$description": "Análisis de contenido de texto",
+    "$keywords": [
+      "analizar",
+      "Estadísticas",
+      "Palabras frecuentes",
+      "densidad",
+      "texto"
+    ]
+  },
+  "fr": {
+    "$name": "Analyse de texte",
+    "$description": "Contenu du texte d'analyse",
+    "$keywords": [
+      "analyser",
+      "statistiques",
+      "Mots fréquents",
+      "densité",
+      "texte"
+    ]
+  },
+  "it": {
+    "$name": "Analisi del testo",
+    "$description": "Contenuto di testo di analisi",
+    "$keywords": [
+      "analizzare",
+      "statistiche",
+      "Parole frequenti",
+      "densità",
+      "testo"
+    ]
+  },
+  "ja": {
+    "$name": "テキスト分析",
+    "$description": "分析テキストコンテンツ",
+    "$keywords": [
+      "分析します",
+      "統計",
+      "頻繁な言葉",
+      "密度",
+      "文章"
+    ]
+  },
+  "ko": {
+    "$name": "텍스트 분석",
+    "$description": "분석 텍스트 내용",
+    "$keywords": [
+      "분석",
+      "통계",
+      "빈번한 단어",
+      "밀도",
+      "텍스트"
+    ]
+  },
+  "pt": {
+    "$name": "Análise de texto",
+    "$description": "Análise de conteúdo de texto",
+    "$keywords": [
+      "analisar",
+      "Estatisticas",
+      "Palavras frequentes",
+      "densidade",
+      "texto"
+    ]
+  },
+  "ru": {
+    "$name": "Текстовый анализ",
+    "$description": "Анализ текстовый содержимое",
+    "$keywords": [
+      "анализировать",
+      "статистика",
+      "Частые слова",
+      "плотность",
+      "текст"
+    ]
+  },
+  "zh-tw": {
+    "$name": "文本分析",
+    "$description": "分析文本內容",
+    "$keywords": [
+      "分析",
+      "統計",
+      "詞頻",
+      "密度",
+      "文本"
+    ]
+  },
+  "zh-cn": {
+    "$name": "文本分析",
+    "$description": "分析文本内容",
+    "$keywords": [
+      "分析",
+      "统计",
+      "词频",
+      "密度",
+      "文本"
+    ]
+  }
+}

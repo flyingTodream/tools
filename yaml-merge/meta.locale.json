@@ -1,0 +1,88 @@
+{
+  "zh": {
+    "$name": "YAML 合并",
+    "$description": "将多个 YAML 合并为一个",
+    "$keywords": [
+      "合并"
+    ]
+  },
+  "en": {
+    "$name": "YAML Merge",
+    "$description": "Merge multiple YAML into one",
+    "$keywords": [
+      "Merge",
+      "YAML",
+      "YML"
+    ]
+  },
+  "de": {
+    "$name": "Yaml verschmelzen",
+    "$description": "Multiple Yaml in einen verschmelzen",
+    "$keywords": [
+      "verschmelzen"
+    ]
+  },
+  "es": {
+    "$name": "Fusionar yaml",
+    "$description": "Fusionar múltiples yaml en uno",
+    "$keywords": [
+      "unir"
+    ]
+  },
+  "fr": {
+    "$name": "Fusion de Yaml",
+    "$description": "Fusionner plusieurs yaml en un",
+    "$keywords": [
+      "fusionner"
+    ]
+  },
+  "it": {
+    "$name": "Yaml fusione",
+    "$description": "Unisci più yaml in uno",
+    "$keywords": [
+      "unire"
+    ]
+  },
+  "ja": {
+    "$name": "Yamlマージ",
+    "$description": "複数のヤムルを1つにマージします",
+    "$keywords": [
+      "マージ"
+    ]
+  },
+  "ko": {
+    "$name": "YAML 병합",
+    "$description": "여러 YAML을 하나로 병합하십시오",
+    "$keywords": [
+      "병합"
+    ]
+  },
+  "pt": {
+    "$name": "Fusão de iaml",
+    "$description": "Mesclar múltiplas yaml em um",
+    "$keywords": [
+      "mesclar"
+    ]
+  },
+  "ru": {
+    "$name": "Ямл слияние",
+    "$description": "Объединить несколько YAML в один",
+    "$keywords": [
+      "слияние"
+    ]
+  },
+  "zh-tw": {
+    "$name": "YAML 合併",
+    "$description": "將多個 YAML 合併為一個",
+    "$keywords": [
+      "合併"
+    ]
+  },
+  "zh-cn": {
+    "$name": "YAML 合并",
+    "$description": "将多个 YAML 合并为一个",
+    "$keywords": [
+      "合并"
+    ]
+  }
+}

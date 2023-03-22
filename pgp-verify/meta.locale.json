@@ -1,0 +1,89 @@
+{
+    "zh": {
+      "$name": "PGP 验证",
+      "$description": "验证 PGP 签名的文本",
+      "$keywords": [
+        "验证"
+      ]
+    },
+    "en": {
+      "$name": "PGP Verify",
+      "$description": "Verify PGP signed text",
+      "$keywords": [
+        "GPG",
+        "PGP",
+        "verify",
+        "validate"
+      ]
+    },
+    "de": {
+      "$name": "PGP -Überprüfung",
+      "$description": "Überprüfen Sie den Text der PGP -Signatur",
+      "$keywords": [
+        "verifizieren"
+      ]
+    },
+    "es": {
+      "$name": "Verificación PGP",
+      "$description": "Verifique el texto de la firma PGP",
+      "$keywords": [
+        "verificar"
+      ]
+    },
+    "fr": {
+      "$name": "Vérification PGP",
+      "$description": "Vérifiez le texte de la signature PGP",
+      "$keywords": [
+        "vérifier"
+      ]
+    },
+    "it": {
+      "$name": "Verifica PGP",
+      "$description": "Verifica il testo della firma PGP",
+      "$keywords": [
+        "verificare"
+      ]
+    },
+    "ja": {
+      "$name": "PGP検証",
+      "$description": "PGP署名のテキストを確認します",
+      "$keywords": [
+        "確認"
+      ]
+    },
+    "ko": {
+      "$name": "PGP 검증",
+      "$description": "PGP 서명의 텍스트를 확인하십시오",
+      "$keywords": [
+        "확인하다"
+      ]
+    },
+    "pt": {
+      "$name": "Verificação do PGP",
+      "$description": "Verifique o texto da assinatura do PGP",
+      "$keywords": [
+        "verificar"
+      ]
+    },
+    "ru": {
+      "$name": "Проверка PGP",
+      "$description": "Проверьте текст подписи PGP",
+      "$keywords": [
+        "проверять"
+      ]
+    },
+    "zh-tw": {
+      "$name": "PGP 驗證",
+      "$description": "驗證 PGP 簽名的文本",
+      "$keywords": [
+        "驗證"
+      ]
+    },
+    "zh-cn": {
+      "$name": "PGP 验证",
+      "$description": "验证 PGP 签名的文本",
+      "$keywords": [
+        "验证"
+      ]
+    }
+  }

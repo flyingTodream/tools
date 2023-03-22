@@ -1,0 +1,98 @@
+{
+  "zh": {
+    "$name": "单位转换",
+    "$description": "转换单位",
+    "$keywords": [
+      "单位",
+      "转换"
+    ]
+  },
+  "en": {
+    "$name": "Unit Conversion",
+    "$description": "Conversion Unit",
+    "$keywords": [
+      "unit",
+      "conversion"
+    ]
+  },
+  "de": {
+    "$name": "Einheitenumrechnung",
+    "$description": "Konvertierungseinheit",
+    "$keywords": [
+      "Einheit",
+      "Konvertieren"
+    ]
+  },
+  "es": {
+    "$name": "Conversión de unidades",
+    "$description": "Unidad de conversión",
+    "$keywords": [
+      "unidad",
+      "Convertir"
+    ]
+  },
+  "fr": {
+    "$name": "Conversion d'unité",
+    "$description": "Unité de conversion",
+    "$keywords": [
+      "unité",
+      "Convertir"
+    ]
+  },
+  "it": {
+    "$name": "Conversione dell'unità",
+    "$description": "Unità di conversione",
+    "$keywords": [
+      "unità",
+      "Convertire"
+    ]
+  },
+  "ja": {
+    "$name": "ユニット変換",
+    "$description": "変換ユニット",
+    "$keywords": [
+      "ユニット",
+      "変換"
+    ]
+  },
+  "ko": {
+    "$name": "단위 변환",
+    "$description": "전환 장치",
+    "$keywords": [
+      "단위",
+      "전환하다"
+    ]
+  },
+  "pt": {
+    "$name": "Conversão de unidades",
+    "$description": "Unidade de conversão",
+    "$keywords": [
+      "unidade",
+      "Converter"
+    ]
+  },
+  "ru": {
+    "$name": "Конверсия единицы",
+    "$description": "Конверсионный блок",
+    "$keywords": [
+      "единица",
+      "Конвертировать"
+    ]
+  },
+  "zh-tw": {
+    "$name": "單位轉換",
+    "$description": "轉換單位",
+    "$keywords": [
+      "單位",
+      "轉換"
+    ]
+  },
+  "zh-cn": {
+    "$name": "单位转换",
+    "$description": "转换单位",
+    "$keywords": [
+      "单位",
+      "转换"
+    ]
+  }
+}

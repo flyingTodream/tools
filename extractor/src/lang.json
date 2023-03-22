@@ -1,0 +1,112 @@
+{
+  "zh": {
+    "domain": "域名",
+    "mac": "MAC 地址",
+    "email": "邮箱",
+    "ipv4": "IPv4 地址",
+    "ipv6": "IPv6 地址",
+    "date": "日期",
+    "input": "请在此处输入文本:",
+    "output": "输出:"
+  },
+  "en": {
+    "domain": "Domain",
+    "mac": "MAC Address",
+    "email": "Email",
+    "ipv4": "IPv4 Address",
+    "ipv6": "IPv6 Address",
+    "date": "Date",
+    "input": "Please input your content here:",
+    "output": "Result:"
+  },
+  "de": {
+    "domain": "Domain -Name",
+    "mac": "MAC-Adresse",
+    "email": "Post",
+    "ipv4": "IPv4 -Adresse",
+    "ipv6": "IPv6 -Adresse",
+    "date": "Datum",
+    "input": "Bitte geben Sie den Text hier ein:",
+    "output": "Ausgang:"
+  },
+  "es": {
+    "domain": "nombre de dominio",
+    "mac": "Dirección MAC",
+    "email": "Correo",
+    "ipv4": "Dirección IPv4",
+    "ipv6": "Dirección IPv6",
+    "date": "fecha",
+    "input": "Por favor ingrese el texto aquí:",
+    "output": "Producción:"
+  },
+  "fr": {
+    "domain": "nom de domaine",
+    "mac": "Adresse Mac",
+    "email": "Poster",
+    "ipv4": "Adresse IPv4",
+    "ipv6": "Adresse IPv6",
+    "date": "date",
+    "input": "Veuillez saisir le texte ici:",
+    "output": "Sortir:"
+  },
+  "it": {
+    "domain": "nome del dominio",
+    "mac": "Indirizzo MAC",
+    "email": "Posta",
+    "ipv4": "Indirizzo IPv4",
+    "ipv6": "Indirizzo IPv6",
+    "date": "data",
+    "input": "Inserisci qui il testo:",
+    "output": "Produzione:"
+  },
+  "ja": {
+    "domain": "ドメイン名",
+    "mac": "Macアドレス",
+    "email": "郵便",
+    "ipv4": "IPv4アドレス",
+    "ipv6": "IPv6アドレス",
+    "date": "日にち",
+    "input": "ここにテキストを入力してください：",
+    "output": "出力："
+  },
+  "ko": {
+    "domain": "도메인 이름",
+    "mac": "Mac 주소",
+    "email": "우편",
+    "ipv4": "IPv4 주소",
+    "ipv6": "IPv6 주소",
+    "date": "날짜",
+    "input": "여기에 텍스트를 입력하십시오.",
+    "output": "산출:"
+  },
+  "pt": {
+    "domain": "nome do domínio",
+    "mac": "Endereço MAC",
+    "email": "Correspondência",
+    "ipv4": "Endereço IPv4",
+    "ipv6": "Endereço IPv6",
+    "date": "data",
+    "input": "Por favor, insira o texto aqui:",
+    "output": "Saída:"
+  },
+  "ru": {
+    "domain": "доменное имя",
+    "mac": "MAC-адрес",
+    "email": "Почта",
+    "ipv4": "Адрес IPv4",
+    "ipv6": "Адрес IPv6",
+    "date": "дата",
+    "input": "Пожалуйста, введите текст здесь:",
+    "output": "Выход:"
+  },
+  "zh-tw": {
+    "domain": "域名",
+    "mac": "MAC 地址",
+    "email": "郵箱",
+    "ipv4": "IPv4 地址",
+    "ipv6": "IPv6 地址",
+    "date": "日期",
+    "input": "請在此處輸入文本:",
+    "output": "輸出:"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "zh": {
+    "$name": "Rabbit 加密",
+    "$description": "Rabbit 加密",
+    "$keywords": [
+      "加密",
+      "对称"
+    ]
+  },
+  "en": {
+    "$name": "Rabbit Encryption",
+    "$description": "Rabbit Encryption",
+    "$keywords": [
+      "rabbit",
+      "encryption",
+      "encrypt",
+      "symmetric"
+    ]
+  },
+  "de": {
+    "$name": "Kaninchenverschlüsselung",
+    "$description": "Kaninchenverschlüsselung",
+    "$keywords": [
+      "Verschlüsselung",
+      "Symmetrie"
+    ]
+  },
+  "es": {
+    "$name": "Cifrado de conejo",
+    "$description": "Cifrado de conejo",
+    "$keywords": [
+      "encriptación",
+      "simetría"
+    ]
+  },
+  "fr": {
+    "$name": "Cryptage de lapin",
+    "$description": "Cryptage de lapin",
+    "$keywords": [
+      "chiffrement",
+      "symétrie"
+    ]
+  },
+  "it": {
+    "$name": "Crittografia del coniglio",
+    "$description": "Crittografia del coniglio",
+    "$keywords": [
+      "crittografia",
+      "simmetria"
+    ]
+  },
+  "ja": {
+    "$name": "Rabbit暗号化",
+    "$description": "Rabbit暗号化",
+    "$keywords": [
+      "暗号化",
+      "対称"
+    ]
+  },
+  "ko": {
+    "$name": "토끼 암호화",
+    "$description": "토끼 암호화",
+    "$keywords": [
+      "암호화",
+      "대칭"
+    ]
+  },
+  "pt": {
+    "$name": "Criptografia de coelho",
+    "$description": "Criptografia de coelho",
+    "$keywords": [
+      "criptografia",
+      "simetria"
+    ]
+  },
+  "ru": {
+    "$name": "Шифрование кролика",
+    "$description": "Шифрование кролика",
+    "$keywords": [
+      "шифрование",
+      "симметрия"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Rabbit 加密",
+    "$description": "Rabbit 加密",
+    "$keywords": [
+      "加密",
+      "對稱"
+    ]
+  },
+  "zh-cn": {
+    "$name": "Rabbit 加密",
+    "$description": "Rabbit 加密",
+    "$keywords": [
+      "加密",
+      "对称"
+    ]
+  }
+}

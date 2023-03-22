@@ -1,0 +1,200 @@
+{
+  "zh": {
+    "networkCard": "选择网卡：",
+    "local": {
+      "ipv4": "本地 IPv4 地址",
+      "ipv6": "本地 IPv6 地址"
+    },
+    "public": {
+      "ipv4": "公共 IPv4 地址",
+      "ipv6": "公共 IPv6 地址"
+    },
+    "result": {
+      "city": "城市",
+      "country": "国家/地区",
+      "longitudeAndLatitude": "经纬度",
+      "timeZone": "时区",
+      "callingCode": "国际电话区号"
+    }
+  },
+  "en": {
+    "networkCard": "Select the network card:",
+    "local": {
+      "ipv4": "Local IPv4 address",
+      "ipv6": "Local IPv6 address"
+    },
+    "public": {
+      "ipv4": "Public IPv4 address",
+      "ipv6": "Public IPv6 address"
+    },
+    "result": {
+      "city": "City",
+      "country": "Country/Region",
+      "longitudeAndLatitude": "Longitude and latitude",
+      "timeZone": "Time zone",
+      "callingCode": "Calling code"
+    }
+  },
+  "de": {
+    "networkCard": "Wählen Sie Netzwerkkarte:",
+    "local": {
+      "ipv4": "Lokale IPv4 -Adresse",
+      "ipv6": "Lokale IPv6 -Adresse"
+    },
+    "public": {
+      "ipv4": "Öffentliche IPv4 -Adresse",
+      "ipv6": "Öffentliche IPv6 -Adresse"
+    },
+    "result": {
+      "city": "Stadt",
+      "country": "Land / Region",
+      "longitudeAndLatitude": "Länge und Länge",
+      "timeZone": "Zeitzone",
+      "callingCode": "Internationaler Telefonbereich"
+    }
+  },
+  "es": {
+    "networkCard": "Seleccionar tarjeta de red:",
+    "local": {
+      "ipv4": "Dirección local de IPv4",
+      "ipv6": "Dirección local de IPv6"
+    },
+    "public": {
+      "ipv4": "Dirección pública de IPv4",
+      "ipv6": "Dirección pública de IPv6"
+    },
+    "result": {
+      "city": "Ciudad",
+      "country": "país / región",
+      "longitudeAndLatitude": "Longitud y longitud",
+      "timeZone": "Zona horaria",
+      "callingCode": "Área telefónica internacional"
+    }
+  },
+  "fr": {
+    "networkCard": "Sélectionnez la carte réseau:",
+    "local": {
+      "ipv4": "Adresse IPv4 locale",
+      "ipv6": "Adresse IPv6 locale"
+    },
+    "public": {
+      "ipv4": "Adresse publique IPv4",
+      "ipv6": "Adresse publique IPv6"
+    },
+    "result": {
+      "city": "Ville",
+      "country": "pays / région",
+      "longitudeAndLatitude": "Longitude et longitude",
+      "timeZone": "Fuseau horaire",
+      "callingCode": "Zone téléphonique internationale"
+    }
+  },
+  "it": {
+    "networkCard": "Seleziona la scheda di rete:",
+    "local": {
+      "ipv4": "Indirizzo IPv4 locale",
+      "ipv6": "Indirizzo IPv6 locale"
+    },
+    "public": {
+      "ipv4": "Indirizzo IPv4 pubblico",
+      "ipv6": "Indirizzo IPv6 pubblico"
+    },
+    "result": {
+      "city": "Città",
+      "country": "paese / regione",
+      "longitudeAndLatitude": "Longitudine e longitudine",
+      "timeZone": "Fuso orario",
+      "callingCode": "Area telefonica internazionale"
+    }
+  },
+  "ja": {
+    "networkCard": "ネットワークカードを選択します：",
+    "local": {
+      "ipv4": "ローカルIPv4アドレス",
+      "ipv6": "ローカルIPv6アドレス"
+    },
+    "public": {
+      "ipv4": "パブリックIPv4アドレス",
+      "ipv6": "パブリックIPv6アドレス"
+    },
+    "result": {
+      "city": "街",
+      "country": "国 /地域",
+      "longitudeAndLatitude": "経度と経度",
+      "timeZone": "タイムゾーン",
+      "callingCode": "国際電話エリア"
+    }
+  },
+  "ko": {
+    "networkCard": "네트워크 카드 선택 :",
+    "local": {
+      "ipv4": "로컬 IPv4 주소",
+      "ipv6": "로컬 IPv6 주소"
+    },
+    "public": {
+      "ipv4": "공개 IPv4 주소",
+      "ipv6": "공개 IPv6 주소"
+    },
+    "result": {
+      "city": "도시",
+      "country": "국가 / 지역",
+      "longitudeAndLatitude": "경도와 경도",
+      "timeZone": "시간대",
+      "callingCode": "국제 전화 지역"
+    }
+  },
+  "pt": {
+    "networkCard": "Selecione a placa de rede:",
+    "local": {
+      "ipv4": "Endereço IPv4 local",
+      "ipv6": "Endereço IPv6 local"
+    },
+    "public": {
+      "ipv4": "Endereço IPv4 público",
+      "ipv6": "Endereço Público IPv6"
+    },
+    "result": {
+      "city": "Cidade",
+      "country": "país / região",
+      "longitudeAndLatitude": "Longitude e longitude",
+      "timeZone": "Fuso horário",
+      "callingCode": "Área telefônica internacional"
+    }
+  },
+  "ru": {
+    "networkCard": "Выберите сетевую карту:",
+    "local": {
+      "ipv4": "Локальный адрес IPv4",
+      "ipv6": "Локальный адрес IPv6"
+    },
+    "public": {
+      "ipv4": "Общественный адрес IPv4",
+      "ipv6": "Общедоступный адрес IPv6"
+    },
+    "result": {
+      "city": "Город",
+      "country": "Страна / регион",
+      "longitudeAndLatitude": "Долгота и долгота",
+      "timeZone": "Часовой пояс",
+      "callingCode": "Международная телефонная зона"
+    }
+  },
+  "zh-tw": {
+    "networkCard": "選擇網卡：",
+    "local": {
+      "ipv4": "本地 IPv4 地址",
+      "ipv6": "本地 IPv6 地址"
+    },
+    "public": {
+      "ipv4": "公共 IPv4 地址",
+      "ipv6": "公共 IPv6 地址"
+    },
+    "result": {
+      "city": "城市",
+      "country": "國家/地區",
+      "longitudeAndLatitude": "經緯度",
+      "timeZone": "時區",
+      "callingCode": "國際電話區號"
+    }
+  }
+}

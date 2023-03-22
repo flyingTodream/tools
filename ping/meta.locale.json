@@ -1,0 +1,112 @@
+{
+    "zh": {
+      "$name": "Ping",
+      "$description": "Ping",
+      "$keywords": [
+        "网络",
+        "链接",
+        "延时"
+      ]
+    },
+    "en": {
+      "$name": "Ping",
+      "$description": "Ping",
+      "$keywords": [
+        "ping",
+        "icmp",
+        "network",
+        "connection",
+        "latency"
+      ]
+    },
+    "de": {
+      "$name": "Ping",
+      "$description": "Ping an ip or a host.",
+      "$keywords": [
+        "Netzwerk",
+        "Verknüpfung",
+        "Verzögerung"
+      ]
+    },
+    "es": {
+      "$name": "Ping",
+      "$description": "Ping an ip or a host.",
+      "$keywords": [
+        "red",
+        "Enlace",
+        "Demora"
+      ]
+    },
+    "fr": {
+      "$name": "Ping",
+      "$description": "Ping an ip or a host.",
+      "$keywords": [
+        "réseau",
+        "Lien",
+        "Retard"
+      ]
+    },
+    "it": {
+      "$name": "Ping",
+      "$description": "Ping an ip or a host.",
+      "$keywords": [
+        "rete",
+        "Collegamento",
+        "Ritardo"
+      ]
+    },
+    "ja": {
+      "$name": "Ping",
+      "$description": "Ping an ip or a host.",
+      "$keywords": [
+        "通信網",
+        "リンク",
+        "遅れ"
+      ]
+    },
+    "ko": {
+      "$name": "Ping",
+      "$description": "Ping an ip or a host.",
+      "$keywords": [
+        "회로망",
+        "링크",
+        "지연"
+      ]
+    },
+    "pt": {
+      "$name": "Ping",
+      "$description": "Ping an ip or a host.",
+      "$keywords": [
+        "rede",
+        "Link",
+        "Atraso"
+      ]
+    },
+    "ru": {
+      "$name": "Ping",
+      "$description": "Ping an ip or a host.",
+      "$keywords": [
+        "сеть",
+        "Связь",
+        "Задерживать"
+      ]
+    },
+    "zh-tw": {
+      "$name": "ping",
+      "$description": "ping",
+      "$keywords": [
+        "網絡",
+        "鏈接",
+        "延時"
+      ]
+    },
+    "zh-cn": {
+      "$name": "Ping",
+      "$description": "Ping",
+      "$keywords": [
+        "网络",
+        "链接",
+        "延时"
+      ]
+    }
+  }

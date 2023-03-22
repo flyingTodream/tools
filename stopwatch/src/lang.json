@@ -1,0 +1,90 @@
+{
+  "zh": {
+    "start": "开始",
+    "pause": "暂停",
+    "resume": "继续",
+    "split": "计次",
+    "reset": "重置",
+    "space": "空格"
+  },
+  "en": {
+    "start": "Start",
+    "pause": "Pause",
+    "resume": "Resume",
+    "split": "Split",
+    "reset": "Reset",
+    "space": "Space"
+  },
+  "de": {
+    "start": "Start",
+    "pause": "Pause",
+    "resume": "weitermachen",
+    "split": "zählen",
+    "reset": "Rücknahme",
+    "space": "Raum"
+  },
+  "es": {
+    "start": "comenzar",
+    "pause": "pausa",
+    "resume": "continuar",
+    "split": "contar",
+    "reset": "Recuperarse",
+    "space": "Espacio"
+  },
+  "fr": {
+    "start": "commencer",
+    "pause": "pause",
+    "resume": "continuer",
+    "split": "compter",
+    "reset": "Reprendre possession de",
+    "space": "Espace"
+  },
+  "it": {
+    "start": "inizio",
+    "pause": "pausa",
+    "resume": "Continua",
+    "split": "contare",
+    "reset": "Rientrare in possesso",
+    "space": "Spazio"
+  },
+  "ja": {
+    "start": "始める",
+    "pause": "一時停止",
+    "resume": "続く",
+    "split": "カウント",
+    "reset": "取り戻し",
+    "space": "空"
+  },
+  "ko": {
+    "start": "시작",
+    "pause": "정지시키다",
+    "resume": "계속하다",
+    "split": "세다",
+    "reset": "repossess",
+    "space": "공간"
+  },
+  "pt": {
+    "start": "começar",
+    "pause": "pausa",
+    "resume": "continuar",
+    "split": "contar",
+    "reset": "REPOSTESS",
+    "space": "Espaço"
+  },
+  "ru": {
+    "start": "начинать",
+    "pause": "Пауза",
+    "resume": "продолжать",
+    "split": "считать",
+    "reset": "Пособия",
+    "space": "Космос"
+  },
+  "zh-tw": {
+    "start": "開始",
+    "pause": "暫停",
+    "resume": "繼續",
+    "split": "計次",
+    "reset": "重置",
+    "space": "空格"
+  }
+}

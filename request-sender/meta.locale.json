@@ -1,0 +1,116 @@
+{
+    "zh": {
+      "$name": "请求发送器",
+      "$description": "发送http请求",
+      "$keywords": [
+        "请求",
+        "测试",
+        "发送"
+      ]
+    },
+    "en": {
+      "$name": "Request sender",
+      "$description": "send http request",
+      "$keywords": [
+        "http",
+        "request",
+        "send",
+        "test",
+        "get",
+        "post",
+        "delete",
+        "patch",
+        "put"
+      ]
+    },
+    "de": {
+      "$name": "Sender anfordern",
+      "$description": "Senden Sie die HTTP -Anfrage",
+      "$keywords": [
+        "fragen",
+        "prüfen",
+        "schicken"
+      ]
+    },
+    "es": {
+      "$name": "Remitente de solicitud",
+      "$description": "Enviar solicitud HTTP",
+      "$keywords": [
+        "preguntar",
+        "prueba",
+        "enviar"
+      ]
+    },
+    "fr": {
+      "$name": "Demander l'expéditeur",
+      "$description": "Envoyer la demande HTTP",
+      "$keywords": [
+        "demander",
+        "test",
+        "envoyer"
+      ]
+    },
+    "it": {
+      "$name": "Richiedere mittente",
+      "$description": "Invia richiesta HTTP",
+      "$keywords": [
+        "chiedere",
+        "test",
+        "Inviare"
+      ]
+    },
+    "ja": {
+      "$name": "リクエスト送信者",
+      "$description": "HTTPリクエストを送信します",
+      "$keywords": [
+        "聞く",
+        "テスト",
+        "送信"
+      ]
+    },
+    "ko": {
+      "$name": "요청 발신자",
+      "$description": "HTTP 요청을 보내십시오",
+      "$keywords": [
+        "묻다",
+        "시험",
+        "보내다"
+      ]
+    },
+    "pt": {
+      "$name": "Solicitar remetente",
+      "$description": "Envie solicitação HTTP",
+      "$keywords": [
+        "perguntar",
+        "teste",
+        "enviar"
+      ]
+    },
+    "ru": {
+      "$name": "Запрос отправителя",
+      "$description": "Отправить http -запрос",
+      "$keywords": [
+        "просить",
+        "тест",
+        "отправлять"
+      ]
+    },
+    "zh-tw": {
+      "$name": "請求發送器",
+      "$description": "發送http請求",
+      "$keywords": [
+        "請求",
+        "測試",
+        "發送"
+      ]
+    },
+    "zh-cn": {
+      "$name": "请求发送器",
+      "$description": "发送http请求",
+      "$keywords": [
+        "请求",
+        "测试",
+        "发送"
+      ]
+    }
+  }

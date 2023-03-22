@@ -1,0 +1,97 @@
+{
+    "zh": {
+      "$name": "路由追踪",
+      "$description": "路由追踪",
+      "$keywords": [
+        "路由",
+        "追踪"
+      ]
+    },
+    "en": {
+      "$name": "Traceroute",
+      "$description": "Traceroute",
+      "$keywords": [
+        "traceroute"
+      ]
+    },
+    "de": {
+      "$name": "Routing",
+      "$description": "Routing",
+      "$keywords": [
+        "Routing",
+        "Schiene"
+      ]
+    },
+    "es": {
+      "$name": "Enrutamiento",
+      "$description": "Enrutamiento",
+      "$keywords": [
+        "enrutamiento",
+        "pista"
+      ]
+    },
+    "fr": {
+      "$name": "Routage",
+      "$description": "Routage",
+      "$keywords": [
+        "routage",
+        "piste"
+      ]
+    },
+    "it": {
+      "$name": "Routing",
+      "$description": "Routing",
+      "$keywords": [
+        "routing",
+        "traccia"
+      ]
+    },
+    "ja": {
+      "$name": "ルーティング",
+      "$description": "ルーティング",
+      "$keywords": [
+        "ルーティング",
+        "追跡"
+      ]
+    },
+    "ko": {
+      "$name": "라우팅",
+      "$description": "라우팅",
+      "$keywords": [
+        "라우팅",
+        "길"
+      ]
+    },
+    "pt": {
+      "$name": "Roteamento",
+      "$description": "Roteamento",
+      "$keywords": [
+        "roteamento",
+        "acompanhar"
+      ]
+    },
+    "ru": {
+      "$name": "Маршрутизация",
+      "$description": "Маршрутизация",
+      "$keywords": [
+        "маршрутизация",
+        "отслеживать"
+      ]
+    },
+    "zh-tw": {
+      "$name": "路由追踪",
+      "$description": "路由追踪",
+      "$keywords": [
+        "路由",
+        "追踪"
+      ]
+    },
+    "zh-cn": {
+      "$name": "路由追踪",
+      "$description": "路由追踪",
+      "$keywords": [
+        "路由",
+        "追踪"
+      ]
+    }
+  }

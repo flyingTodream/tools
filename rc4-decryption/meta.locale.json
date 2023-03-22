@@ -1,0 +1,100 @@
+{
+  "zh": {
+    "$name": "RC4 解密",
+    "$description": "RC4 解密",
+    "$keywords": [
+      "解密",
+      "对称"
+    ]
+  },
+  "en": {
+    "$name": "RC4 Decryption",
+    "$description": "RC4 Decryption",
+    "$keywords": [
+      "rc4",
+      "decryption",
+      "decrypt",
+      "symmetric"
+    ]
+  },
+  "de": {
+    "$name": "RC4 Entschlüsselung",
+    "$description": "RC4 Entschlüsselung",
+    "$keywords": [
+      "Entschlüsseln",
+      "Symmetrie"
+    ]
+  },
+  "es": {
+    "$name": "Descifrado de RC4",
+    "$description": "Descifrado de RC4",
+    "$keywords": [
+      "Descifrar",
+      "simetría"
+    ]
+  },
+  "fr": {
+    "$name": "Décryptage RC4",
+    "$description": "Décryptage RC4",
+    "$keywords": [
+      "Décrypter",
+      "symétrie"
+    ]
+  },
+  "it": {
+    "$name": "Decrittazione RC4",
+    "$description": "Decrittazione RC4",
+    "$keywords": [
+      "Decritto",
+      "simmetria"
+    ]
+  },
+  "ja": {
+    "$name": "RC4復号化",
+    "$description": "RC4復号化",
+    "$keywords": [
+      "復号化",
+      "対称"
+    ]
+  },
+  "ko": {
+    "$name": "RC4 암호 해독",
+    "$description": "RC4 암호 해독",
+    "$keywords": [
+      "해독",
+      "대칭"
+    ]
+  },
+  "pt": {
+    "$name": "RC4 Decripção",
+    "$description": "RC4 Decripção",
+    "$keywords": [
+      "Descriptografar",
+      "simetria"
+    ]
+  },
+  "ru": {
+    "$name": "DRC4 Decryption",
+    "$description": "DRC4 Decryption",
+    "$keywords": [
+      "Дешифровать",
+      "симметрия"
+    ]
+  },
+  "zh-tw": {
+    "$name": "RC4 解密",
+    "$description": "RC4 解密",
+    "$keywords": [
+      "解密",
+      "對稱"
+    ]
+  },
+  "zh-cn": {
+    "$name": "RC4 解密",
+    "$description": "RC4 解密",
+    "$keywords": [
+      "解密",
+      "对称"
+    ]
+  }
+}

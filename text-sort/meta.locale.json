@@ -1,0 +1,109 @@
+{
+  "zh": {
+    "$name": "文本排序",
+    "$description": "对文本进行排序",
+    "$keywords": [
+      "文本",
+      "排序",
+      "去重"
+    ]
+  },
+  "en": {
+    "$name": "Sort Text",
+    "$description": "Sort the text",
+    "$keywords": [
+      "text",
+      "sort"
+    ]
+  },
+  "de": {
+    "$name": "Textsortierung",
+    "$description": "Sortieren Sie den Text",
+    "$keywords": [
+      "Text",
+      "Sortieren",
+      "Schwer gehen"
+    ]
+  },
+  "es": {
+    "$name": "Clasificación de texto",
+    "$description": "Ordenar el texto",
+    "$keywords": [
+      "texto",
+      "Clasificar",
+      "Ser pesado"
+    ]
+  },
+  "fr": {
+    "$name": "Tri de texte",
+    "$description": "Trier le texte",
+    "$keywords": [
+      "texte",
+      "Trier",
+      "Se laver"
+    ]
+  },
+  "it": {
+    "$name": "Smistamento di testo",
+    "$description": "Ordina il testo",
+    "$keywords": [
+      "testo",
+      "Ordinare",
+      "Vai pesante"
+    ]
+  },
+  "ja": {
+    "$name": "テキストソート",
+    "$description": "テキストを並べ替えます",
+    "$keywords": [
+      "文章",
+      "選別",
+      "重くなる"
+    ]
+  },
+  "ko": {
+    "$name": "텍스트 분류",
+    "$description": "텍스트를 정렬하십시오",
+    "$keywords": [
+      "텍스트",
+      "종류",
+      "무거워"
+    ]
+  },
+  "pt": {
+    "$name": "Classificação de texto",
+    "$description": "Classifique o texto",
+    "$keywords": [
+      "texto",
+      "Organizar",
+      "Vá pesado"
+    ]
+  },
+  "ru": {
+    "$name": "Сортировка текста",
+    "$description": "Сортировать текст",
+    "$keywords": [
+      "текст",
+      "Сортировать",
+      "Идти тяжелым"
+    ]
+  },
+  "zh-tw": {
+    "$name": "文本排序",
+    "$description": "對文本進行排序",
+    "$keywords": [
+      "文本",
+      "排序",
+      "去重"
+    ]
+  },
+  "zh-cn": {
+    "$name": "文本排序",
+    "$description": "对文本进行排序",
+    "$keywords": [
+      "文本",
+      "排序",
+      "去重"
+    ]
+  }
+}

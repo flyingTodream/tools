@@ -1,0 +1,112 @@
+{
+  "en": {
+    "$name": "Bar Code Generator",
+    "$description": "Bar Code Generator",
+    "$keywords": [
+      "bar",
+      "code",
+      "generate",
+      "generator"
+    ]
+  },
+  "ja": {
+    "$name": "バーコードジェネレーター",
+    "$description": "バーコードジェネレーター",
+    "$keywords": [
+      "バー",
+      "コード",
+      "生成",
+      "発生器"
+    ]
+  },
+  "zh-tw": {
+    "$name": "條碼生成器",
+    "$description": "條碼生成器",
+    "$keywords": [
+      "酒吧",
+      "代碼",
+      "產生",
+      "發電機"
+    ]
+  },
+  "zh-cn": {
+    "$name": "条形码生成器",
+    "$description": "条码生成器",
+    "$keywords": [
+      "条形码 ",
+      "条码",
+      "生成",
+      "生成器"
+    ]
+  },
+  "ko": {
+    "$name": "바코드 생성기",
+    "$description": "바코드 생성기",
+    "$keywords": [
+      "술집",
+      "암호",
+      "생성하다",
+      "발전기"
+    ]
+  },
+  "fr": {
+    "$name": "Générateur de code à barres",
+    "$description": "Générateur de code à barres",
+    "$keywords": [
+      "bar",
+      "code",
+      "générer",
+      "Générateur"
+    ]
+  },
+  "it": {
+    "$name": "Generatore di codici a barre",
+    "$description": "Generatore di codici a barre",
+    "$keywords": [
+      "sbarra",
+      "codice",
+      "creare",
+      "Generatore"
+    ]
+  },
+  "de": {
+    "$name": "Barcode-Generator",
+    "$description": "Barcode-Generator",
+    "$keywords": [
+      "Bar",
+      "Code",
+      "generieren",
+      "Generator"
+    ]
+  },
+  "ru": {
+    "$name": "Генератор штрих-кода",
+    "$description": "Генератор штрих-кода",
+    "$keywords": [
+      "бар",
+      "код",
+      "генерировать",
+      "генератор"
+    ]
+  },
+  "es": {
+    "$name": "Generador de código de barras",
+    "$description": "Generador de código de barras",
+    "$keywords": [
+      "bar",
+      "código",
+      "generar",
+      "generador"
+    ]
+  },
+  "pt": {
+    "$name": "Gerador de código de barras",
+    "$description": "Gerador de código de barras",
+    "$keywords": [
+      "bar",
+      "código",
+      "gerar",
+      "gerador"
+    ]
+  }
+}

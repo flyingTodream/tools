@@ -1,0 +1,87 @@
+{
+  "zh": {
+    "$name": "JSON 合并",
+    "$description": "将多个 JSON 合并为一个",
+    "$keywords": [
+      "合并"
+    ]
+  },
+  "en": {
+    "$name": "JSON Merge",
+    "$description": "Merge multiple JSON into one",
+    "$keywords": [
+      "Merge",
+      "JSON"
+    ]
+  },
+  "de": {
+    "$name": "JSON -Fusion",
+    "$description": "Multiple JSON in einen verschmelzen",
+    "$keywords": [
+      "verschmelzen"
+    ]
+  },
+  "es": {
+    "$name": "Fusión json",
+    "$description": "Fusionar múltiples json en uno",
+    "$keywords": [
+      "unir"
+    ]
+  },
+  "fr": {
+    "$name": "Fusion JSON",
+    "$description": "Fusionner plusieurs json en un",
+    "$keywords": [
+      "fusionner"
+    ]
+  },
+  "it": {
+    "$name": "Fusione JSON",
+    "$description": "Unisci più JSON in uno",
+    "$keywords": [
+      "unire"
+    ]
+  },
+  "ja": {
+    "$name": "JSON合併",
+    "$description": "複数のJSONを1つにマージします",
+    "$keywords": [
+      "マージ"
+    ]
+  },
+  "ko": {
+    "$name": "JSON 합병",
+    "$description": "다중 JSON을 하나로 병합하십시오",
+    "$keywords": [
+      "병합"
+    ]
+  },
+  "pt": {
+    "$name": "JSON fusão",
+    "$description": "Mesclar vários json em um",
+    "$keywords": [
+      "mesclar"
+    ]
+  },
+  "ru": {
+    "$name": "Слияние JSON",
+    "$description": "Объединить несколько JSON в один",
+    "$keywords": [
+      "слияние"
+    ]
+  },
+  "zh-tw": {
+    "$name": "JSON 合併",
+    "$description": "將多個 JSON 合併為一個",
+    "$keywords": [
+      "合併"
+    ]
+  },
+  "zh-cn": {
+    "$name": "JSON 合并",
+    "$description": "将多个 JSON 合并为一个",
+    "$keywords": [
+      "合并"
+    ]
+  }
+}

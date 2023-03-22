@@ -1,0 +1,144 @@
+{
+    "zh": {
+      "$name": "HTML 符号参考",
+      "$description": "HTML 符号参考",
+      "$keywords": [
+        "html",
+        "符号",
+        "转义",
+        "参考",
+        "查询",
+        "说明"
+      ]
+    },
+    "en": {
+      "$name": "HTML Symbols Cheatsheet",
+      "$description": "HTML symbols references",
+      "$keywords": [
+        "html",
+        "symbols",
+        "cheatsheet",
+        "reference"
+      ]
+    },
+    "de": {
+      "$name": "HTML -Symbolreferenz",
+      "$description": "HTML -Symbolreferenz",
+      "$keywords": [
+        "html",
+        "Symbol",
+        "Gerechtigkeit",
+        "beziehen auf",
+        "Anfragen",
+        "veranschaulichen"
+      ]
+    },
+    "es": {
+      "$name": "Referencia de símbolo HTML",
+      "$description": "Referencia de símbolo HTML",
+      "$keywords": [
+        "html",
+        "símbolo",
+        "Justicia",
+        "Referirse a",
+        "Preguntar",
+        "ilustrar"
+      ]
+    },
+    "fr": {
+      "$name": "Référence du symbole HTML",
+      "$description": "Référence du symbole HTML",
+      "$keywords": [
+        "html",
+        "symbole",
+        "Droiture",
+        "faire référence à",
+        "Renseigner",
+        "illustrer"
+      ]
+    },
+    "it": {
+      "$name": "Riferimento a simbolo HTML",
+      "$description": "Riferimento a simbolo HTML",
+      "$keywords": [
+        "html",
+        "simbolo",
+        "Giustizia",
+        "fare riferimento a",
+        "Chiedere informazioni",
+        "illustrare"
+      ]
+    },
+    "ja": {
+      "$name": "HTMLシンボルリファレンス",
+      "$description": "HTMLシンボルリファレンス",
+      "$keywords": [
+        "HTML",
+        "シンボル",
+        "正義",
+        "参照する",
+        "お問い合わせください",
+        "説明します"
+      ]
+    },
+    "ko": {
+      "$name": "HTML 기호 참조",
+      "$description": "HTML 기호 참조",
+      "$keywords": [
+        "HTML",
+        "상징",
+        "정당성",
+        "인용하다",
+        "문의",
+        "설명"
+      ]
+    },
+    "pt": {
+      "$name": "Referência de símbolo HTML",
+      "$description": "Referência de símbolo HTML",
+      "$keywords": [
+        "html",
+        "símbolo",
+        "Justiça",
+        "referir-se",
+        "Investigar",
+        "ilustrar"
+      ]
+    },
+    "ru": {
+      "$name": "Ссылка на символ HTML",
+      "$description": "Ссылка на символ HTML",
+      "$keywords": [
+        "HTML",
+        "символ",
+        "Праведность",
+        "Ссылаться на",
+        "Запросить",
+        "иллюстрировать"
+      ]
+    },
+    "zh-tw": {
+      "$name": "HTML 符號參考",
+      "$description": "HTML 符號參考",
+      "$keywords": [
+        "html",
+        "符號",
+        "轉義",
+        "參考",
+        "查詢",
+        "說明"
+      ]
+    },
+    "zh-cn": {
+      "$name": "HTML 符号参考",
+      "$description": "HTML 符号参考",
+      "$keywords": [
+        "html",
+        "符号",
+        "转义",
+        "参考",
+        "查询",
+        "说明"
+      ]
+    }
+  }

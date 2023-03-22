@@ -1,0 +1,91 @@
+{
+  "zh": {
+    "$name": "Base32 解码",
+    "$description": "Base32 解码",
+    "$keywords": [
+      "解码"
+    ]
+  },
+  "en": {
+    "$name": "Base32 Decode",
+    "$description": "Base32 Decode",
+    "$keywords": [
+      "decode",
+      "base32",
+      "RFC3548",
+      "RFC4648",
+      "RFC4648-HEX",
+      "Crockford"
+    ]
+  },
+  "de": {
+    "$name": "Base32 Decodierung",
+    "$description": "Base32 Decodierung",
+    "$keywords": [
+      "Dekodierung"
+    ]
+  },
+  "es": {
+    "$name": "Base32 decodificación",
+    "$description": "Base32 decodificación",
+    "$keywords": [
+      "descodificación"
+    ]
+  },
+  "fr": {
+    "$name": "Décodage de base32",
+    "$description": "Décodage de base32",
+    "$keywords": [
+      "décodage"
+    ]
+  },
+  "it": {
+    "$name": "Decodifica base32",
+    "$description": "Decodifica base32",
+    "$keywords": [
+      "decodifica"
+    ]
+  },
+  "ja": {
+    "$name": "base32デコード",
+    "$description": "base32デコード",
+    "$keywords": [
+      "デコード"
+    ]
+  },
+  "ko": {
+    "$name": "Base32 디코딩",
+    "$description": "Base32 디코딩",
+    "$keywords": [
+      "디코딩"
+    ]
+  },
+  "pt": {
+    "$name": "Base32 Decodificação",
+    "$description": "Base32 Decodificação",
+    "$keywords": [
+      "decodificação"
+    ]
+  },
+  "ru": {
+    "$name": "База32 Декодирование",
+    "$description": "База32 Декодирование",
+    "$keywords": [
+      "декодирование"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Base32 解碼",
+    "$description": "Base32 解碼",
+    "$keywords": [
+      "解碼"
+    ]
+  },
+  "zh-cn": {
+    "$name": "Base32 解码",
+    "$description": "Base32 解码",
+    "$keywords": [
+      "解码"
+    ]
+  }
+}

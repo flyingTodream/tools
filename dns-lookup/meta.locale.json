@@ -1,0 +1,117 @@
+{
+    "zh": {
+      "$name": "DNS 查询",
+      "$description": "DNS 查询",
+      "$keywords": [
+        "解析",
+        "记录",
+        "指向"
+      ]
+    },
+    "en": {
+      "$name": "DNS Lookup",
+      "$description": "DNS Lookup",
+      "$keywords": [
+        "dns",
+        "record",
+        "aaaa",
+        "cname",
+        "mx",
+        "ns",
+        "ptr",
+        "soa",
+        "srv",
+        "txt"
+      ]
+    },
+    "de": {
+      "$name": "DNS -Abfrage",
+      "$description": "DNS -Abfrage",
+      "$keywords": [
+        "Analysieren",
+        "Aufzeichnen",
+        "Richtung"
+      ]
+    },
+    "es": {
+      "$name": "Consulta DNS",
+      "$description": "Consulta DNS",
+      "$keywords": [
+        "Analizar",
+        "Registro",
+        "dirección"
+      ]
+    },
+    "fr": {
+      "$name": "Requête DNS",
+      "$description": "Requête DNS",
+      "$keywords": [
+        "Analyser",
+        "Enregistrer",
+        "direction"
+      ]
+    },
+    "it": {
+      "$name": "Query DNS",
+      "$description": "Query DNS",
+      "$keywords": [
+        "Analizzare",
+        "Documentazione",
+        "direzione"
+      ]
+    },
+    "ja": {
+      "$name": "DNSクエリ",
+      "$description": "DNSクエリ",
+      "$keywords": [
+        "分析します",
+        "記録",
+        "方向"
+      ]
+    },
+    "ko": {
+      "$name": "DNS 쿼리",
+      "$description": "DNS 쿼리",
+      "$keywords": [
+        "분석",
+        "기록",
+        "방향"
+      ]
+    },
+    "pt": {
+      "$name": "Consulta DNS",
+      "$description": "Consulta DNS",
+      "$keywords": [
+        "Analisar",
+        "Registro",
+        "direção"
+      ]
+    },
+    "ru": {
+      "$name": "DNS запрос",
+      "$description": "DNS запрос",
+      "$keywords": [
+        "Анализировать",
+        "Записывать",
+        "направление"
+      ]
+    },
+    "zh-tw": {
+      "$name": "DNS 查詢",
+      "$description": "DNS 查詢",
+      "$keywords": [
+        "解析",
+        "記錄",
+        "指向"
+      ]
+    },
+    "zh-cn": {
+      "$name": "DNS 查询",
+      "$description": "DNS 查询",
+      "$keywords": [
+        "解析",
+        "记录",
+        "指向"
+      ]
+    }
+  }

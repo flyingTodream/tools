@@ -1,0 +1,117 @@
+{
+  "zh": {
+    "$name": "位运算计算器",
+    "$description": "对常见的位运算进行操作",
+    "$keywords": [
+      "二进制",
+      "十进制",
+      "十六进制"
+    ]
+  },
+  "en": {
+    "$name": "Bit Arithmetic Calculator",
+    "$description": "bit arithmetic calculator",
+    "$keywords": [
+      "hex",
+      "hexadecimal",
+      "oct",
+      "octal",
+      "dec",
+      "decimal",
+      "bin",
+      "binary",
+      "base",
+      "number"
+    ]
+  },
+  "de": {
+    "$name": "Bit -Betriebsrechner",
+    "$description": "Betreiben die gemeinsamen Bitoperationen",
+    "$keywords": [
+      "Binär",
+      "Dezimal",
+      "Hexadisch"
+    ]
+  },
+  "es": {
+    "$name": "Calculadora operativa de bits",
+    "$description": "Operar las operaciones de bits comunes",
+    "$keywords": [
+      "Binario",
+      "Decimal",
+      "Hexádico"
+    ]
+  },
+  "fr": {
+    "$name": "Calculateur de fonctionnement",
+    "$description": "Faire fonctionner les opérations de bit communes",
+    "$keywords": [
+      "Binaire",
+      "Décimal",
+      "Hexadique"
+    ]
+  },
+  "it": {
+    "$name": "Calcolatore operativo bit",
+    "$description": "Gestisci le operazioni bit comuni",
+    "$keywords": [
+      "Binario",
+      "Decimale",
+      "Esadico"
+    ]
+  },
+  "ja": {
+    "$name": "ビット操作計算機",
+    "$description": "共通ビット操作を操作します",
+    "$keywords": [
+      "バイナリ",
+      "小数",
+      "ヘキサディック"
+    ]
+  },
+  "ko": {
+    "$name": "비트 운영 계산기",
+    "$description": "공통 비트 작업을 작동합니다",
+    "$keywords": [
+      "이진",
+      "소수",
+      "16 진"
+    ]
+  },
+  "pt": {
+    "$name": "Calculadora operacional de bit",
+    "$description": "Operar as operações de bits comuns",
+    "$keywords": [
+      "Binário",
+      "Decimal",
+      "Hexádico"
+    ]
+  },
+  "ru": {
+    "$name": "Бит эксплуатационный калькулятор",
+    "$description": "Эксплуатировать общие битовые операции",
+    "$keywords": [
+      "Бинарный",
+      "Десятичная дробь",
+      "Гексадический"
+    ]
+  },
+  "zh-tw": {
+    "$name": "位運算計算器",
+    "$description": "對常見的位運算進行操作",
+    "$keywords": [
+      "二進制",
+      "十進制",
+      "十六進制"
+    ]
+  },
+  "zh-cn": {
+    "$name": "位运算计算器",
+    "$description": "对常见的位运算进行操作",
+    "$keywords": [
+      "二进制",
+      "十进制",
+      "十六进制"
+    ]
+  }
+}

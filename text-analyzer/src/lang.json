@@ -1,0 +1,519 @@
+{
+  "zh": {
+    "label": {
+      "total": "总字符",
+      "symbolTotal": "符号",
+      "wordTotal": "字数",
+      "numTotal": "数字",
+      "spaceTotal": "空格",
+      "lineTotal": "行数"
+    },
+    "wordTips": {
+      "iTotal": "中文字符: ",
+      "eTotal": "英文字符: ",
+      "numTotal": "数字: ",
+      "orderTotal": "其他字符: "
+    },
+    "tableHeader": {
+      "titlePre": "词汇密度: (共计 ",
+      "titleEnd": " 个词汇) ",
+      "wordName": "词汇",
+      "wordTotal": "次数",
+      "proportion": "频率占比",
+      "zh": "中",
+      "en": "英"
+    },
+    "message": {
+      "inputWarn": "请输入文本",
+      "searchWarn": "请输入合规网址",
+      "fetchError": "请求失败，请确保页面可访问",
+      "analyzeError": "分析失败"
+    },
+    "inputType": {
+      "text": "文本",
+      "file": "文件",
+      "web": "网页"
+    },
+    "title": {
+      "text": "输入所需分析文本内容:",
+      "file": "选择所需分析文件:",
+      "web": "输入所需分析网页网址:"
+    },
+    "preview": "预览:",
+    "search": {
+      "placeholder": "请输入网址",
+      "enter": "分析"
+    },
+    "read_file": "选择文件"
+  },
+  "en": {
+    "label": {
+      "total": "Total characters",
+      "symbolTotal": "Total of symbols",
+      "wordTotal": "Number of words",
+      "numTotal": "Total number",
+      "spaceTotal": "Total spaces",
+      "lineTotal": "Number of lines"
+    },
+    "wordTips": {
+      "iTotal": "Chinese characters: ",
+      "eTotal": "English characters: ",
+      "numTotal": "Number: ",
+      "orderTotal": "Other characters: "
+    },
+    "tableHeader": {
+      "titlePre": "Vocabulary density: (",
+      "titleEnd": " words in total) ",
+      "wordName": "Vocabulary",
+      "wordTotal": "Count",
+      "proportion": "Percentage",
+      "zh": "Chinese",
+      "en": "English"
+    },
+    "message": {
+      "inputWarn": "Please enter the plain text",
+      "searchWarn": "Please enter the legal URL",
+      "fetchError": "Fetch error, Please ensure that the page is accessible",
+      "analyzeError": "Analyze error"
+    },
+    "inputType": {
+      "text": "Text",
+      "file": "File",
+      "web": "Web"
+    },
+    "title": {
+      "text": "Enter the required analysis text content:",
+      "file": "Select the required analysis file:",
+      "web": "Enter the URL of the required analysis page:"
+    },
+    "preview": "Preview:",
+    "search": {
+      "placeholder": "Please enter the website",
+      "enter": "Analyse"
+    },
+    "read_file": "Select file"
+  },
+  "de": {
+    "label": {
+      "total": "Totaler Charakter",
+      "symbolTotal": "Symbol",
+      "wordTotal": "Anzahl der Wörter",
+      "numTotal": "Nummer",
+      "spaceTotal": "Raum",
+      "lineTotal": "Reihen"
+    },
+    "wordTips": {
+      "iTotal": "Chinesische Charaktere:",
+      "eTotal": "Englischer Charakter:",
+      "numTotal": "Nummer:",
+      "orderTotal": "Andere Charaktere:"
+    },
+    "tableHeader": {
+      "titlePre": "Wortschatzdichte: (insgesamt insgesamt",
+      "titleEnd": "Wortschatz)",
+      "wordName": "Wortschatz",
+      "wordTotal": "Frequenz",
+      "proportion": "Frequenzverhältnis",
+      "zh": "Mitte",
+      "en": "Großbritannien"
+    },
+    "message": {
+      "inputWarn": "Bitte geben Sie den Text ein",
+      "searchWarn": "Bitte geben Sie die Compliance -Website ein",
+      "fetchError": "Wenn auf die Anfrage fehlschlägt, stellen Sie bitte sicher, dass auf die Seite zugegriffen werden kann",
+      "analyzeError": "Nichtanalyse"
+    },
+    "inputType": {
+      "text": "Text",
+      "file": "dokumentieren",
+      "web": "Website"
+    },
+    "title": {
+      "text": "Geben Sie den erforderlichen Analysetextinhalt ein:",
+      "file": "Wählen Sie die erforderliche Analysedatei aus:",
+      "web": "Geben Sie die erforderliche Analyse -Webseite URL ein:"
+    },
+    "preview": "Vorschau:",
+    "search": {
+      "placeholder": "Bitte geben Sie die URL ein",
+      "enter": "analysieren"
+    },
+    "read_file": "Datei auswählen"
+  },
+  "es": {
+    "label": {
+      "total": "Carácter total",
+      "symbolTotal": "símbolo",
+      "wordTotal": "Número de palabras",
+      "numTotal": "número",
+      "spaceTotal": "Espacio",
+      "lineTotal": "Hilera"
+    },
+    "wordTips": {
+      "iTotal": "Caracteres chinos:",
+      "eTotal": "Personaje inglés:",
+      "numTotal": "número:",
+      "orderTotal": "Otros personajes:"
+    },
+    "tableHeader": {
+      "titlePre": "Densidad de vocabulario: (total en total",
+      "titleEnd": "Vocabulario)",
+      "wordName": "vocabulario",
+      "wordTotal": "frecuencia",
+      "proportion": "Relación de frecuencia",
+      "zh": "medio",
+      "en": "Bretaña"
+    },
+    "message": {
+      "inputWarn": "Por favor ingrese el texto",
+      "searchWarn": "Ingrese el sitio web de cumplimiento",
+      "fetchError": "Si la solicitud falla, asegúrese de que se pueda acceder a la página",
+      "analyzeError": "No analizar"
+    },
+    "inputType": {
+      "text": "texto",
+      "file": "documento",
+      "web": "Página web"
+    },
+    "title": {
+      "text": "Ingrese el contenido de texto de análisis requerido:",
+      "file": "Seleccione el archivo de análisis requerido:",
+      "web": "Ingrese la URL de la página web de análisis requerido:"
+    },
+    "preview": "Avance:",
+    "search": {
+      "placeholder": "Por favor ingrese la URL",
+      "enter": "analizar"
+    },
+    "read_file": "Seleccionar archivo"
+  },
+  "fr": {
+    "label": {
+      "total": "Caractère total",
+      "symbolTotal": "symbole",
+      "wordTotal": "Nombre de mots",
+      "numTotal": "nombre",
+      "spaceTotal": "Espace",
+      "lineTotal": "Lignes"
+    },
+    "wordTips": {
+      "iTotal": "Caractères chinois:",
+      "eTotal": "Caractère anglais:",
+      "numTotal": "nombre:",
+      "orderTotal": "Autres personnages:"
+    },
+    "tableHeader": {
+      "titlePre": "Densité de vocabulaire: (total au total",
+      "titleEnd": "Vocabulaire)",
+      "wordName": "vocabulaire",
+      "wordTotal": "fréquence",
+      "proportion": "Rapport de fréquence",
+      "zh": "milieu",
+      "en": "Grande-Bretagne"
+    },
+    "message": {
+      "inputWarn": "Veuillez saisir le texte",
+      "searchWarn": "Veuillez saisir le site Web de la conformité",
+      "fetchError": "Si la demande échoue, assurez-vous que la page est accessible",
+      "analyzeError": "Défaut d'analyser"
+    },
+    "inputType": {
+      "text": "texte",
+      "file": "document",
+      "web": "page web"
+    },
+    "title": {
+      "text": "Entrez le contenu du texte d'analyse requis:",
+      "file": "Sélectionnez le fichier d'analyse requis:",
+      "web": "Entrez l'URL de la page Web de l'analyse requise:"
+    },
+    "preview": "Aperçu:",
+    "search": {
+      "placeholder": "Veuillez saisir l'URL",
+      "enter": "analyser"
+    },
+    "read_file": "Sélectionner un fichier"
+  },
+  "it": {
+    "label": {
+      "total": "Carattere totale",
+      "symbolTotal": "simbolo",
+      "wordTotal": "Numero di parole",
+      "numTotal": "numero",
+      "spaceTotal": "Spazio",
+      "lineTotal": "File"
+    },
+    "wordTips": {
+      "iTotal": "Caratteri cinesi:",
+      "eTotal": "Carattere inglese:",
+      "numTotal": "numero:",
+      "orderTotal": "Altri caratteri:"
+    },
+    "tableHeader": {
+      "titlePre": "Densità del vocabolario: (totale in totale",
+      "titleEnd": "Vocabolario)",
+      "wordName": "vocabolario",
+      "wordTotal": "frequenza",
+      "proportion": "Rapporto di frequenza",
+      "zh": "mezzo",
+      "en": "Gran Bretagna"
+    },
+    "message": {
+      "inputWarn": "Inserisci il testo",
+      "searchWarn": "Inserisci il sito Web di conformità",
+      "fetchError": "Se la richiesta non riesce, assicurarsi che sia possibile accedere alla pagina",
+      "analyzeError": "Mancata analizzazione"
+    },
+    "inputType": {
+      "text": "testo",
+      "file": "documento",
+      "web": "pagina web"
+    },
+    "title": {
+      "text": "Immettere il contenuto di testo di analisi richiesto:",
+      "file": "Seleziona il file di analisi richiesto:",
+      "web": "Immettere l'URL della pagina web di analisi richiesta:"
+    },
+    "preview": "Anteprima:",
+    "search": {
+      "placeholder": "Inserisci l'URL",
+      "enter": "analizzare"
+    },
+    "read_file": "Seleziona un file"
+  },
+  "ja": {
+    "label": {
+      "total": "総文字",
+      "symbolTotal": "シンボル",
+      "wordTotal": "言葉の数",
+      "numTotal": "番号",
+      "spaceTotal": "空",
+      "lineTotal": "行"
+    },
+    "wordTips": {
+      "iTotal": "漢字：",
+      "eTotal": "英語のキャラクター：",
+      "numTotal": "番号：",
+      "orderTotal": "その他のキャラクター："
+    },
+    "tableHeader": {
+      "titlePre": "語彙密度：（合計で",
+      "titleEnd": "ボキャブラリー）",
+      "wordName": "ボキャブラリー",
+      "wordTotal": "周波数",
+      "proportion": "周波数比",
+      "zh": "真ん中",
+      "en": "英国"
+    },
+    "message": {
+      "inputWarn": "テキストを入力してください",
+      "searchWarn": "コンプライアンスWebサイトを入力してください",
+      "fetchError": "リクエストが失敗した場合は、ページにアクセスできることを確認してください",
+      "analyzeError": "分析の失敗"
+    },
+    "inputType": {
+      "text": "文章",
+      "file": "書類",
+      "web": "ウェブページ"
+    },
+    "title": {
+      "text": "必要な分析テキストコンテンツを入力してください。",
+      "file": "必要な分析ファイルを選択します。",
+      "web": "必要な分析WebページURLを入力してください。"
+    },
+    "preview": "プレビュー：",
+    "search": {
+      "placeholder": "URLを入力してください",
+      "enter": "分析します"
+    },
+    "read_file": "ファイルを選択します"
+  },
+  "ko": {
+    "label": {
+      "total": "총 캐릭터",
+      "symbolTotal": "상징",
+      "wordTotal": "단어 수",
+      "numTotal": "숫자",
+      "spaceTotal": "공간",
+      "lineTotal": "줄"
+    },
+    "wordTips": {
+      "iTotal": "한자 :",
+      "eTotal": "영어 문자 :",
+      "numTotal": "숫자:",
+      "orderTotal": "기타 캐릭터 :"
+    },
+    "tableHeader": {
+      "titlePre": "어휘 밀도 : (총계",
+      "titleEnd": "어휘)",
+      "wordName": "어휘",
+      "wordTotal": "빈도",
+      "proportion": "주파수 비율",
+      "zh": "가운데",
+      "en": "영국"
+    },
+    "message": {
+      "inputWarn": "텍스트를 입력하십시오",
+      "searchWarn": "준수 웹 사이트를 입력하십시오",
+      "fetchError": "요청이 실패하면 페이지에 액세스 할 수 있는지 확인하십시오.",
+      "analyzeError": "분석하지 못했습니다"
+    },
+    "inputType": {
+      "text": "텍스트",
+      "file": "문서",
+      "web": "웹 페이지"
+    },
+    "title": {
+      "text": "필요한 분석 텍스트 내용을 입력하십시오.",
+      "file": "필요한 분석 파일을 선택하십시오.",
+      "web": "필요한 분석 웹 페이지 URL을 입력하십시오."
+    },
+    "preview": "시사:",
+    "search": {
+      "placeholder": "URL을 입력하십시오",
+      "enter": "분석"
+    },
+    "read_file": "파일 선택"
+  },
+  "pt": {
+    "label": {
+      "total": "Caráter total",
+      "symbolTotal": "símbolo",
+      "wordTotal": "Número de palavras",
+      "numTotal": "número",
+      "spaceTotal": "Espaço",
+      "lineTotal": "Linhas"
+    },
+    "wordTips": {
+      "iTotal": "Caracteres chineses:",
+      "eTotal": "Personagem em inglês:",
+      "numTotal": "número:",
+      "orderTotal": "Outros personagens:"
+    },
+    "tableHeader": {
+      "titlePre": "Densidade do vocabulário: (total no total",
+      "titleEnd": "Vocabulário)",
+      "wordName": "vocabulário",
+      "wordTotal": "frequência",
+      "proportion": "Razão de frequência",
+      "zh": "meio",
+      "en": "Grã -Bretanha"
+    },
+    "message": {
+      "inputWarn": "Por favor, insira o texto",
+      "searchWarn": "Por favor, insira o site de conformidade",
+      "fetchError": "Se a solicitação falhar, verifique se a página pode ser acessada",
+      "analyzeError": "Falha em analisar"
+    },
+    "inputType": {
+      "text": "texto",
+      "file": "documento",
+      "web": "página da Internet"
+    },
+    "title": {
+      "text": "Digite o conteúdo do texto de análise necessário:",
+      "file": "Selecione o arquivo de análise necessário:",
+      "web": "Digite o URL da página da análise de análise necessária:"
+    },
+    "preview": "Visualização:",
+    "search": {
+      "placeholder": "Por favor, insira o URL",
+      "enter": "analisar"
+    },
+    "read_file": "Selecionar arquivo"
+  },
+  "ru": {
+    "label": {
+      "total": "Общий характер",
+      "symbolTotal": "символ",
+      "wordTotal": "Число слов",
+      "numTotal": "число",
+      "spaceTotal": "Космос",
+      "lineTotal": "Ряды"
+    },
+    "wordTips": {
+      "iTotal": "Китайские иероглифы:",
+      "eTotal": "Английский характер:",
+      "numTotal": "число:",
+      "orderTotal": "Другие персонажи:"
+    },
+    "tableHeader": {
+      "titlePre": "Плотность словарного запаса: (общее количество",
+      "titleEnd": "Словарный запас)",
+      "wordName": "словарный запас",
+      "wordTotal": "частота",
+      "proportion": "Коэффициент частоты",
+      "zh": "середина",
+      "en": "Британия"
+    },
+    "message": {
+      "inputWarn": "Пожалуйста, введите текст",
+      "searchWarn": "Пожалуйста, введите веб -сайт соответствия",
+      "fetchError": "Если запрос не удастся, убедитесь, что страница можно получить",
+      "analyzeError": "Неспособность проанализировать"
+    },
+    "inputType": {
+      "text": "текст",
+      "file": "документ",
+      "web": "веб-страница"
+    },
+    "title": {
+      "text": "Введите необходимый анализ текстового содержимого:",
+      "file": "Выберите необходимый файл анализа:",
+      "web": "Введите URL -адрес веб -страницы требуемого анализа:"
+    },
+    "preview": "Предварительный просмотр:",
+    "search": {
+      "placeholder": "Пожалуйста, введите URL",
+      "enter": "анализировать"
+    },
+    "read_file": "Выберите файл"
+  },
+  "zh-tw": {
+    "label": {
+      "total": "總字符",
+      "symbolTotal": "符號",
+      "wordTotal": "字數",
+      "numTotal": "數字",
+      "spaceTotal": "空格",
+      "lineTotal": "行數"
+    },
+    "wordTips": {
+      "iTotal": "中文字符:",
+      "eTotal": "英文字符:",
+      "numTotal": "數字:",
+      "orderTotal": "其他字符:"
+    },
+    "tableHeader": {
+      "titlePre": "詞彙密度: (共計",
+      "titleEnd": "個詞彙)",
+      "wordName": "詞彙",
+      "wordTotal": "次數",
+      "proportion": "頻率佔比",
+      "zh": "中",
+      "en": "英"
+    },
+    "message": {
+      "inputWarn": "請輸入文本",
+      "searchWarn": "請輸入合規網址",
+      "fetchError": "請求失敗，請確保頁面可訪問",
+      "analyzeError": "分析失敗"
+    },
+    "inputType": {
+      "text": "文本",
+      "file": "文件",
+      "web": "網頁"
+    },
+    "title": {
+      "text": "輸入所需分析文本內容:",
+      "file": "選擇所需分析文件:",
+      "web": "輸入所需分析網頁網址:"
+    },
+    "preview": "預覽:",
+    "search": {
+      "placeholder": "請輸入網址",
+      "enter": "分析"
+    },
+    "read_file": "選擇文件"
+  }
+}

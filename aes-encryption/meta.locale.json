@@ -1,0 +1,111 @@
+{
+  "zh": {
+    "$name": "AES 加密",
+    "$description": "AES 加密",
+    "$keywords": [
+      "加密",
+      "对称"
+    ]
+  },
+  "en": {
+    "$name": "AES Encryption",
+    "$description": "AES Encryption",
+    "$keywords": [
+      "aes",
+      "encryption",
+      "encrypt",
+      "symmetric",
+      "256",
+      "192",
+      "128",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923"
+    ]
+  },
+  "de": {
+    "$name": "AES -Verschlüsselung",
+    "$description": "AES -Verschlüsselung",
+    "$keywords": [
+      "Verschlüsselung",
+      "Symmetrie"
+    ]
+  },
+  "es": {
+    "$name": "Cifrado AES",
+    "$description": "Cifrado AES",
+    "$keywords": [
+      "encriptación",
+      "simetría"
+    ]
+  },
+  "fr": {
+    "$name": "Cryptage AES",
+    "$description": "Cryptage AES",
+    "$keywords": [
+      "chiffrement",
+      "symétrie"
+    ]
+  },
+  "it": {
+    "$name": "Crittografia AES",
+    "$description": "Crittografia AES",
+    "$keywords": [
+      "crittografia",
+      "simmetria"
+    ]
+  },
+  "ja": {
+    "$name": "AES暗号化",
+    "$description": "AES暗号化",
+    "$keywords": [
+      "暗号化",
+      "対称"
+    ]
+  },
+  "ko": {
+    "$name": "AES 암호화",
+    "$description": "AES 암호화",
+    "$keywords": [
+      "암호화",
+      "대칭"
+    ]
+  },
+  "pt": {
+    "$name": "Criptografia AES",
+    "$description": "Criptografia AES",
+    "$keywords": [
+      "criptografia",
+      "simetria"
+    ]
+  },
+  "ru": {
+    "$name": "AES шифрование",
+    "$description": "AES шифрование",
+    "$keywords": [
+      "шифрование",
+      "симметрия"
+    ]
+  },
+  "zh-tw": {
+    "$name": "AES 加密",
+    "$description": "AES 加密",
+    "$keywords": [
+      "加密",
+      "對稱"
+    ]
+  },
+  "zh-cn": {
+    "$name": "AES 加密",
+    "$description": "AES 加密",
+    "$keywords": [
+      "加密",
+      "对称"
+    ]
+  }
+}

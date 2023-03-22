@@ -1,0 +1,123 @@
+{
+  "en": {
+    "$name": "Source Complement Anticode Calculator",
+    "$description": "Applicable to the calculation of the original code, inverse code and complement code of decimal, hexadecimal and binary values.",
+    "$keywords": [
+      "source",
+      "convert",
+      "complement",
+      "anticode",
+      "calculator"
+    ]
+  },
+  "zh-cn": {
+    "$name": "源补反码计算器",
+    "$description": "适用于十进制、十六进制、二进制数值的原码、反码、补码的计算。",
+    "$keywords": [
+      "来源",
+      "转变",
+      "补充",
+      "反代码",
+      "计算器"
+    ]
+  },
+  "zh-tw": {
+    "$name": "源補反碼計算器",
+    "$description": "適用於十進制、十六進制、二進制數值的原碼、反碼、補碼的計算。",
+    "$keywords": [
+      "來源",
+      "轉變",
+      "補充",
+      "反代碼",
+      "計算器"
+    ]
+  },
+  "es": {
+    "$name": "Calculadora de Anticódigo de Complemento de Fuente",
+    "$description": "Aplicable al cálculo del código original, código inverso y código complemento de valores decimales, hexadecimales y binarios.",
+    "$keywords": [
+      "fuente",
+      "convertir",
+      "complementar",
+      "anticódigo",
+      "calculadora"
+    ]
+  },
+  "pt": {
+    "$name": "Calculadora Anticódigo de Complemento de Fonte",
+    "$description": "Aplicável ao cálculo do código original, código inverso e código complementar de valores decimais, hexadecimais e binários.",
+    "$keywords": [
+      "fonte",
+      "converter",
+      "complemento",
+      "anticódigo",
+      "calculadora"
+    ]
+  },
+  "it": {
+    "$name": "Calcolatrice dell'anticode del complemento sorgente",
+    "$description": "Applicabile al calcolo del codice originale, codice inverso e codice complemento di valori decimali, esadecimali e binari.",
+    "$keywords": [
+      "fonte",
+      "convertire",
+      "complemento",
+      "anticode",
+      "calcolatrice"
+    ]
+  },
+  "ru": {
+    "$name": "Калькулятор исходного комплементарного антикода",
+    "$description": "Применяется для расчета исходного кода, обратного кода и дополнительного кода десятичных, шестнадцатеричных и двоичных значений.",
+    "$keywords": [
+      "источник",
+      "конвертировать",
+      "дополнять",
+      "антикод",
+      "калькулятор"
+    ]
+  },
+  "de": {
+    "$name": "Source Complement Anticode-Rechner",
+    "$description": "Anwendbar für die Berechnung des Originalcodes, Inverscodes und Komplementcodes von Dezimal-, Hexadezimal- und Binärwerten.",
+    "$keywords": [
+      "Quelle",
+      "Konvertieren",
+      "ergänzen",
+      "Anticode",
+      "Taschenrechner"
+    ]
+  },
+  "fr": {
+    "$name": "Calculateur d'anticode de complément de source",
+    "$description": "Applicable au calcul du code original, du code inverse et du code complément des valeurs décimales, hexadécimales et binaires.",
+    "$keywords": [
+      "source",
+      "convertir",
+      "complément",
+      "anticode",
+      "calculatrice"
+    ]
+  },
+  "ja": {
+    "$name": "ソース補完アンチコード計算機",
+    "$description": "10 進数、16 進数、2 進数値の原符号、逆符号、補数符号の計算に適用できます。",
+    "$keywords": [
+      "ソース",
+      "変換",
+      "補体",
+      "アンチコード",
+      "電卓"
+    ]
+  },
+  "ko": {
+    "$name": "소스 보완 안티코드 계산기",
+    "$description": "10진수, 16진수 및 2진수 값의 원래 코드, 역 코드 및 보완 코드의 계산에 적용할 수 있습니다.",
+    "$keywords": [
+      "원천",
+      "전환하다",
+      "보어",
+      "안티코드",
+      "계산자"
+    ]
+  }
+}

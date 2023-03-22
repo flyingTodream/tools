@@ -1,0 +1,90 @@
+{
+    "zh": {
+      "$name": "VPC Planner",
+      "$description": "VPC Planner",
+      "$keywords": [
+        "子网"
+      ]
+    },
+    "en": {
+      "$name": "VPC Planner",
+      "$description": "VPC Planner",
+      "$keywords": [
+        "vpc",
+        "planner",
+        "network",
+        "subnet",
+        "cidr"
+      ]
+    },
+    "de": {
+      "$name": "VPC -Planer",
+      "$description": "VPC -Planer",
+      "$keywords": [
+        "Sub -Network"
+      ]
+    },
+    "es": {
+      "$name": "Planificador de vpc",
+      "$description": "Planificador de vpc",
+      "$keywords": [
+        "Sub -network"
+      ]
+    },
+    "fr": {
+      "$name": "Planificateur VPC",
+      "$description": "Planificateur VPC",
+      "$keywords": [
+        "Sous-réseau"
+      ]
+    },
+    "it": {
+      "$name": "Pianificatore VPC",
+      "$description": "Pianificatore VPC",
+      "$keywords": [
+        "Sub -network"
+      ]
+    },
+    "ja": {
+      "$name": "VPCプランナー",
+      "$description": "VPCプランナー",
+      "$keywords": [
+        "サブネットワーク"
+      ]
+    },
+    "ko": {
+      "$name": "VPC 플래너",
+      "$description": "VPC 플래너",
+      "$keywords": [
+        "서브 네트워크"
+      ]
+    },
+    "pt": {
+      "$name": "Planejador VPC",
+      "$description": "Planejador VPC",
+      "$keywords": [
+        "Sub -Network"
+      ]
+    },
+    "ru": {
+      "$name": "VPC Planner",
+      "$description": "VPC Planner",
+      "$keywords": [
+        "Суб -сеть"
+      ]
+    },
+    "zh-tw": {
+      "$name": "VPC Planner",
+      "$description": "VPC Planner",
+      "$keywords": [
+        "子網"
+      ]
+    },
+    "zh-cn": {
+      "$name": "VPC Planner",
+      "$description": "VPC Planner",
+      "$keywords": [
+        "子网"
+      ]
+    }
+  }

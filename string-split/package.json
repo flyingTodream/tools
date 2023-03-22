@@ -1,0 +1,39 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish"
+  },
+  "he3": {
+    "name": "String Split",
+    "id": "string-split",
+    "icon": "key-outlined",
+    "version": "0.0.6",
+    "description": "Realize text segmentation according to specified symbols",
+    "isPublic": true,
+    "category": [
+      "text"
+    ],
+    "keywords": [
+      "string",
+      "split",
+      "text",
+      "array"
+    ],
+    "repository": "https://github.com/he3-app/tools.git"
+  },
+  "dependencies": {
+    "@types/crypto-js": "^4.1.1",
+    "crypto-js": "^4.1.1",
+    "unescape-js": "^1.1.4",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

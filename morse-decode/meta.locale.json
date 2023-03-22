@@ -1,0 +1,109 @@
+{
+    "zh": {
+      "$name": "摩斯密码解码",
+      "$description": "摩斯密码解码",
+      "$keywords": [
+        "摩斯密码",
+        "解码",
+        "摩斯"
+      ]
+    },
+    "en": {
+      "$name": "morse-decode",
+      "$description": "morse-decode",
+      "$keywords": [
+        "morse",
+        "decode"
+      ]
+    },
+    "de": {
+      "$name": "MOSTER -Kennwort -Dekodierung",
+      "$description": "MOSTER -Kennwort -Dekodierung",
+      "$keywords": [
+        "Mosaik Passwort",
+        "Dekodierung",
+        "Mosaik"
+      ]
+    },
+    "es": {
+      "$name": "Decodificación de contraseña de Moster",
+      "$description": "Decodificación de contraseña de Moster",
+      "$keywords": [
+        "Contraseña de mosaico",
+        "descodificación",
+        "Mosaico"
+      ]
+    },
+    "fr": {
+      "$name": "Décodage de mot de passe",
+      "$description": "Décodage de mot de passe",
+      "$keywords": [
+        "Mot de passe mosaïque",
+        "décodage",
+        "Mosaïque"
+      ]
+    },
+    "it": {
+      "$name": "Moster Password Decodifica",
+      "$description": "Moster Password Decodifica",
+      "$keywords": [
+        "Password a mosaico",
+        "decodifica",
+        "Mosaico"
+      ]
+    },
+    "ja": {
+      "$name": "モスターパスワードデコード",
+      "$description": "モスターパスワードデコード",
+      "$keywords": [
+        "モザイクパスワード",
+        "デコード",
+        "モザイク"
+      ]
+    },
+    "ko": {
+      "$name": "Moster 암호 디코딩",
+      "$description": "Moster 암호 디코딩",
+      "$keywords": [
+        "모자이크 비밀번호",
+        "디코딩",
+        "모자이크"
+      ]
+    },
+    "pt": {
+      "$name": "Decodificação de senha do Moster",
+      "$description": "Decodificação de senha do Moster",
+      "$keywords": [
+        "Senha em mosaico",
+        "decodificação",
+        "Mosaico"
+      ]
+    },
+    "ru": {
+      "$name": "Декодирование пароля Moster",
+      "$description": "Декодирование пароля Moster",
+      "$keywords": [
+        "Мозаичный пароль",
+        "декодирование",
+        "Мозаика"
+      ]
+    },
+    "zh-tw": {
+      "$name": "摩斯密碼解碼",
+      "$description": "摩斯密碼解碼",
+      "$keywords": [
+        "摩斯密碼",
+        "解碼",
+        "摩斯"
+      ]
+    },
+    "zh-cn": {
+      "$name": "摩斯密码解码",
+      "$description": "摩斯密码解码",
+      "$keywords": [
+        "摩斯密码",
+        "解码",
+        "摩斯"
+      ]
+    }
+  }

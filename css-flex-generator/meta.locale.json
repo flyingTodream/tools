@@ -1,0 +1,82 @@
+{
+  "en": {
+    "$name": "CSS Flex Generator",
+    "$description": "CSS Flex layout preview and generate",
+    "$keywords": [
+      "web"
+    ]
+  },
+  "pt": {
+    "$name": "Gerador Flex CSS",
+    "$description": "Pré-visualização e geração do layout CSS Flex",
+    "$keywords": [
+      "rede"
+    ]
+  },
+  "fr": {
+    "$name": "Générateur CSS Flex",
+    "$description": "Aperçu et génération de la mise en page CSS Flex",
+    "$keywords": [
+      "la toile"
+    ]
+  },
+  "it": {
+    "$name": "Generatore flessibile CSS",
+    "$description": "Anteprima e generazione del layout CSS Flex",
+    "$keywords": [
+      "ragnatela"
+    ]
+  },
+  "zh-tw": {
+    "$name": "CSS Flex 生成器",
+    "$description": "預覽和生成 CSS Flex 佈局",
+    "$keywords": [
+      "網絡",
+      "样式",
+      "生成",
+      "预览"
+    ]
+  },
+  "zh-cn": {
+    "$name": "CSS Flex 生成器",
+    "$description": "预览和生成 CSS Flex 布局",
+    "$keywords": [
+      "网络"
+    ]
+  },
+  "ru": {
+    "$name": "Генератор CSS Flex",
+    "$description": "Предварительный просмотр и создание макета CSS Flex",
+    "$keywords": [
+      "сеть"
+    ]
+  },
+  "de": {
+    "$name": "CSS-Flex-Generator",
+    "$description": "Vorschau und Generierung des CSS Flex-Layouts",
+    "$keywords": [
+      "Netz"
+    ]
+  },
+  "es": {
+    "$name": "Generador flexible de CSS",
+    "$description": "Vista previa y generación del diseño CSS Flex",
+    "$keywords": [
+      "web"
+    ]
+  },
+  "ja": {
+    "$name": "CSS Flex ジェネレーター",
+    "$description": "CSS Flex レイアウトのプレビューと生成",
+    "$keywords": [
+      "ウェブ"
+    ]
+  },
+  "ko": {
+    "$name": "CSS 플렉스 생성기",
+    "$description": "CSS Flex 레이아웃 미리보기 및 생성",
+    "$keywords": [
+      "편물"
+    ]
+  }
+}

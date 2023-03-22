@@ -1,0 +1,46 @@
+{
+  "zh": {
+    "editingHosts": "正在编辑文件：",
+    "apply": "应用"
+  },
+  "en": {
+    "editingHosts": "Editing hosts file:",
+    "apply": "Apply"
+  },
+  "de": {
+    "editingHosts": "Datei bearbeiten:",
+    "apply": "Anwendung"
+  },
+  "es": {
+    "editingHosts": "Editar archivo:",
+    "apply": "solicitud"
+  },
+  "fr": {
+    "editingHosts": "Modifier le fichier:",
+    "apply": "application"
+  },
+  "it": {
+    "editingHosts": "Modifica file:",
+    "apply": "applicazione"
+  },
+  "ja": {
+    "editingHosts": "編集ファイル：",
+    "apply": "応用"
+  },
+  "ko": {
+    "editingHosts": "파일 편집 :",
+    "apply": "애플리케이션"
+  },
+  "pt": {
+    "editingHosts": "Editar Arquivo:",
+    "apply": "aplicativo"
+  },
+  "ru": {
+    "editingHosts": "Редактировать файл:",
+    "apply": "приложение"
+  },
+  "zh-tw": {
+    "editingHosts": "正在編輯文件：",
+    "apply": "應用"
+  }
+}

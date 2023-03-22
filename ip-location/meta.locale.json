@@ -1,0 +1,110 @@
+{
+    "zh": {
+      "$name": "查询 IP 地址",
+      "$description": "查询 IP 地址",
+      "$keywords": [
+        "位置",
+        "查询",
+        "归属地"
+      ]
+    },
+    "en": {
+      "$name": "IP Location",
+      "$description": "IP Location",
+      "$keywords": [
+        "location",
+        "ip",
+        "place"
+      ]
+    },
+    "de": {
+      "$name": "IP -Adresse abfragen",
+      "$description": "IP -Adresse abfragen",
+      "$keywords": [
+        "Standort",
+        "Anfragen",
+        "Zugehörigkeit"
+      ]
+    },
+    "es": {
+      "$name": "Consulta dirección IP",
+      "$description": "Consulta dirección IP",
+      "$keywords": [
+        "Ubicación",
+        "Preguntar",
+        "Perteneciente"
+      ]
+    },
+    "fr": {
+      "$name": "Requête l'adresse IP",
+      "$description": "Requête l'adresse IP",
+      "$keywords": [
+        "Emplacement",
+        "Renseigner",
+        "Qui appartiennent"
+      ]
+    },
+    "it": {
+      "$name": "Indirizzo IP query",
+      "$description": "Indirizzo IP query",
+      "$keywords": [
+        "Posizione",
+        "Chiedere informazioni",
+        "Appartenente"
+      ]
+    },
+    "ja": {
+      "$name": "IPアドレスをクエリします",
+      "$description": "IPアドレスをクエリします",
+      "$keywords": [
+        "位置",
+        "お問い合わせください",
+        "所属"
+      ]
+    },
+    "ko": {
+      "$name": "쿼리 IP 주소",
+      "$description": "쿼리 IP 주소",
+      "$keywords": [
+        "위치",
+        "문의",
+        "귀속"
+      ]
+    },
+    "pt": {
+      "$name": "Consulta Endereço IP",
+      "$description": "Consulta Endereço IP",
+      "$keywords": [
+        "Localização",
+        "Investigar",
+        "Pertencente"
+      ]
+    },
+    "ru": {
+      "$name": "Запрос IP -адрес",
+      "$description": "Запрос IP -адрес",
+      "$keywords": [
+        "Расположение",
+        "Запросить",
+        "Принадлежащий"
+      ]
+    },
+    "zh-tw": {
+      "$name": "查詢 IP 地址",
+      "$description": "查詢 IP 地址",
+      "$keywords": [
+        "位置",
+        "查詢",
+        "歸屬地"
+      ]
+    },
+    "zh-cn": {
+      "$name": "查询 IP 地址",
+      "$description": "查询 IP 地址",
+      "$keywords": [
+        "位置",
+        "查询",
+        "归属地"
+      ]
+    }
+  }

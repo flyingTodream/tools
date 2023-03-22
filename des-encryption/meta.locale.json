@@ -1,0 +1,108 @@
+{
+  "zh": {
+    "$name": "DES 加密",
+    "$description": "DES 加密",
+    "$keywords": [
+      "加密",
+      "对称"
+    ]
+  },
+  "en": {
+    "$name": "DES Encryption",
+    "$description": "DES Encryption",
+    "$keywords": [
+      "des",
+      "encryption",
+      "encrypt",
+      "symmetric",
+      "cbc",
+      "ecb",
+      "cfb",
+      "ctr",
+      "ofb",
+      "pkcs7",
+      "iso10126",
+      "ansix923"
+    ]
+  },
+  "de": {
+    "$name": "Des verschlüsselt",
+    "$description": "Des verschlüsselt",
+    "$keywords": [
+      "Verschlüsselung",
+      "Symmetrie"
+    ]
+  },
+  "es": {
+    "$name": "Des encriptado",
+    "$description": "Des encriptado",
+    "$keywords": [
+      "encriptación",
+      "simetría"
+    ]
+  },
+  "fr": {
+    "$name": "Des crypte",
+    "$description": "Des crypte",
+    "$keywords": [
+      "chiffrement",
+      "symétrie"
+    ]
+  },
+  "it": {
+    "$name": "Des crittografato",
+    "$description": "Des crittografato",
+    "$keywords": [
+      "crittografia",
+      "simmetria"
+    ]
+  },
+  "ja": {
+    "$name": "暗号化されています",
+    "$description": "暗号化されています",
+    "$keywords": [
+      "暗号化",
+      "対称"
+    ]
+  },
+  "ko": {
+    "$name": "암호화",
+    "$description": "암호화",
+    "$keywords": [
+      "암호화",
+      "대칭"
+    ]
+  },
+  "pt": {
+    "$name": "Des criptografado",
+    "$description": "Des criptografado",
+    "$keywords": [
+      "criptografia",
+      "simetria"
+    ]
+  },
+  "ru": {
+    "$name": "Des зашифровано",
+    "$description": "Des зашифровано",
+    "$keywords": [
+      "шифрование",
+      "симметрия"
+    ]
+  },
+  "zh-tw": {
+    "$name": "DES 加密",
+    "$description": "DES 加密",
+    "$keywords": [
+      "加密",
+      "對稱"
+    ]
+  },
+  "zh-cn": {
+    "$name": "DES 加密",
+    "$description": "DES 加密",
+    "$keywords": [
+      "加密",
+      "对称"
+    ]
+  }
+}

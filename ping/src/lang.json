@@ -1,0 +1,35 @@
+{
+  "zh": {
+    "validAddressError": "请输入有效的域名或 IP 地址"
+  },
+  "en": {
+    "validAddressError": "Please enter a valid domain or IP address"
+  },
+  "de": {
+    "validAddressError": "Bitte geben Sie den gültigen Domänennamen oder die IP -Adresse ein"
+  },
+  "es": {
+    "validAddressError": "Ingrese el nombre de dominio válido o la dirección IP"
+  },
+  "fr": {
+    "validAddressError": "Veuillez saisir le nom de domaine valide ou l'adresse IP"
+  },
+  "it": {
+    "validAddressError": "Immettere il nome di dominio valido o l'indirizzo IP"
+  },
+  "ja": {
+    "validAddressError": "有効なドメイン名またはIPアドレスを入力してください"
+  },
+  "ko": {
+    "validAddressError": "유효한 도메인 이름 또는 IP 주소를 입력하십시오"
+  },
+  "pt": {
+    "validAddressError": "Por favor, insira o nome de domínio válido ou o endereço IP"
+  },
+  "ru": {
+    "validAddressError": "Пожалуйста, введите действительное доменное имя или IP -адрес"
+  },
+  "zh-tw": {
+    "validAddressError": "請輸入有效的域名或 IP 地址"
+  }
+}

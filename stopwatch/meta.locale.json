@@ -1,0 +1,99 @@
+{
+  "zh": {
+    "$name": "秒表",
+    "$description": "秒表",
+    "$keywords": [
+      "秒表",
+      "计时器"
+    ]
+  },
+  "en": {
+    "$name": "Stopwatch",
+    "$description": "Stopwatch",
+    "$keywords": [
+      "stopwatch",
+      "timer",
+      "time"
+    ]
+  },
+  "de": {
+    "$name": "Sekundäre Uhr",
+    "$description": "Sekundäre Uhr",
+    "$keywords": [
+      "Sekundäre Uhr",
+      "Timer"
+    ]
+  },
+  "es": {
+    "$name": "Reloj secundario",
+    "$description": "Reloj secundario",
+    "$keywords": [
+      "Reloj secundario",
+      "Temporizador"
+    ]
+  },
+  "fr": {
+    "$name": "Montre secondaire",
+    "$description": "Montre secondaire",
+    "$keywords": [
+      "Montre secondaire",
+      "Minuteur"
+    ]
+  },
+  "it": {
+    "$name": "Orologio secondario",
+    "$description": "Orologio secondario",
+    "$keywords": [
+      "Orologio secondario",
+      "Timer"
+    ]
+  },
+  "ja": {
+    "$name": "二次監視",
+    "$description": "二次監視",
+    "$keywords": [
+      "二次監視",
+      "タイマー"
+    ]
+  },
+  "ko": {
+    "$name": "보조 시계",
+    "$description": "보조 시계",
+    "$keywords": [
+      "보조 시계",
+      "시간제 노동자"
+    ]
+  },
+  "pt": {
+    "$name": "Relógio secundário",
+    "$description": "Relógio secundário",
+    "$keywords": [
+      "Relógio secundário",
+      "Cronômetro"
+    ]
+  },
+  "ru": {
+    "$name": "Вторичные часы",
+    "$description": "Вторичные часы",
+    "$keywords": [
+      "Вторичные часы",
+      "Таймер"
+    ]
+  },
+  "zh-tw": {
+    "$name": "秒錶",
+    "$description": "秒錶",
+    "$keywords": [
+      "秒錶",
+      "計時器"
+    ]
+  },
+  "zh-cn": {
+    "$name": "秒表",
+    "$description": "秒表",
+    "$keywords": [
+      "秒表",
+      "计时器"
+    ]
+  }
+}

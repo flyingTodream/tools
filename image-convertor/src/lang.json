@@ -1,0 +1,56 @@
+{
+  "zh": {
+    "converter": "转换",
+    "imageChoose": "请选择一张图片",
+    "imageError": "图片处理异常"
+  },
+  "en": {
+    "converter": "convert",
+    "imageError": "Image processing exception"
+  },
+  "de": {
+    "converter": "Konvertieren",
+    "imageChoose": "Bitte wählen Sie ein Bild aus",
+    "imageError": "Bildverarbeitung abnormal"
+  },
+  "es": {
+    "converter": "Convertir",
+    "imageChoose": "Seleccione una imagen",
+    "imageError": "Procesamiento de imágenes anormal"
+  },
+  "fr": {
+    "converter": "Convertir",
+    "imageChoose": "Veuillez sélectionner une image",
+    "imageError": "Traitement d'images anormal"
+  },
+  "it": {
+    "converter": "Convertire",
+    "imageChoose": "Seleziona un'immagine",
+    "imageError": "Elaborazione dell'immagine anormale"
+  },
+  "ja": {
+    "converter": "変換",
+    "imageChoose": "写真を選択してください",
+    "imageError": "画像処理異常"
+  },
+  "ko": {
+    "converter": "전환하다",
+    "imageChoose": "사진을 선택하십시오",
+    "imageError": "그림 처리 비정상"
+  },
+  "pt": {
+    "converter": "Converter",
+    "imageChoose": "Selecione uma foto",
+    "imageError": "Processamento de imagem anormal"
+  },
+  "ru": {
+    "converter": "Конвертировать",
+    "imageChoose": "Пожалуйста, выберите изображение",
+    "imageError": "Обработка изображения ненормальная"
+  },
+  "zh-tw": {
+    "converter": "轉換",
+    "imageChoose": "請選擇一張圖片",
+    "imageError": "圖片處理異常"
+  }
+}

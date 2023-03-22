@@ -1,0 +1,98 @@
+{
+  "zh": {
+    "$name": "文本去重",
+    "$description": "将重复文本去除",
+    "$keywords": [
+      "去重",
+      "文本"
+    ]
+  },
+  "en": {
+    "$name": "Text Deduplication",
+    "$description": "Remove duplicate text",
+    "$keywords": [
+      "text",
+      "deplication"
+    ]
+  },
+  "de": {
+    "$name": "Text um schwer zu sein",
+    "$description": "Wiederholen Sie den Text",
+    "$keywords": [
+      "Schwer gehen",
+      "Text"
+    ]
+  },
+  "es": {
+    "$name": "Texto para ser pesado",
+    "$description": "Repita el texto",
+    "$keywords": [
+      "Ser pesado",
+      "texto"
+    ]
+  },
+  "fr": {
+    "$name": "Texte pour être lourd",
+    "$description": "Répéter le texte",
+    "$keywords": [
+      "Se laver",
+      "texte"
+    ]
+  },
+  "it": {
+    "$name": "Testo per essere pesante",
+    "$description": "Ripeti il ​​testo",
+    "$keywords": [
+      "Vai pesante",
+      "testo"
+    ]
+  },
+  "ja": {
+    "$name": "重いテキスト",
+    "$description": "テキストを繰り返します",
+    "$keywords": [
+      "重くなる",
+      "文章"
+    ]
+  },
+  "ko": {
+    "$name": "무거워지는 텍스트",
+    "$description": "텍스트를 반복하십시오",
+    "$keywords": [
+      "무거워",
+      "텍스트"
+    ]
+  },
+  "pt": {
+    "$name": "Texto para ser pesado",
+    "$description": "Repita o texto",
+    "$keywords": [
+      "Vá pesado",
+      "texto"
+    ]
+  },
+  "ru": {
+    "$name": "Текст, чтобы быть тяжелым",
+    "$description": "Повторите текст",
+    "$keywords": [
+      "Идти тяжелым",
+      "текст"
+    ]
+  },
+  "zh-tw": {
+    "$name": "文本去重",
+    "$description": "將重複文本去除",
+    "$keywords": [
+      "去重",
+      "文本"
+    ]
+  },
+  "zh-cn": {
+    "$name": "文本去重",
+    "$description": "将重复文本去除",
+    "$keywords": [
+      "去重",
+      "文本"
+    ]
+  }
+}

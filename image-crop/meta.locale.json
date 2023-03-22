@@ -1,0 +1,149 @@
+{
+  "zh": {
+    "$name": "图片裁剪",
+    "$description": "对一个图片进行裁剪",
+    "$keywords": [
+      "裁剪",
+      "截取",
+      "图片",
+      "图像",
+      "照片",
+      "图"
+    ]
+  },
+  "en": {
+    "$name": "Image Crop",
+    "$description": "Crop a Image",
+    "$keywords": [
+      "crop",
+      "image",
+      "pic",
+      "picture",
+      "photo",
+      "png",
+      "jpg",
+      "jpeg",
+      "webp"
+    ]
+  },
+  "de": {
+    "$name": "Bildschnitt",
+    "$description": "Ein Bild schneiden",
+    "$keywords": [
+      "Abgeschnitten",
+      "Abfangen",
+      "Bild",
+      "Bild",
+      "Foto",
+      "Bild"
+    ]
+  },
+  "es": {
+    "$name": "Corte de imágenes",
+    "$description": "Cortar una imagen",
+    "$keywords": [
+      "Cortar",
+      "Interceptar",
+      "imagen",
+      "imagen",
+      "foto",
+      "imagen"
+    ]
+  },
+  "fr": {
+    "$name": "Coupe d'image",
+    "$description": "Couper une photo",
+    "$keywords": [
+      "Couper",
+      "Intercepter",
+      "image",
+      "image",
+      "photo",
+      "image"
+    ]
+  },
+  "it": {
+    "$name": "Taglio dell'immagine",
+    "$description": "Taglia una foto",
+    "$keywords": [
+      "Tagliare",
+      "Intercettare",
+      "immagine",
+      "Immagine",
+      "foto",
+      "immagine"
+    ]
+  },
+  "ja": {
+    "$name": "画像切断",
+    "$description": "写真を切ります",
+    "$keywords": [
+      "切り落とす",
+      "インターセプト",
+      "写真",
+      "画像",
+      "写真",
+      "写真"
+    ]
+  },
+  "ko": {
+    "$name": "이미지 절단",
+    "$description": "사진을 자릅니다",
+    "$keywords": [
+      "끊다",
+      "인터셉트",
+      "그림",
+      "영상",
+      "사진",
+      "그림"
+    ]
+  },
+  "pt": {
+    "$name": "Corte de imagem",
+    "$description": "Corte uma imagem",
+    "$keywords": [
+      "Cortar",
+      "Interceptar",
+      "foto",
+      "imagem",
+      "foto",
+      "foto"
+    ]
+  },
+  "ru": {
+    "$name": "Резка изображения",
+    "$description": "Вырежьте картинку",
+    "$keywords": [
+      "Отрезать",
+      "Перехват",
+      "картина",
+      "изображение",
+      "Фото",
+      "картина"
+    ]
+  },
+  "zh-tw": {
+    "$name": "圖片裁剪",
+    "$description": "對一個圖片進行裁剪",
+    "$keywords": [
+      "裁剪",
+      "截取",
+      "圖片",
+      "圖像",
+      "照片",
+      "圖"
+    ]
+  },
+  "zh-cn": {
+    "$name": "图片裁剪",
+    "$description": "对一个图片进行裁剪",
+    "$keywords": [
+      "裁剪",
+      "截取",
+      "图片",
+      "图像",
+      "照片",
+      "图"
+    ]
+  }
+}

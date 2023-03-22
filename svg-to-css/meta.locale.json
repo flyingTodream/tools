@@ -1,0 +1,99 @@
+{
+    "zh": {
+      "$name": "SVG 转 CSS",
+      "$description": "将 SVG 转化为 CSS",
+      "$keywords": [
+        "转化",
+        " 转换"
+      ]
+    },
+    "en": {
+      "$name": "SVG To CSS",
+      "$description": "Convert SVG To CSS",
+      "$keywords": [
+        "svg",
+        "convert",
+        "css"
+      ]
+    },
+    "de": {
+      "$name": "SVG zu CSS",
+      "$description": "SVG in CSS konvertieren",
+      "$keywords": [
+        "Verwandeln",
+        "Konvertieren"
+      ]
+    },
+    "es": {
+      "$name": "SVG a CSS",
+      "$description": "Convertir SVG a CSS",
+      "$keywords": [
+        "Transformar",
+        "Convertir"
+      ]
+    },
+    "fr": {
+      "$name": "SVG à CSS",
+      "$description": "Convertir SVG en CSS",
+      "$keywords": [
+        "Transformer",
+        "Convertir"
+      ]
+    },
+    "it": {
+      "$name": "SVG a CSS",
+      "$description": "Converti SVG in CSS",
+      "$keywords": [
+        "Trasformare",
+        "Convertire"
+      ]
+    },
+    "ja": {
+      "$name": "SVGからCSS",
+      "$description": "SVGをCSSに変換します",
+      "$keywords": [
+        "変身",
+        "変換"
+      ]
+    },
+    "ko": {
+      "$name": "CSS에 대한 SVG",
+      "$description": "SVG를 CSS로 변환하십시오",
+      "$keywords": [
+        "변환",
+        "전환하다"
+      ]
+    },
+    "pt": {
+      "$name": "SVG para CSS",
+      "$description": "Converta SVG em CSS",
+      "$keywords": [
+        "Transformar",
+        "Converter"
+      ]
+    },
+    "ru": {
+      "$name": "SVG в CSS",
+      "$description": "Преобразовать SVG в CSS",
+      "$keywords": [
+        "Преобразование",
+        "Конвертировать"
+      ]
+    },
+    "zh-tw": {
+      "$name": "SVG 轉 CSS",
+      "$description": "將 SVG 轉化為 CSS",
+      "$keywords": [
+        "轉化",
+        "轉換"
+      ]
+    },
+    "zh-cn": {
+      "$name": "SVG 转 CSS",
+      "$description": "将 SVG 转化为 CSS",
+      "$keywords": [
+        "转化",
+        " 转换"
+      ]
+    }
+  }

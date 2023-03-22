@@ -1,0 +1,38 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "he3 dev",
+    "i18n": "he3 i18n",
+    "publish": "he3 publish"
+  },
+  "he3": {
+    "name": "Source Complement Anticode Calculator",
+    "id": "source-complement-anticode-calculator",
+    "icon": "plus-circle-outlined",
+    "version": "0.0.1",
+    "description": "Applicable to the calculation of the original code, inverse code and complement code of decimal, hexadecimal and binary values.",
+    "isPublic": true,
+    "category": [
+      "programming"
+    ],
+    "keywords": [
+      "source",
+      "convert",
+      "complement",
+      "anticode",
+      "calculator"
+    ],
+    "repository": "https://github.com/he3-app/tools.git"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "vue": "^3.2.45",
+    "vue-i18n": "^9.2.2"
+  },
+  "devDependencies": {
+    "@he3-kit/cli": "latest",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "vite": "^4.0.0"
+  }
+}

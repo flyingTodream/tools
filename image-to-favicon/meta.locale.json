@@ -1,0 +1,93 @@
+{
+  "zh": {
+    "$name": "Favicon 生成器",
+    "$description": "将图片转换成 favicon",
+    "$keywords": ["图标", "转换", "图片", "图像", "照片", "图"]
+  },
+  "en": {
+    "$name": "Image To Favicon",
+    "$description": "image transform to favicon",
+    "$keywords": [
+      "favicon",
+      "ico",
+      "image",
+      "icon",
+      "image",
+      "pic",
+      "picture",
+      "photo",
+      "16x16",
+      "32x32",
+      "64x64",
+      "96x96",
+      "128x128",
+      "256x256",
+      "512x512",
+      "1024x1024"
+    ]
+  },
+  "de": {
+    "$name": "Image To Favicon",
+    "$description": "image transform to favicon",
+    "$keywords": ["Symbol", "Konvertieren", "Bild", "Bild", "Foto", "Bild"]
+  },
+  "es": {
+    "$name": "Image To Favicon",
+    "$description": "image transform to favicon",
+    "$keywords": ["icono", "Convertir", "imagen", "imagen", "foto", "imagen"]
+  },
+  "fr": {
+    "$name": "Image To Favicon",
+    "$description": "image transform to favicon",
+    "$keywords": ["icône", "Convertir", "image", "image", "photo", "image"]
+  },
+  "it": {
+    "$name": "Image To Favicon",
+    "$description": "image transform to favicon",
+    "$keywords": [
+      "icona",
+      "Convertire",
+      "immagine",
+      "Immagine",
+      "foto",
+      "immagine"
+    ]
+  },
+  "ja": {
+    "$name": "Image To Favicon",
+    "$description": "image transform to favicon",
+    "$keywords": ["アイコン", "変換", "写真", "画像", "写真", "写真"]
+  },
+  "ko": {
+    "$name": "Image To Favicon",
+    "$description": "image transform to favicon",
+    "$keywords": ["상", "전환하다", "그림", "영상", "사진", "그림"]
+  },
+  "pt": {
+    "$name": "Image To Favicon",
+    "$description": "image transform to favicon",
+    "$keywords": ["ícone", "Converter", "foto", "imagem", "foto", "foto"]
+  },
+  "ru": {
+    "$name": "Image To Favicon",
+    "$description": "image transform to favicon",
+    "$keywords": [
+      "икона",
+      "Конвертировать",
+      "картина",
+      "изображение",
+      "Фото",
+      "картина"
+    ]
+  },
+  "zh-tw": {
+    "$name": "Favicon 生成器",
+    "$description": "將圖片轉換成 favicon",
+    "$keywords": ["圖標", "轉換", "圖片", "圖像", "照片", "圖"]
+  },
+  "zh-cn": {
+    "$name": "Favicon 生成器",
+    "$description": "将图片转换成 favicon",
+    "$keywords": ["图标", "转换", "图片", "图像", "照片", "图"]
+  }
+}
