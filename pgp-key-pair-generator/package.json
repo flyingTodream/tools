@@ -29,7 +29,7 @@
     ]
   },
   "dependencies": {
-    "openpgp": "^5.7.0",
+    "openpgp": "^5.10.1",
     "vue": "^3.2.45",
     "vue-i18n": "^9.2.2"
   },
